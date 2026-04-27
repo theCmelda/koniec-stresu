@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: 3T6MJL-wiFY
 videoTitle: "Krátka prax: 2-minútový reset cez dych"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["fyziologický vzdych", "physiological sigh slovensky", "dychová technika Huberman", "rýchle upokojenie dychom"]
 transformation: 'okamžitý reset nervovej sústavy v 30 sekundách'
@@ -55,6 +55,7 @@ Ak hľadáš **physiological sigh slovensky**, toto je najjednoduchší preklad 
 
 Nie je to relaxačná filozofia. Je to mechanika dychu, pľúc a nervového systému.
 
+
 ## Fyziologický vzdych krok za krokom: 30 sekúnd praxe
 
 Túto techniku si môžeš vyskúšať aj teraz. Nemusíš zatvárať oči. Nemusíš sedieť dokonale rovno. Stačí, aby si na pár sekúnd prestal tlačiť na výkon.
@@ -78,6 +79,8 @@ Výdych môže ísť ústami, pokojne so zvukom. Ak si medzi ľuďmi, vydýchni 
 Toto je základ **rýchleho upokojenia dychom**. Nie preto, že si povieš, že máš byť pokojný. Ale preto, že výdych zapája parasympatikus a pomáha telu prejsť zo stavu poplachu do väčšieho bezpečia.
 
 Ak sa ti zatočí hlava, zastav. Vráť sa k normálnemu dýchaniu. Pri dychových technikách nikdy netlačíme cez telo. Učíme sa ho počúvať.
+
+<div data-cs-video></div>
 
 ## Prečo táto dychová technika Huberman funguje
 

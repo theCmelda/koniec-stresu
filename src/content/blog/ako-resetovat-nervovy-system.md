@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: yEGfxyZGiiU
 videoTitle: "Pauza, reflexia, integrácia odpočinku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako resetovať nervový systém", "nervový systém reset", "regenerácia za víkend", "ako sa zregenerovať"]
 transformation: víkend, po ktorom sa cítiš naozaj oddýchnutý
@@ -24,6 +24,7 @@ Riešenie nie je len nerobiť nič a dúfať, že telo sa samo prepne. Problém 
 - prečo sú nervová sústava, kortizol, dopamín a parasympatikus praktické témy, nie teória
 
 Vo videu vyššie ti ukazujem konkrétny víkendový reset: čo zaradiť v piatok večer, ako viesť sobotu a čo urobiť v nedeľu, aby si neprepadol do úzkosti z pondelka. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako resetovať nervový systém: najprv zníž vstupný šum
 
@@ -96,6 +97,8 @@ Daj si jeden väčší blok aktivity a jeden väčší blok obnovy. Nie päť mi
 Nedeľa nemá byť únik pred pondelkom. Má byť plynulý nájazd. Krátka príprava jedla, kalendára, oblečenia, priorít. Ideálne 45 až 60 minút. Potom stop.
 
 Keď nedeľu použiješ na vedomé pristátie, pondelok nezačína panikou. Začína s pocitom, že systém má smer.
+
+<div data-cs-video></div>
 
 ## Ako sa zregenerovať bez toho, aby si spadol do pasivity
 

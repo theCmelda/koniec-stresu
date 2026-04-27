@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 8
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako zastaviť obavy", "ako sa zbaviť úzkosti", "úzkostné myšlienky", "obavy pred spaním"]
 transformation: 'koniec úzkostných myšlienok'
@@ -40,6 +40,7 @@ Do hry vstupuje aj **prefrontálna kôra**, časť mozgu zodpovedná za racioná
 Cieľ nie je hádať sa s hlavou. Cieľ je najprv upokojiť telo a potom presmerovať pozornosť.
 
 Presne na to slúži táto 60-sekundová **úzkosť technika**.
+
 
 ## Ako zastaviť obavy za 60 sekúnd: celý postup
 
@@ -255,6 +256,8 @@ Keď príde obava mimo tohto času, zapíš ju a povedz:
 „Toto riešim o 17:30.“
 
 Nie vždy to zaberie na prvý pokus. Ale mozog sa učí, že obava nemusí okamžite riadiť celý deň.
+
+<div data-cs-video></div>
 
 ## Kedy technika nestačí a čo robiť potom
 

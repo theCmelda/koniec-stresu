@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["hypnóza na spánok", "spánková hypnóza", "self-hypnóza pred spaním", "hypnotická nahrávka spánok"]
 transformation: rýchle zaspávanie cez navigované uvoľnenie
@@ -46,6 +46,9 @@ Toto nie je náhoda. Cez deň často bežíš na sympatikus. To je vetva autonó
 Tu začína byť **spánková hypnóza** užitočná. Nie preto, že by preprogramovala mozog na povel. Skôr preto, že vytvorí sériu signálov, ktoré telo rozpozná ako bezpečné: pomalší rytmus hlasu, nižšie nároky na výkon, uvoľnenie veľkých svalových skupín, predvídateľnú štruktúru a obrazy, ktoré nevyžadujú riešenie.
 
 Dopamín v tom hrá tiež rolu. Ak si večer scrolloval, riešil správy, kontroloval čísla alebo ešte ladil prácu, mozog dostával malé dávky novosti a očakávania. Potom ležíš v tme a nuda sa cíti ako problém. Hypnotická nahrávka dá pozornosti mäkkú úlohu. Nie stimuláciu. Skôr rampu dole. A to je rozdiel, ktorý telo cíti.
+
+
+<div data-cs-video></div>
 
 ## Ako hypnóza na spánok pracuje s telom, nie proti nemu
 

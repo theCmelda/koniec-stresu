@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["spánková hygiena", "pravidlá spánkovej hygieny", "tipy na lepší spánok", "spánková hygiena dospelí"]
 transformation: jednoduché ranné aj večerné rutiny pre hlboký spánok
@@ -146,6 +146,9 @@ Nemeraj len výsledok. Meraj aj to, či si dodržal vstupy. Mal si ranné svetlo
 Nerieš jednu noc izolovane. Jedna zlá noc neznamená, že si späť na nule. Sleduj sedem až štrnásť dní. Ak sa zlepšuje zaspávanie, nočné budenia alebo ranná energia, systém funguje. Ak nie, nehádž tam ďalších desať tipov. Zmeň jednu premennú.
 
 Toto je spôsob, ako robiť **pravidlá spánkovej hygieny** bez chaosu. Jedna hypotéza, jeden zásah, jeden trend.
+
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

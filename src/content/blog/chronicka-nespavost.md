@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["chronická nespavosť", "chronická insomnia", "nespavosť dlhodobo", "kedy ísť k lekárovi nespavosť"]
 transformation: návrat dôvery, že vieš zaspať
@@ -160,6 +160,9 @@ Lieky môžu mať svoje miesto, ale nemali by byť jediná stratégia bez plánu
 Pozor aj na doplnky. Magnézium, melatonín, L-theanín alebo bylinné prípravky môžu niekomu pomôcť, ale nie sú jadro riešenia, ak máš šesť mesiacov rozbitý spánkový systém. Melatonín napríklad nie je univerzálna tabletka na vypnutie mozgu. Je to signál pre cirkadiánny rytmus a jeho načasovanie je dôležité.
 
 Ak sa pýtaš, či je už čas vyhľadať pomoc, často už máš odpoveď. Ak spánok ovláda tvoje večery, rozhodnutia, náladu a sebavedomie, nečakaj na bod zlomu. Pomoc nie je posledná možnosť. Je to spôsob, ako prestať hádať a začať riešiť systém s presnejšími nástrojmi.
+
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

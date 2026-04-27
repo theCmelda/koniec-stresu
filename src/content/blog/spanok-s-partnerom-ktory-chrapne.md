@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["spánok s partnerom", "partner chrápe ako spať", "rušený spánok partner", "spať vedľa niekoho"]
 transformation: ticho a pokoj v spálni, aj keď nie ste sami
@@ -115,6 +115,9 @@ Kľúč je, aby to nebolo pasívne odmietnutie. Musí to byť pomenovaná dohoda
 Toto je rozdiel medzi únikom a systémom. Únik je, keď sa potichu presunieš na gauč a druhý človek sa ráno cíti odmietnutý. Systém je, keď si poviete, prečo to robíte, ako dlho to testujete a ako budete udržiavať intimitu mimo samotného spánku.
 
 Blízkosť nie je iba počet hodín v jednej posteli. Blízkosť je aj to, že rešpektuješ biologické limity druhého človeka.
+
+
+<div data-cs-video></div>
 
 ## Týždenný protokol pre spánok s partnerom
 

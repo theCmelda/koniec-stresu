@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako sa upokojiť rýchlo", "ako sa upokojiť za 60 sekúnd", "rýchle upokojenie pri strese", "ako sa upokojiť pred prezentáciou"]
 transformation: upokojenie na povel, kedykoľvek to potrebuješ
@@ -37,6 +37,7 @@ Keď sa pýtaš, **ako sa upokojiť rýchlo**, nehľadáš magický vypínač. H
 
 V polyvagal prístupe sa veľa hovorí o bezpečí. Nie ako o pozitívnej afirmácii, ale ako o stave nervovej sústavy. Keď telo zachytí signály bezpečia, parasympatikus môže začať brzdiť. A ty získaš späť priestor. Nie absolútny pokoj. Priestor. To často stačí na to, aby si neurobil impulzívne rozhodnutie, neutiekol z miestnosti alebo nezamrzol pred ľuďmi.
 
+
 ## Technika 1: Fyziologický vzdych pre rýchle upokojenie pri strese
 
 **Fyziologický vzdych** je jedna z najpraktickejších techník, ktoré poznám. Nie preto, že znie pekne, ale preto, že má jasnú mechaniku. Ide o dvojitý nádych nosom a dlhý výdych ústami. Prvý nádych naplní pľúca, druhý krátky nádych ešte otvorí malé pľúcne mechúriky, a dlhý výdych pomáha znižovať aktiváciu.
@@ -53,6 +54,8 @@ Celé to môže trvať 30 až 60 sekúnd. Ak si v miestnosti pred prezentáciou,
 Prečo to funguje? Pri strese sa dych často skráti a zrýchli. Telo tým posiela mozgu signál, že sme stále v ohrození. Keď predĺžiš výdych, dávaš nervovej sústave opačný vstup. Parasympatikus dostane šancu pribrzdiť. Neuroveda tu nie je dekorácia, je to mechanika.
 
 Dôležité: fyziologický vzdych nemá byť útek pred emóciou. Je to reguláciav momente, keď potrebuješ získať späť riadenie. Ak máš pred sebou prezentáciu, konflikt, náročný telefonát alebo nával úzkosti, prvý cieľ nie je cítiť sa skvelo. Prvý cieľ je dostať systém z červenej zóny do oranžovej. Odtiaľ sa už dá robiť ďalší krok.
+
+<div data-cs-video></div>
 
 ## Technika 2: Orientácia v priestore, keď telo stratí pocit bezpečia
 

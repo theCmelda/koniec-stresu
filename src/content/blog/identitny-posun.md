@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: aCtBLnaelpc
 videoTitle: "Prehľad očakávaných zmien po 30 dňoch"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["identitný posun", "ako sa stať niekým iným", "identity shift", "transformácia identity"]
 transformation: stať sa verziou seba, na ktorú si hrdý
@@ -52,6 +52,9 @@ Po 30 dňoch sa často objavia tri signály:
 To tretie je veľké. Mnoho ľudí si myslí, že transformácia identity musí bolieť. Jasné, diskomfort tam bude. Ale bolesť nie je metrika kvality. Ak musíš nový režim prežiť silou, pravdepodobne ho nebudeš vedieť držať.
 
 Tridsať dní ti ukáže, či staviaš systém alebo len jazdíš na dopamíne z nového začiatku. Prvé dni sú často nabité energiou. Potom príde bežný život: pracovný tlak, horší spánok, konflikt, cestovanie, deti, termíny. A tam sa ukáže, či máš prax postavenú tak, aby prežila realitu.
+
+
+<div data-cs-video></div>
 
 ## Ako sa stať niekým iným bez toho, aby si bojoval so sebou
 

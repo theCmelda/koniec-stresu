@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["deep work", "hlboká koncentrácia", "ako sa sústrediť", "Cal Newport deep work"]
 transformation: 2 hodiny denne hlbokej, hodnotnej práce
@@ -65,6 +65,9 @@ Vyber si jeden bod pred sebou. Hrana monitora, bod na stene, pero na stole. Poze
 Na konci si povedz, čo ideš robiť v najbližšom bloku. Nie všeobecne. Konkrétne: napíšem prvú verziu ponuky pre klienta, vyriešim architektúru onboarding flow, prejdem dáta a vyberiem tri rozhodnutia. Pozornosť potrebuje smer. Bez smeru si ju zoberie najbližší podnet.
 
 Táto kombinácia funguje, lebo nejde len cez hlavu. Zapája dych, telo, sluch, zrak a exekutívnu kontrolu. Inými slovami: pripravíš systém, nie iba kalendár.
+
+
+<div data-cs-video></div>
 
 ## Ako si nastaviť blok hlbokej práce, ktorý prežije reálny deň
 

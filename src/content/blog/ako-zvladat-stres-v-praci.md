@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako zvládať stres v práci", "pracovný stres", "stres v zamestnaní", "ako zvládať pracovné napätie"]
 transformation: 'energiu, ktorá vydrží do piatka'
@@ -48,6 +48,7 @@ Skús dnes jednoduchú vetu:
 Nie je to slabosť. Je to informácia.
 
 Keď prestaneš telo vnímať ako nepriateľa, získaš prístup k regulácii. To znamená, že nemusíš len tlačiť cez výkon. Môžeš začať pracovať so svojím stavom. A to je obrovský rozdiel.
+
 
 ## Energetický audit: cvičenie, ktoré odhalí, kde ti uteká energia
 
@@ -207,6 +208,8 @@ Telo potrebuje prechodový rituál. Niečo, čo jasne oddelí prácu od domova.
 Tento rituál je jednoduchý, ale silný. Tvoje telo potrebuje opakovanie. Keď ho robíš pravidelne, mozog si začne spájať tieto kroky s ukončením pracovnej aktivácie.
 
 Ak pracuješ z domu, je to ešte dôležitejšie. Pri home office nemáš cestu, výťah, ulicu ani zmenu priestoru. Nervový systém nemá prirodzený signál, že rola pracovníka skončila. Musíš mu ho vytvoriť.
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe: keď únava nebola len únava
 

@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: JzgGB-jJhJc
 videoTitle: "10 najčastejších otázok o meditácii"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako sa sústrediť", "mind racing počas práce", "neviem sa sústrediť", "myseľ skáče z miesta na miesto"]
 transformation: schopnosť ostať pri jednej veci dosť dlho na to, aby si ju dokončil
@@ -24,6 +24,7 @@ Riešenie nie je donútiť sa sedieť dlhšie a tváriť sa, že si disciplinova
 - ako si nastaviť jednoduchý systém, ktorý zníži kortizol, stabilizuje dopamín a podporí neuroplasticitu
 
 Vo videu vyššie ti ukazujem konkrétne, ako pracovať s tým momentom, keď si sadneš meditovať alebo robiť deep work a okamžite sa spustí mentálny chaos. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako sa sústrediť, keď nervová sústava nechce ticho
 
@@ -56,6 +57,8 @@ Prakticky to znamená tri veci:
 Mne funguje začínať cez **štartovací protokol**. Nie nálada. Nie motivácia. Protokol. Otvorím len jednu vec, ktorú idem robiť. Telefón ide mimo dosah. Nastavím 25 alebo 45 minút. Na papier napíšem prvú akciu, nie cieľ. Napríklad: otvor dokument a dopíš časť o klientskom probléme. Nie: pracuj na projekte.
 
 Keď má mozog jasný vstup, klesá trenie. Keď klesá trenie, menej hľadá únik. A keď menej hľadá únik, konečne začneš budovať momentum.
+
+<div data-cs-video></div>
 
 ## Ako sa sústrediť pri meditácii, keď máš príliš veľa myšlienok
 

@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 11
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["úzkosť príznaky", "ako spoznať úzkosť", "úzkostná porucha príznaky", "úzkosť v tele"]
 transformation: 'znovuzískanie kontroly nad úzkosťou'
@@ -50,6 +50,7 @@ Zabolí ma v hrudi. Čo ak je to niečo vážne.
 Telo reaguje, akoby to bolo skutočné nebezpečenstvo. Aj keď sedíš doma na gauči.
 
 Dôležité je vedieť toto: úzkosť nie je slabosť. Je to prehnaná ochranná reakcia systému, ktorý sa naučil byť v strehu. Dobrá správa je, že cez **neuroplasticitu** sa vie učiť aj späť. Nie naraz. Nie silou. Ale opakovane, cez malé signály bezpečia.
+
 
 ## Ako spoznať úzkosť skôr, než ťa úplne pohltí
 
@@ -228,6 +229,8 @@ Nie veľké rozhodnutie. Malú akciu.
 Napij sa vody. Otvor okno. Napíš niekomu jednu vetu. Vyjdi na dve minúty von. Odlož telefón na stôl.
 
 Úzkosť chce, aby si buď všetko vyriešil, alebo úplne zamrzol. Malá akcia je tretia možnosť. Je to návrat k vplyvu.
+
+<div data-cs-video></div>
 
 ## Ako si vytvoriť osobný plán na obavné myšlienky
 

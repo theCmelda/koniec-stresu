@@ -6,7 +6,7 @@ category: Stres
 readingTime: 9
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: bottom
+videoPlacement: inline
 featured: true
 keywords: ["ako sa zbaviť stresu", "techniky proti stresu", "ako zvládať stres", "chronický stres", "kontrola stresu"]
 transformation: 'návrat pokoja do nervovej sústavy'
@@ -39,6 +39,7 @@ Dobrá správa je, že nervový systém sa vie učiť. Neuroveda tomu hovorí **
 
 Preto nestačí povedať si: upokoj sa. Potrebuješ tréning, ktorý telo pochopí.
 
+
 ## Ako sa zbaviť stresu: začni mapou spúšťačov
 
 Prvý krok nie je dýchanie. Prvý krok je všimnúť si, kedy sa stres spúšťa. Bez toho len hasíš požiar, ale nevieš, odkiaľ prichádza iskra.
@@ -58,6 +59,8 @@ Toto je základ pre **kontrolu stresu**. Nie kontrolu života. Kontrolu reakcie.
 Po týždni si všimni opakujúce sa vzorce. Možno ťa nespúšťa práca ako celok, ale konkrétny typ správ. Možno ťa nespúšťa rodina, ale moment, keď nemáš hranice.
 
 Keď poznáš spúšťač, prestáva byť neviditeľný. A to mení hru.
+
+<div data-cs-video></div>
 
 ## Ako sa zbaviť stresu cez reguláciu nervovej sústavy
 

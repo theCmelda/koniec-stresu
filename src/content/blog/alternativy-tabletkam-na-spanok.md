@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["prírodné alternatívy na spánok", "bez tabliet zaspať", "alternatíva Stilnox", "prírodný spánok bez liekov"]
 transformation: spánok bez závislosti na tabletkách
@@ -74,6 +74,9 @@ Napíš si na papier tri veci: čo je hotové, čo počká, čo je prvý krok za
 Teplá sprcha, pokojná chôdza po byte, jemné natiahnutie, pomalší výdych. Nejde o výkon. Ide o signál. Ak to robíš denne, telo sa naučí, že toto je začiatok vypínania.
 
 Večerný zostup je pákový bod. Nemusíš prerobiť celý život. Stačí, keď prestaneš čakať, že spánok opraví deň, ktorý ho celý sabotoval.
+
+
+<div data-cs-video></div>
 
 ## Ako dýchanie mení stav tela pred spánkom
 

@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: horlVXgyMGs
 videoTitle: "Ako udržať meditačnú prax aj keď nie je čas"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako si vytvoriť návyk", "návyk 21 dní", "atomic habits slovensky", "ako udržať návyk"]
 transformation: návyky, ktoré ti vydržia bez sily vôle
@@ -24,6 +24,7 @@ Riešenie nie je viac sa hecnúť, kúpiť si nový zápisník alebo čakať na 
 - ako nervová sústava, dopamín, kortizol a neuroplasticita ovplyvňujú tvoju konzistentnosť
 
 Vo videu vyššie ti ukazujem konkrétne, ako si nastaviť meditačnú prax cez malé spúšťače, jednoduché prostredie a minimálnu verziu návyku. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako si vytvoriť návyk: nezačínaš disciplínou, ale signálom
 
@@ -82,6 +83,8 @@ Skús sa na prvých 21 dní pozerať inak. Nie ako na obdobie, po ktorom má by�
 - aký spúšťač funguje bez veľkého premýšľania
 
 Builder mindset nie je romantika konzistentnosti. Je to iterácia. Nastavíš hypotézu, otestuješ, zmeriaš trenie, upravíš systém. Ak sa návyk po 21 dňoch neudržal, neznamená to, že si zlyhal. Znamená to, že dizajn ešte neunesie realitu tvojho života.
+
+<div data-cs-video></div>
 
 ## Ako udržať návyk, keď ti do toho vstúpi život
 

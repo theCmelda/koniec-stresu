@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["syndróm vyhorenia", "burnout príznaky", "syndróm vyhorenia príznaky", "ako sa zotaviť z vyhorenia"]
 transformation: 'návrat energie bez vyhorenia'
@@ -138,6 +138,9 @@ Preto máš často najlepšie nápady v sprche, na prechádzke alebo pri umývan
 Skús zmeniť vnútornú vetu z musím vydržať na potrebujem sa vrátiť k sebe.
 
 Nie je to slabosť. Je to prevencia.
+
+
+<div data-cs-video></div>
 
 ## Ako sa zotaviť z vyhorenia: nezačni veľkým plánom
 

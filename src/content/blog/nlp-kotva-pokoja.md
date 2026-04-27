@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: syAw_f0Abic
 videoTitle: "NLP technika kotvy pokoja"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["NLP kotva pokoja", "NLP technika anchoring", "kotva pokoja meditácia", "anchoring NLP"]
 transformation: 'pokoj na povel kedykoľvek a kdekoľvek'
@@ -47,6 +47,7 @@ Keď si vytváraš kotvu, neučíš sa potláčať stres. Učíš telo, že má 
 
 A presne to potrebuješ v momente, keď sa stres rozbieha.
 
+
 ## Ako funguje NLP technika anchoring v nervovom systéme
 
 **NLP technika anchoring** pracuje s jednoduchým princípom: stav plus podnet plus opakovanie. Keď sú tieto tri veci spojené, vzniká asociácia. Tá sa neskôr dá vyvolať.
@@ -62,6 +63,8 @@ Keď telo cíti bezpečie, viac sa zapája **parasympatikus**, hlavne vetva spoj
 Kotva pokoja môže byť malýsignál, ktorý povie telu: poznáš tento stav, vieš sa k nemu vrátiť.
 
 Nie vždy to bude okamžité. Nie vždy to bude dramatické. Ale ak ju trénuješ správne, vie skrátiť čas medzi stresovým spúšťačom a návratom do seba. A to je v praxi obrovský rozdiel.
+
+<div data-cs-video></div>
 
 ## NLP kotva pokoja krok za krokom: vytvor si gesto, ktoré si telo zapamätá
 

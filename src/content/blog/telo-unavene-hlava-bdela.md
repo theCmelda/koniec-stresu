@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["telo unavené hlava bdelá", "mind racing pred spaním", "ako vypnúť myseľ pred spaním", "myšlienky v hlave večer"]
 transformation: myseľ, ktorá sa vypne keď telo už chce spať
@@ -67,6 +67,9 @@ Skús to takto:
 Ak je pre teba 2:4 príliš pomalé, začni 2:3. Ak je to príliš ľahké, nerob z toho súťaž. Cieľ nie je väčšia kontrola, ale regulácia.
 
 Pri vedení klientov často vidím jednu chybu: človek začne dych používať ako ďalší nástroj tlaku. Dýcham správne? Už by som mal spať? Prečo to nefunguje? Vtedy sa z techniky stane ďalší problém. Tvoja úloha je jednoduchšia. Počítať, vydychovať, znovu sa vracať. Dych je kotva, nie test.
+
+
+<div data-cs-video></div>
 
 ## Ako vypnúť myseľ pred spaním bez mentálneho zápasu
 

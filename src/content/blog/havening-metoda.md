@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 8
 videoId: 5Rph_cBZibk
 videoTitle: "Havening: 3 minúty na okamžité upokojenie (nahrávka)"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["havening metóda", "havening technika", "ako sa upokojiť", "úzkosť technika", "panická ataka"]
 transformation: 'rýchle upokojenie pri akútnej úzkosti'
@@ -74,6 +74,9 @@ Jednou rukou hladkaj dlaň druhej ruky. Pomaly prechádzaj od zápästia ku kon�
 Toto je najnenápadnejšia verzia. Vieš ju použiť aj v práci, v autobuse alebo pred stretnutím.
 
 Vyber si dotyk, ktorý je ti príjemný. Ak ti niektorý nesedí, nepoužívaj ho.
+
+
+<div data-cs-video></div>
 
 ## Havening návod: ako sa upokojiť za 3 minúty doma
 

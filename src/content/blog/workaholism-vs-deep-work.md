@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: ios086FtRxU
 videoTitle: "Prečo potreba kontroly zvyšuje stres"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["workaholism", "workaholic", "závislosť od práce", "kedy pracovať veľa nie je odpoveď"]
 transformation: menej hodín, viac hlbokého výsledku
@@ -157,6 +157,9 @@ Tieto otázky režú cez ilúziu. Ak potrebuješ 12 hodín denne len na udržani
 Ak chceš budovať dlhodobo, potrebuješ odmeňovať iné veci než len rýchle hasenie. Odmeňuj bloky bez prepínania. Odmeňuj rozhodnutia, ktoré odstránia opakovaný problém. Odmeňuj delegovanie. Odmeňuj vypnutie v čase, keď už ďalšia hodina neprinesie lepší výstup.
 
 Nie je to menej ambiciózne. Je to dospelejšie.
+
+
+<div data-cs-video></div>
 
 ## Ako si nastaviť pracovný rytmus bez straty driveu
 

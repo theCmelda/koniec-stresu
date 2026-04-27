@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["skutočný dôvod prečo", "WHY framework", "Simon Sinek WHY", "ako nájsť svoj prečo"]
 transformation: jasnosť o tom, prečo robíš to, čo robíš
@@ -106,6 +106,9 @@ Pri každej vrstve WHY si všímaj tri signály. Prvý je energia. Pri niektorý
 Ak chceš vedieť, **ako nájsť svoj prečo**, začni kombinovať písanie s telom. Nie si len mozog, ktorý generuje stratégie. Si systém, ktorý má históriu, pamäť, vzorce a kapacitu. **Neuroveda** nám stále jasnejšie ukazuje, že rozhodnutia nie sú čisto racionálne. Sú prepojené s emóciami, stavom nervovej sústavy, očakávaním odmeny a pocitom bezpečia.
 
 Preto hlboké WHY nie je len myšlienka. Je to orientačný bod, pri ktorom sa telo aj myseľ vedia zoradiť jedným smerom.
+
+
+<div data-cs-video></div>
 
 ## Ako rozlíšiť skutočný dôvod prečo od ega a strachu
 

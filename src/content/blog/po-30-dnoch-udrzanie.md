@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: AgTdln4nlJE
 videoTitle: "Po 30 dňoch: ako pokračovať"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["po 30 dňoch transformácia", "udržanie pokoja", "po kurze ako pokračovať", "udržateľná transformácia"]
 transformation: trvalý pokoj namiesto výletu
@@ -138,6 +138,9 @@ V praxi často používam jednoduchú škálu 1 až 5:
 5. Cítim pokoj, jasnosť a energiu.
 
 Cieľ nie je byť stále na päťke. To by bolo nereálne. Cieľ je skrátiť čas, ktorý tráviš na jednotke a dvojke. Tam sa deje reálna **udržateľná transformácia**. Nie v tom, že nikdy nespadneš. Ale v tom, že vieš skôr zachytiť signály, rýchlejšie sa vrátiť a menej si pri tom poškodiť vzťahy, telo aj dôveru v seba.
+
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

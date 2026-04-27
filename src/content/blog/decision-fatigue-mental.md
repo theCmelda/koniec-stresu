@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: ubIU0Q3bIrk
 videoTitle: "Pauza pred posledným krokom"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "ako sa rozhodovať lepšie", "kognitívne preťaženie"]
 transformation: lepšie rozhodnutia s menej únavy
@@ -52,6 +52,9 @@ Preto pri rozhodovaní nestačí otázka: čo je racionálne? Lepšia otázka je
 Ak si hladný, nevyspatý, po troch konfliktných calloch a s napätím v čeľusti, tvoje rozhodnutie môže vyzerať logicky, ale často je len reguláciou diskomfortu. Mozog hľadá úľavu. Chce zavrieť otvorenú slučku. Chce dopamín z odškrtnutia alebo pokoj z vyhnutia sa napätiu.
 
 Prakticky to znamená jednoduchú vec: pred rozhodnutím, ktoré má následky, potrebuješ aspoň minimálnu reguláciu. Nie hodinu meditácie. Niekedy stačí 90 sekúnd pomalšieho výdychu, pohár vody, krátka chôdza, alebo pomenovanie toho, čo sa deje: som preťažený, chcem to uzavrieť, ale toto rozhodnutie si zaslúži lepší stav.
+
+
+<div data-cs-video></div>
 
 ## Ako decision fatigue vzniká počas bežného dňa
 

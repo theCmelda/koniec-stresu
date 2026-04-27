@@ -10,8 +10,14 @@ const blog = defineCollection({
     author: z.string().default('Daniel Jedlička'),
     videoId: z.string().optional(),
     videoTitle: z.string().optional(),
-    /** Where to render the video on the page. */
-    videoPlacement: z.enum(['top', 'middle', 'bottom', 'remove']).default('top'),
+    /**
+     * Where to render the video on the page.
+     * - 'top'    — above the article body
+     * - 'inline' — at the position marked by `<div data-cs-video></div>` inside the markdown
+     * - 'bottom' — at the end of the article inside the "Pozri si vedenú prax" aside
+     * - 'remove' — no video rendered
+     */
+    videoPlacement: z.enum(['top', 'inline', 'middle', 'bottom', 'remove']).default('inline'),
     category: z.string().default('Stres'),
     readingTime: z.number().optional(),
     /** Article-specific transformation outcome used in CTA (e.g. "hlbší spánok bez tabletiek") */

@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["overthinking ako prestať", "nadmerné premýšľanie", "ako prestať myslieť", "myšlienky v hlave nezastavia"]
 transformation: 'myseľ, ktorá vie zastaviť sama'
@@ -56,6 +56,7 @@ Preto nezačíname vetou upokoj sa. Začíname telom. Dychom. Zmyslami. Kontakto
 Podľa **polyvagal teórie** náš nervový systém neustále skenuje prostredie. Hľadá odpoveď na jednoduchú otázku: som v bezpečí? Keď telo dostane dosť signálov bezpečia, môže sa aktivovať **parasympatikus**. A vtedy sa myseľ prirodzene spomalí.
 
 Nie preto, že si ju umlčal. Ale preto, že už nemusí strážiť každú možnosť.
+
 
 ## Overthinking ako prestať cez dych: technika, ktorá zmení stav tela
 
@@ -285,6 +286,8 @@ Veľmi pomáha aj veta:
 Možno ti to znie zvláštne. Ale mení to tón vnútorného dialógu. Namiesto boja vznikne spolupráca. Myseľ prestane byť nepriateľ. Stane sa časťou teba, ktorá je preťažená a potrebuje vedenie.
 
 Ak sa overthinking vracia často, sleduj aj základné veci: spánok, kofeín, hlad, preťaženie, konflikty, príliš veľa obrazoviek. Nervový systém nie je oddelený od každodenného života. Niekedy najduchovnejšia vec, ktorú môžeš urobiť, je najesť sa, ísť na prechádzku a vypnúť správy.
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

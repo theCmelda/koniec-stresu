@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["jet lag", "jet lag ako prekonať", "smerový spánok", "letecký jet lag rýchlo"]
 transformation: rýchla adaptácia na novú časovú zónu
@@ -104,6 +104,9 @@ Najjednoduchšia technika po prílete alebo pred spánkom je **predĺžený výd
 Ak si príliš aktivovaný, môže fungovať aj **fyziologický vzdych**. Dva kratšie nádychy nosom za sebou, potom dlhý výdych ústami. Stačí 5 až 10 opakovaní. Toto vie rýchlo znížiť hladinu napätia, najmä keď máš po lete pocit tlaku v hrudi alebo rozbehnutej hlavy.
 
 Dych nerieši časové pásmo sám o sebe. Ale rieši stav systému, ktorý sa má adaptovať. Ak je tvoja nervová sústava v chaose, svetlo a spánok budú fungovať horšie. Ak jej dáš reguláciu, adaptácia ide čistejšie.
+
+
+<div data-cs-video></div>
 
 ## Trojdňový protokol: letecký jet lag rýchlo a bez zbytočného chaosu
 

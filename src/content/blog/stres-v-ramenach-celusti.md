@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["stres v ramenách", "napätie v čeľusti", "stres v tele", "psychosomatika napätie"]
 transformation: uvoľnené telo, ktoré stres pustí cez deň, nie cez kríze
@@ -122,6 +122,9 @@ Toto vidím u high-performerov často. Hlava vie argumentovať: ešte jeden call
 Neuroveda nám dáva užitočný rámec: mozog predikuje budúcnosť na základe minulých stavov. Ak si mesiace trénoval tlak, telo začne tlak očakávať. To je neuroplasticita. Dobrá správa je, že ju vieš otočiť. Nie jedným veľkým rozhodnutím, ale opakovanými mikrosignálmi bezpečia.
 
 Prakticky to znamená: keď zachytíš napätie, nepýtaj sa len, ako ho odstrániť. Spýtaj sa, aký signál telo práve potrebuje. Niekedy je to pohyb. Niekedy výdych. Niekedy hranica. Niekedy jedlo. Niekedy vypnúť notifikácie a prestať sa tváriť, že 12 kontextov naraz je normálna práca.
+
+
+<div data-cs-video></div>
 
 ## Ako si nastaviť systém, aby sa stres v ramenách nevracal každý deň
 

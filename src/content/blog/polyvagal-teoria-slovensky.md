@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["polyvagal teória", "polyvagal teória po slovensky", "ventrálny vagus", "blúdivý nerv stimulácia"]
 transformation: porozumenie tomu, prečo tvoje telo reaguje tak, ako reaguje
@@ -46,6 +46,9 @@ Druhý stav je sympatikus. To je mobilizácia. Energia ide hore. Telo sa priprav
 Tretí stav je dorzálny vagus. Tu systém vypína. Nie je to len lenivosť. Je to ochranná reakcia, keď telo vyhodnotí, že mobilizácia nestačí. Môže to vyzerať ako únava, odpojenie, prázdna hlava, znížená motivácia, neschopnosť začať. Pri klientoch často vidím, že sa za tento stav hanbia. Hovoria: mám disciplínu, ale dnes som nepoužiteľný. Lenže ak je nervová sústava v stave vypnutia, ďalší tlak často nepomôže. Pomôže návrat do bezpečia cez telo.
 
 Toto nie je nálepka, ktorou sa máš ospravedlňovať. Je to diagnostika. Builder nepotrebuje romantizovať svoje reakcie. Potrebuje ich čítať, aby vedel, ktorý vstup má zmeniť.
+
+
+<div data-cs-video></div>
 
 ## Ako polyvagal teória vysvetľuje stres, výkon a rozhodovanie
 

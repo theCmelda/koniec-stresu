@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 11
 videoId: ios086FtRxU
 videoTitle: "Prečo potreba kontroly zvyšuje stres"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako pustiť kontrolu", "potreba kontroly", "ako prijať to čo neviem ovplyvniť", "perfekcionizmus"]
 transformation: 'pokoj, ktorý nezávisí od kontroly'
@@ -30,6 +30,7 @@ Sám som roky veril, že keď budem všetko držať pevne, budem v bezpečí. Po
 - čo znamená **ako prijať to čo neviem ovplyvniť** bez toho, aby si sa vzdal
 - prečo **perfekcionizmus** často maskuje strach, nie vysoké štandardy
 - ako trénovať dôveru, bezpečie a reguláciu pomocou dychu a malých krokov
+
 
 ## Ako pustiť kontrolu: najprv pochop, čo sa deje v tele
 
@@ -83,6 +84,8 @@ Skús si dnes položiť jednoduchú otázku:
 - Alebo plánujem, lebo neznesiem pocit neistoty?
 
 Odpoveď veľa ukáže.
+
+<div data-cs-video></div>
 
 ## Ako pustiť kontrolu cez nervový systém, nie cez silu vôle
 

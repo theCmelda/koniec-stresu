@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako vyriešiť dilemu", "zložité rozhodnutie", "Older self framework", "ako sa rozhodnúť pri dileme"]
 transformation: rozhodnutia, ktoré budú dávať zmysel aj o desať rokov
@@ -24,6 +24,7 @@ V tomto článku sa dozvieš:
 - ako premeniť hlboké WHY na konkrétny krok, nie len peknú myšlienku
 
 Vo videu vyššie ti ukazujem konkrétny proces, ako sa opýtať svojho 80-ročného ja, ktoré z dvoch rozhodnutí ho urobí pyšným. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako vyriešiť dilemu, keď obe možnosti dávajú zmysel
 
@@ -85,6 +86,8 @@ Prakticky to urob takto:
 Dôležité je nehrať divadlo. Nepíš odpoveď, ktorá vyzerá dobre na papieri. Píš tú, pri ktorej cítiš viac pravdy v tele. Niekedy to nebude dramatický aha moment. Bude to jemné stiahnutie v hrudi pri jednej možnosti a viac priestoru pri druhej.
 
 Telo nie je neomylný kompas, ale je to dátový zdroj. Keď ho spojíš s rozumom, dostaneš lepší systém.
+
+<div data-cs-video></div>
 
 ## Ako vyriešiť dilemu cez hlboké WHY, nie cez impulz
 

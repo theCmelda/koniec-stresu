@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: ubIU0Q3bIrk
 videoTitle: "Pauza pred posledným krokom"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "prečo večer rozhodujem zle", "preťaženie mozgu"]
 transformation: rozhodnutia, ktoré ti nevedia spáliť deň
@@ -48,6 +48,9 @@ V praxi vidím tri typické reakcie. Prvá je impulzívne uzavretie. Už to chce
 Z pohľadu polyvagal teórie je toto zaujímavé. Keď systém cíti dostatok bezpečia, vieš byť v kontakte, premýšľať a konať flexibilne. Keď sa záťaž zvýši, sympatikus ťa tlačí do akcie alebo boja. Keď je toho priveľa, môže prísť vypnutie, otupenie, odkladanie. Nie je to výhovorka. Je to mapa.
 
 Preto potrebuješ **pauzu pred posledným krokom**. Nie pauzu na to, aby si z problému utiekol. Pauzu ako krátky regulačný most medzi únavou a rozhodnutím. Päť minút, ktoré ochránia päť hodín práce.
+
+
+<div data-cs-video></div>
 
 ## Ako spoznáš únavu z rozhodovania v tele, nie v hlave
 

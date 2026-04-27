@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["tajomstvo motivácie", "motivácia ktorá vydrží", "ako sa motivovať dlhodobo", "vnútorná motivácia"]
 transformation: motivácia, ktorú nepotrebuje YouTube ani vonku
@@ -50,6 +50,9 @@ Skús si napísať tri vrstvy svojho dôvodu:
 - Akým človekom sa pri tom musím stať.
 
 Tá tretia otázka je leverage. Ciele sa menia, identita sa compouduje. Keď sa tvoj cieľ opiera o identitu, nemusíš sa každý deň presviedčať, či sa ti chce. Pýtaš sa, čo robí človek, ktorý tento systém buduje. Nie dokonale. Konzistentne.
+
+
+<div data-cs-video></div>
 
 ## Ako sa motivovať dlhodobo cez identitu a štandardy
 

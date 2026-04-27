@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["úzkosť pred spaním", "úzkostné myšlienky večer", "myseľ nezastaví večer", "ako vypnúť myseľ pred spaním"]
 transformation: tiché večery bez špirály myšlienok
@@ -68,6 +68,9 @@ Skús základ:
 5. Po 10 cykloch prestaň počítať presne a len drž pocit dlhšieho výdychu.
 
 Ak sa myseľ rozbehne, nevracaj sa späť agresívne. Len si všimni, že odišla, a vráť sa na ďalší výdych. Toto je tréning **neuroplasticity**. Nie dramatický reset. Je to malý opakovaný vstup, ktorý časom učí systém inú reakciu.
+
+
+<div data-cs-video></div>
 
 ## Ako vypnúť myseľ pred spaním bez mentálneho zápasu
 

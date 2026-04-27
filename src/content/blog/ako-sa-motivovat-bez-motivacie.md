@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako sa motivovať", "bez motivácie", "ako začať keď sa nechce", "systém vs motivácia"]
 transformation: schopnosť konať aj v dni, keď „nie je nálada“
@@ -24,6 +24,7 @@ Riešenie nie je hľadať ďalšie video, ďalší citát alebo ďalší mentál
 - ako si vytvoriť pohon, ktorý funguje aj v dňoch, keď si **bez motivácie**
 
 Vo videu vyššie ti ukazujem konkrétny rozdiel medzi motiváciou ako emóciou a systémom ako štruktúrou, ktorá ťa podrží v akcii. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako sa motivovať bez toho, aby si čakal na chuť
 
@@ -68,6 +69,8 @@ Navrhni si základné koľajnice:
 Systém ti neodstráni odpor. To by bol nezmysel. Ale zníži počet rozhodnutí. A každé rozhodnutie, ktoré nemusíš robiť v momente slabšej energie, je leverage.
 
 Ak chceš vedieť, **ako sa motivovať** dlhodobo, prestaň sa pýtať len na pocit. Pýtaj sa, aký systém by umožnil správne správanie aj vtedy, keď sa ti nechce.
+
+<div data-cs-video></div>
 
 ## Ako začať keď sa nechce: zníž odpor na minimum
 

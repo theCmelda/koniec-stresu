@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["anticipatórna úzkosť", "bojím sa že sa budem báť", "predzvest úzkosti", "úzkosť pred udalosťou"]
 transformation: pokoj pred udalosťou, ktorej sa zatiaľ len bojíš
@@ -94,6 +94,9 @@ Skús to takto:
    Menej je často viac. Nečakaj extázu. Hľadaj o 5 percent menej napätia.
 
 Túto techniku používam pri **anticipatórnej úzkosti**, lebo ide priamo na moment, kde sa slučka láme. Myšlienka príde, telo sa aktivuje, a ty namiesto rozbehnutia katastrofického filmu dáš systému nový vstup. Nie perfektný pokoj. Nový vstup. To je rozdiel, ktorý sa časom násobí.
+
+
+<div data-cs-video></div>
 
 ## Ako trénovať anticipatórnu úzkosť pred udalosťou
 

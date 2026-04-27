@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: VoKR6HnQyxQ
 videoTitle: "90-sekundová ranná pauza"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ranný stres", "ranná úzkosť", "ako začať deň pokojne", "ranný kortizol spike"]
 transformation: ráno, ktoré nezačína panikou, ale jasnosťou
@@ -56,6 +56,9 @@ Otvor oči a nájdi tri pevné body v miestnosti. Stena. Dvere. Okno. Roh postel
 Nadýchni sa nosom približne na 3 až 4 sekundy. Vydýchni pomaly na 5 až 7 sekúnd. Sprav 6 až 8 cyklov. Nepotrebuješ dokonalú techniku. Potrebuješ dať parasympatiku jasný vstup: nemusíme hneď útočiť, utekať ani zamrznúť.
 
 Týchto 90 sekúnd nie je meditácia pre ideálne ráno. Je to minimálna investícia do regulácie. Keď ju spravíš, deň stále môže byť náročný. Ale nezačneš ho tým, že prvú rozhodovaciu právomoc odovzdáš notifikáciám.
+
+
+<div data-cs-video></div>
 
 ## Ako dýchanie mení nervovú sústavu
 

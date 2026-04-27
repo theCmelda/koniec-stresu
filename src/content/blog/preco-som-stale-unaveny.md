@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["prečo som stále unavený", "stála únava príznaky", "chronická únava", "prečo som unavený aj po spánku"]
 transformation: energiu, ktorá vydrží od rána do večera
@@ -60,6 +60,9 @@ Tu je dôležitý rozdiel: únava po náročnom dni je normálna. Únava, ktorá
 Z neurovedy vieme, že mozog neustále predikuje, koľko energie bude potrebovať na ďalší krok. Ak tvoja nervová sústava vyhodnocuje prostredie ako nebezpečné, chaotické alebo nepredvídateľné, alokuje viac zdrojov na ochranu. Menej zostáva na kreativitu, sústredenie, trávenie, imunitu a emočnú stabilitu.
 
 Preto pri únave nehľadám iba jeden veľký dôvod. Hľadám malé úniky. Niečo ako keď máš otvorených dvadsať aplikácií na pozadí. Žiadna sama o sebe nezničí batériu, ale spolu spravia to, že o tretej poobede mentálne blikáš na červeno.
+
+
+<div data-cs-video></div>
 
 ## Energetický audit: cvičenie, ktoré ti ukáže, prečo som stále unavený
 

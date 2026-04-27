@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: o_ZOmaZvc78
 videoTitle: "Spúšťač šťastia"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["spúšťač šťastia", "NLP anchoring", "ako si zapnúť pokoj", "anchoring pozitívny stav"]
 transformation: schopnosť privolať pozitívny stav v ťažkom momente
@@ -54,6 +54,9 @@ Tretia vec je parasympatikus, najmä vetva spojená s ukľudnením, trávením, 
 Anchoring pozitívny stav nie je o tom, že predstieraš, že stres neexistuje. Je to spôsob, ako dať telu nový signál. Niečo ako interný protokol: tento dotyk, tento dych, táto vôňa znamená, že sa môžeme vrátiť o jednu úroveň nižšie. Nie nutne do eufórie. Skôr do regulácie.
 
 A tu prichádza neuroplasticita. To, čo opakuješ, sa posilňuje. Ak si roky trénoval okamžitú reakciu na notifikáciu, telo bude reagovať rýchlo. Ak začneš trénovať návrat do pokoja, nebude to prvý deň elegantné. Ale systém sa učí. Nie cez motiváciu, ale cez konzistentný vstup.
+
+
+<div data-cs-video></div>
 
 ## Ako vytvoriť spúšťač šťastia krok za krokom
 

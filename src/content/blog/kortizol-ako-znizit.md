@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako znížiť kortizol", "kortizol vysoký príznaky", "ako znížiť kortizol prirodzene", "stres a kortizol"]
 transformation: rovnovážny kortizol, ktorý ťa nebude vyrážať z formy
@@ -24,6 +24,7 @@ Riešenie nie je pridať viac stimulácie, viac disciplíny a viac tlaku na seba
 - ako si spraviť energetický audit a rozlúštiť emocionálne signály tela
 
 Vo videu vyššie ti ukazujem konkrétne signály, podľa ktorých spoznáš, že tvoje telo nejde len na vyšší výkon, ale na stresový dlh. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako znížiť kortizol začína tým, že prestaneš bojovať s telom
 
@@ -59,6 +60,8 @@ Skús 7 dní sledovať:
 Po týždni sa nepozeráš na dokonalosť. Pozeráš sa na súvislosti. Možno zistíš, že tvoj najväčší stresor nie je počet hodín práce, ale chaos medzi úlohami. Možno to nie je samotná práca, ale nejasné očakávania. Možno to nie je rodina, ale to, že nemáš žiadny prechod medzi výkonom a domovom.
 
 Toto je bod, kde sa **stres a kortizol** prestávajú javiť ako abstraktný problém. Začneš vidieť, čo konkrétne tvoj systém drží v pohotovosti.
+
+<div data-cs-video></div>
 
 ## Ako znížiť kortizol prirodzene cez nervovú sústavu
 

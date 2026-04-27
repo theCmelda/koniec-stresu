@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["chronický stres príznaky", "dlhodobý stres", "chronický stres následky", "ako spoznať chronický stres"]
 transformation: 'obnovu nervovej sústavy z chronického stresu'
@@ -54,6 +54,7 @@ Najčastejšie **chronický stres príznaky** bývajú tieto:
 11. pocit, že si nikdy naozaj neoddýchneš
 
 Ak sa v tom vidíš, neznamená to, že si slabý. Znamená to, že tvoj **nervový systém** je preťažený a dlho nedostal dosť signálov bezpečia.
+
 
 ## Ako spoznať chronický stres v bežnom dni
 
@@ -262,6 +263,8 @@ Zároveň platí, že nemusíš čakať na diagnózu, aby si začal robiť malé
 Jedna z najväčších pascí je veta: ešte to nie je také zlé.
 
 Nemusí to byť najhoršie, aby to bolo dôležité. Ak telo šepká, počúvaj ho skôr, než začne kričať.
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

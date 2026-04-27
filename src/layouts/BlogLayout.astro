@@ -75,6 +75,15 @@ const articleSchema = {
   <article class="prose article">
     <slot />
 
+    {data.videoId && data.videoPlacement === 'inline' && (
+      <div class="cs-inline-video-stash" hidden>
+        <VideoEmbed
+          videoId={data.videoId}
+          title={data.videoTitle ?? data.title}
+        />
+      </div>
+    )}
+
     {data.videoId && data.videoPlacement === 'bottom' && (
       <aside class="article-video">
         <h2 class="video-heading">Pozri si vedenú prax</h2>
@@ -86,6 +95,29 @@ const articleSchema = {
       </aside>
     )}
   </article>
+
+  {data.videoId && data.videoPlacement === 'inline' && (
+    <script>
+      // Move the stashed inline video into the position of the [data-cs-video] marker
+      // inside the article body. The marker is rendered as a literal <div data-cs-video>
+      // element from the markdown source. If no marker is found, append the embed to the
+      // end of the article so a misconfigured post still shows the video.
+      (function () {
+        const marker = document.querySelector('[data-cs-video]');
+        const stash = document.querySelector('.cs-inline-video-stash') as HTMLElement | null;
+        if (!stash) return;
+        const inner = stash.firstElementChild as HTMLElement | null;
+        if (!inner) return;
+        if (marker) {
+          marker.replaceWith(inner);
+        } else {
+          const article = document.querySelector('article.article');
+          article?.appendChild(inner);
+        }
+        stash.remove();
+      })();
+    </script>
+  )}
 
   <CTASection
     transformation={data.transformation ?? 'koniec stresu, hlbší spánok a pokojnejšiu myseľ'}

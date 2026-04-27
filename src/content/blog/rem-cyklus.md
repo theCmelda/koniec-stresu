@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["REM cyklus", "spánkové cykly 90 minút", "kedy sa zobudiť oddýchnutý", "REM fáza spánku"]
 transformation: ráno bez ťažoby na hrudníku
@@ -24,6 +24,7 @@ Riešenie nie je pridať ďalšiu aplikáciu, ďalší doplnok ani paniku okolo 
 - ako chrániť hlboký spánok, nervovú sústavu a regeneráciu bez obsesie nad číslami
 
 Vo videu vyššie ti ukazujem konkrétne, prečo zobudenie po 7,5 hodine často pôsobí úplne inak ako po 7 hodinách, aj keď rozdiel na papieri vyzerá malý. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu: architektúra spánku, nervová sústava, REM fáza, hlboký spánok a praktické plánovanie budíka.
+
 
 ## Ako funguje REM cyklus a prečo 90 minút nie je dogma
 
@@ -90,6 +91,8 @@ Tretí sabotér je alkohol. Pomôže ti zaspať, ale rozbíja druhú polovicu no
 Štvrtý sabotér je mentálne rozbehnutie. Práca, konflikty, plánovanie, finančný stres, sociálne siete. Sympatikus zostáva zapnutý. Z pohľadu polyvagal teórie telo potrebuje cítiť dostatok bezpečia, aby pustilo kontrolu. Ak si celý večer v režime hrozby alebo výkonu, regulácia nepríde sama len preto, že si zhasol.
 
 Praktický cieľ nie je sterilný večer. Cieľ je vytvoriť zostupovú rampu. Posledných 45 až 90 minút pred spaním by malo byť menej stimulujúcich ako zvyšok dňa. To je leverage. Malý opakovaný zásah, veľký compounding efekt.
+
+<div data-cs-video></div>
 
 ## Ako nastaviť budík podľa REM cyklu bez obsesie
 

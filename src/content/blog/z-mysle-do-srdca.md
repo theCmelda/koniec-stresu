@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["z mysle do srdca", "heart coherence", "srdcová koherencia technika", "presun pozornosti zo srdca"]
 transformation: schopnosť vystúpiť z mysle, keď sa točí v kruhu
@@ -48,6 +48,9 @@ V tomto stave sa zvyšuje **kortizol** a telo mobilizuje energiu. To je užitoč
 Tu prichádza dôležitá vec: úzkosť nie je tvoj nepriateľ. Je to signál. Niekedy nepresný, niekedy prehnaný, ale stále signál. Ak sa ho snažíš len umlčať, často sa vráti silnejší. Ak sa ho naučíš čítať, dostaneš páku.
 
 **Polyvagal** pohľad na nervovú sústavu hovorí o stavoch bezpečia, mobilizácie a vypnutia. Pri úzkosti býva systém v mobilizácii. Máš energiu, ale je chaotická. Tvoj cieľ nie je potlačiť ju, ale usmerniť ju. Presne tu má zmysel **srdcová koherencia technika**. Nie preto, že odstráni všetky problémy, ale preto, že zmení stav, z ktorého ich riešiš.
+
+
+<div data-cs-video></div>
 
 ## Srdcová koherencia technika: 4 minúty krok za krokom
 

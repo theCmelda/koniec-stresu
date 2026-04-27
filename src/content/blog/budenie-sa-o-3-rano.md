@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["budenie sa v noci", "budím sa o 3 ráno", "prečo sa budím v noci", "neviem zaspať keď sa zobudím"]
 transformation: noci bez prerušovania o tretej
@@ -77,6 +77,9 @@ Ako ju používať prakticky:
 - Používaj rovnakú nahrávku opakovane. Mozog sa učí asociáciu.
 
 Tu nastupuje **neuroplasticita**. Opakovaním vytváraš novú dráhu: prebudenie v noci nemusí znamenať analýzu, stres a boj. Môže znamenať sekvenciu návratu. Čím častejšie túto sekvenciu použiješ, tým menej energie bude potrebovať.
+
+
+<div data-cs-video></div>
 
 ## Keď neviem zaspať keď sa zobudím: čo robiť v prvých 10 minútach
 

@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: TdmFPQJANKM
 videoTitle: "Otázka pre lepší deň"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ranný rituál", "morning routine", "ranná rutina pre produktivitu", "ako začať deň"]
 transformation: ráno, ktoré nasmeruje celý deň
@@ -94,6 +94,9 @@ Ráno si preto vlož jednu malú regulačnú techniku. Moje tri najpraktickejši
 - **Predĺžený výdych**: nádych na 4, výdych na 6 až 8. Nie ako dogma. Ako nástroj na aktiváciu parasympatiku.
 
 Toto nie je únik od práce. Je to príprava na prácu. Ak chceš mať ostrý deň, nepotrebuješ byť od rána vystrelený. Potrebuješ byť dostupný pre realitu bez toho, aby ťa realita okamžite vlastnila.
+
+
+<div data-cs-video></div>
 
 ## Ako začať deň, keď máš deti, meetingy alebo chaos
 

@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: dwHTTKnuGK8
 videoTitle: "10 minút cvičenia na zoznam zdrojov šťastia"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["denník vďačnosti ako začať", "denník vďačnosti", "vďačnosť cvičenie", "ranný rituál vďačnosti"]
 transformation: 'trvalú prácu s vďačnosťou bez výhovoriek'
@@ -135,6 +135,9 @@ Toto je najdôležitejšia časť.
 Teplý hrnček v rukách. Čisté obliečky. Prvé slnko na tvári. Ticho po odoslaní posledného emailu. Smiech dieťaťa v izbe vedľa.
 
 Presne tieto veci budeš neskôr používať v denníku. Nie ako frázy. Ako živé dôkazy, že v tvojom dni existujú zdroje.
+
+
+<div data-cs-video></div>
 
 ## 10-minútové vďačnosť cvičenie, ktoré spravíš ešte dnes
 

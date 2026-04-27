@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["multitasking", "multitasking lie", "prečo je multitasking zlý", "single-tasking"]
 transformation: návrat k single-taskingu a 3× vyššej produktivite
@@ -73,6 +73,9 @@ Praktický single-tasking má tri vrstvy:
 Toto nie je romantika produktivity. Je to energetická architektúra. Keď znížiš počet otvorených slučiek, mozog nemusí stále prepočítavať priority. Získaš viac kognitívnej kapacity na samotnú prácu.
 
 A áno, zo začiatku to môže byť nepríjemné. Ak si roky trénoval prepínanie, ticho jednej úlohy bude pôsobiť ako deficit. Mozog si bude pýtať stimul. Práve tam začína tréning. Nie vtedy, keď sa cítiš dokonale sústredený, ale keď zostaneš pri jednej veci aj počas prvých minút odporu.
+
+
+<div data-cs-video></div>
 
 ## Ako multitasking kradne návrat do hlbokej práce
 

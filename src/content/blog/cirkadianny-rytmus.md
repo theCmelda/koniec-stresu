@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["cirkadiánny rytmus", "ranné svetlo na spánok", "ako nastaviť vnútorné hodiny", "biologické hodiny tela"]
 transformation: telo, ktoré vie kedy zaspať bez tlaku
@@ -58,6 +58,9 @@ Toto nie je romantika o prechádzke. Je to vstup do systému. Ak pracuješ na v�
 Pri klientovi často sledujem jednu vec: koľko svetla dostane pred 10:00. Ľudia riešia suplementy, ale ich telo tri týždne po sebe nevie, kedy je deň. Potom večer čakajú, že mozog vypne na povel. Takto systém nefunguje.
 
 Ak chceš jednoduchý experiment, daj si 7 dní ranného svetla. Nič ďalšie nemeň. Len sleduj, čo sa stane so zaspávaním, energiou okolo obeda a večernou ospalosťou. Nie vždy to vyrieši všetko, ale veľmi často to odkryje, koľko chaosu bolo len v zlom načasovaní svetla.
+
+
+<div data-cs-video></div>
 
 ## Ako nastaviť vnútorné hodiny cez teplotu tela
 

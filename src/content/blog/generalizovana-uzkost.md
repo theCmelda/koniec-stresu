@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["generalizovaná úzkostná porucha", "GAD úzkosť", "neustále sa o niečo strachujem", "nadmerné obavy"]
 transformation: schopnosť odlíšiť normálnu opatrnosť od chronickej úzkosti
@@ -80,6 +80,9 @@ Mozog však neznáša otvorené slučky. Builder vo mne to chápe veľmi dobre. 
 Tu prichádza práca s rozlíšením. Je táto obava riešiteľný problém, alebo mentálna simulácia bez akčného kroku?
 
 Ak je riešiteľná, potrebuješ akciu. Ak nie je, potrebuješ **reguláciu**. Toto rozlíšenie je malé, ale mení celý systém.
+
+
+<div data-cs-video></div>
 
 ## Krátka technika na GAD úzkosť, keď sa obavy točia v kruhu
 

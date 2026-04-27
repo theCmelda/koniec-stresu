@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: zVR7irv4OCg
 videoTitle: "Vzorec úspechu"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako dosiahnuť ciele", "reverse engineering cieľov", "goal setting", "ako si nastaviť ciele"]
 transformation: ciele, ktoré si vieš dotiahnuť bez šťastia
@@ -24,6 +24,7 @@ Riešenie nie je pridať viac motivácie, viac tlaku alebo ďalší vision board
 - ako používať týždenné review, metriky a reguláciu, aby si vedel, **ako dosiahnuť ciele** bez vyhorenia
 
 Vo videu vyššie ti ukazujem konkrétny spôsob, ako rozobrať cieľ na míľniky, týždenné výstupy a denné akcie. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako dosiahnuť ciele: začni od konca, nie od motivácie
 
@@ -64,6 +65,8 @@ Preto sa pri cieľoch nepýtam len na výsledok. Pýtam sa:
 - Aký systém spätnej väzby ukáže, že ideme správnym smerom?
 
 Toto nie je mäkká časť výkonu. Toto je infraštruktúra. Bez nej cieľ stojí na nálade. A nálada je slabý operačný systém pre niekoho, kto chce reálne budovať.
+
+<div data-cs-video></div>
 
 ## Ako dosiahnuť ciele cez 90-dňový horizont
 

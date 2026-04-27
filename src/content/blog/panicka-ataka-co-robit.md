@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 11
 videoId: r1spuextOOs
 videoTitle: "Havening dotyk: 3 minúty"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["panická ataka čo robiť", "panická ataka pomoc", "ako zastaviť panickú ataku", "panická ataka príznaky"]
 transformation: 'ovládnutie panických stavov'
@@ -30,6 +30,7 @@ Veľkú časť venujem technike **Havening dotyk**, ktorú používam aj ja. Je 
 - Ako funguje **panická ataka pomoc** cez nervový systém, dotyk a dych.
 - **Ako zastaviť panickú ataku** pomocou Havening dotyku krok za krokom.
 - Ako sa pripraviť na ďalšiu vlnu, aby si sa jej nebál už dopredu.
+
 
 ## Panická ataka čo robiť v prvých 60 sekundách
 
@@ -85,6 +86,8 @@ Tu pomáha pochopiť jednu zásadnú vec: panická ataka je falošný poplach, n
 Ak máš nové, silné alebo nezvyčajné príznaky, najmä bolesť na hrudi, slabosť na jednej strane tela, mdlobu alebo problém s rečou, rieš to s lekárom. To nie je slabosť. To je zodpovednosť.
 
 Keď však vieš, že ide o paniku, začneš sa učiť inú reakciu. Nie bojovať s telom. Ale ukázať mu cestu späť.
+
+<div data-cs-video></div>
 
 ## Panická ataka čo robiť: Havening dotyk krok za krokom
 

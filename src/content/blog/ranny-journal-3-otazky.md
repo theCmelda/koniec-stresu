@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: TdmFPQJANKM
 videoTitle: "Otázka pre lepší deň"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ranný journal", "ranný denník", "morning pages", "písanie ráno"]
 transformation: deň so smerom, ktorý si si zvolil ty
@@ -102,6 +102,9 @@ Ranný zápis vie vytvoriť pocit orientácie. A orientácia je forma bezpečia.
 Dopamín tu hrá tiež svoju rolu. Keď ráno jasne identifikuješ jeden krok, ktorý má zmysel, mozog má konkrétny cieľ. Dopamín nie je len hormón radosti. Je to súčasť motivácie, anticipácie a pohybu smerom k cieľu. Ak je cieľ príliš nejasný, energia sa rozlieva. Ak je cieľ príliš veľký, nervová sústava môže ísť do odporu. Jeden jasný krok je často lepší než ambiciózny plán, ktorý sa rozpadne o 10:30.
 
 Preto nechcem, aby si svoj ranný denník hodnotil podľa toho, či bol pekný. Hodnoť ho podľa toho, či ti pomohol spraviť lepšie rozhodnutie, keď prišiel tlak.
+
+
+<div data-cs-video></div>
 
 ## Ako nastaviť písanie ráno, aby vydržalo dlhšie než týždeň
 

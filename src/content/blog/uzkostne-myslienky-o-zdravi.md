@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["úzkostné myšlienky o zdraví", "hypochondria", "zdravotná úzkosť", "googlim symptómy bojím sa"]
 transformation: pokoj o tvoje telo bez kontrolovania každého pocitu
@@ -36,6 +36,7 @@ Mozog potom spraví to, na čo bol navrhnutý: hľadá vzorce. Lenže pod streso
 Preto ti nestačí veta je to asi nič. Ak je telo v aktivácii, logika sa odráža od steny. Potrebuješ najprv znížiť intenzitu signálu v tele. Až potom má zmysel rozmýšľať, či je potrebné niečo riešiť medicínsky.
 
 Tu je prvý posun: cieľom nie je presvedčiť sa, že určite nemáš problém. Cieľom je dostať nervovú sústavu z režimu alarmu do režimu, kde vieš vyhodnocovať realitu.
+
 
 ## Ako funguje Google-search trap pri zdravotnej úzkosti
 
@@ -78,6 +79,8 @@ Postup:
 Tento postup zapája parasympatikus, hlavne cez pomalší výdych a orientáciu v priestore. Telo dostáva signál, že nie si v bezprostrednom nebezpečenstve. Kortizol a aktivácia neklesnú vždy okamžite, ale začneš meniť smer.
 
 Toto nie je pozitívne myslenie. Je to práca s fyziológiou. Keď sa tvoja nervová sústava upokojí o 10 až 20 percent, často zistíš, žemyseľ nie je taká presvedčená o katastrofe. Symptóm môže stále existovať, ale už nie je jediným riaditeľom celej firmy.
+
+<div data-cs-video></div>
 
 ## Ako rozlíšiť signál od alarmu
 

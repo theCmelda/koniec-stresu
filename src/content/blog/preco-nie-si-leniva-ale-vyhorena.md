@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["lenivosť alebo vyhorenie", "nie som lenivý som vyhorený", "ako rozlíšiť lenivosť od vyhorenia", "rozdiel lenivosť vyhorenie"]
 transformation: jasnosť o tom, čo telo skutočne potrebuje
@@ -54,6 +54,9 @@ Sleduj tri signály:
 - **regenerácia po výkone**: po pauze sa vraciaš, alebo sa cítiš ešte horšie
 
 Rozdiel lenivosť vyhorenie nie je morálny. Je funkčný. Keď ho pochopíš, prestaneš si dávať nesprávny liek na správny problém.
+
+
+<div data-cs-video></div>
 
 ## Ako rozlíšiť lenivosť od vyhorenia v tele, nie v hlave
 

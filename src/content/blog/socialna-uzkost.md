@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: syAw_f0Abic
 videoTitle: "NLP technika kotvy pokoja"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["sociálna úzkosť", "sociálna fóbia", "úzkosť pred ľuďmi", "trápenie pred prezentáciou"]
 transformation: pokoj v situáciách, kde ťa vidia iní
@@ -39,6 +39,7 @@ Cieľ preto nie je stať sa človekom bez aktivácie. Cieľ je naučiť sa aktiv
 
 Pre mňa je toto builder mindset v praxi. Nečakáš na ideálne sebavedomie. Staviaš systém, ktorý ťa podrží, keď tlak narastie.
 
+
 ## Kotva pokoja: ako funguje NLP technika v tele
 
 **NLP kotva pokoja** je jednoduchý princíp: spojíš konkrétny telesný podnet s konkrétnym vnútorným stavom. Napríklad stlačíš palec a ukazovák v momente, keď cítiš pokoj, stabilitu alebo sústredenie. Opakovaním sa z toho stane signál, ktorý telu pomôže rýchlejšie nájsť rovnaký stav.
@@ -63,6 +64,8 @@ Technicky chceš splniť tri veci:
    Kotvu spúšťaš vtedy, keď je stav najsilnejší. Nie predtým, nie po ňom. Keď cítiš telo mäknúť, dych sa spomaľuje a pozornosť sa usádza, aktivuješ vybrané gesto na 5 až 10 sekúnd.
 
 Toto opakuješ niekoľkokrát. Krátko, presne, bez pretlaku. Pri dobre vytvorenej kotve nejde o to, že zmizne každý symptóm. Ide o to, že máš páku, ktorou vieš znížiť intenzitu aktivácie o pár percent. A niekedy je pár percent rozdiel medzi odchodom od dverí a vstupom do miestnosti.
+
+<div data-cs-video></div>
 
 ## Ako si vytvoriť kotvu pokoja krok za krokom
 

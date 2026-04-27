@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["nedeľa večer panika", "nedeľná úzkosť", "Sunday scaries", "ako sa pripraviť na pondelok"]
 transformation: nedeľný večer ako prechod, nie ako predtuchu
@@ -36,6 +36,7 @@ Z pohľadu neurovedy je to efektívne. Mozog šetrí energiu tým, že predvída
 Preto nestačí povedať si, že sa nemáš stresovať. Telo nepotrebuje **bezpečie**, jasný ďalší krok a dôkaz, že pondelok nebude len náraz do steny. Nie veľký životný plán. Nie päťhodinový audit existencie. Skôr malý systém, ktorý pošle telu signál: viem, čo je prvé, čo môže počkať a čo dnes už nemusím niesť.
 
 Keď to pochopíš, prestaneš sám seba bičovať za to, že sa ti v nedeľu ťažko dýcha. Začneš sa pýtať lepšiu otázku: čo mi tento stres ukazuje o mojom systéme?
+
 
 ## Ako nedeľa večer panika vzniká v tele
 
@@ -68,6 +69,8 @@ V praxi používam jednoduché pravidlo: pauza má mať aspoň jeden z týchto e
 Nemusíš meditovať hodinu. Nemusíš ísť do lesa na tri dni. Niekedy stačí 12 minút bez vstupu. Žiadny podcast, žiadne maily, žiadne plánovanie. Len chôdza, sprcha, dýchanie, sedenie na balkóne, upratanie kuchynskej linky pomalým tempom.
 
 Pre high-performerov je toto ťažké, lebo pauza nemá okamžitý graf. Ale má compounding efekt. Keď si ju dávaš pravidelne, znižuješ základnú hladinu napätia. A keď je základná hladina nižšia, nedeľná úzkosť nemá taký veľký priestor vybuchnúť.
+
+<div data-cs-video></div>
 
 ## Ako sa pripraviť na pondelok bez tlaku
 

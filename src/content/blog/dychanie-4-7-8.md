@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["dýchanie 4-7-8", "technika 4-7-8", "dýchanie na upokojenie", "Andrew Weil dýchanie"]
 transformation: 'okamžitý pokoj cez dych'
@@ -122,6 +122,9 @@ Nič netlač. Ak výdych nejde na 4, daj 3. Ak nádych nejde nosom, použi ústa
 Ak sa pri dýchaní zhorší úzkosť, vráť sa k normálnemu dychu. Pozri sa okolo seba. Pomenuj tri veci, ktoré vidíš. Polož chodidlá na zem.
 
 Regulácia nie je súťaž v zadržaní dychu. Je to návrat do bezpečia.
+
+
+<div data-cs-video></div>
 
 ## Ako si vyskúšať dýchanie 4-7-8 krok za krokom
 

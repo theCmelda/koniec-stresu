@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: Xr7vPVcdVcs
 videoTitle: "Trauma a spomienky: technika z terapie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako sa zbaviť bolestivej spomienky", "spracovanie traumy", "vymazať bolestivú spomienku", "ako pracovať s traumou"]
 transformation: 'bolestivé spomienky bez emocionálneho náboja'
@@ -28,6 +28,7 @@ V tomto článku ti ukážem spôsob práce, ktorý používam aj ja sám a uč�
 - prečo sa nedá jednoducho **vymazať bolestivú spomienku**, ale dá sa zmeniť jej náboj
 - **ako pracovať s traumou** pomocou bezpečnej techniky z terapie
 - ako zapojiť **dych**, telo a nervový systém, aby sa spomienka prestala spúšťať tak silno
+
 
 ## Ako sa zbaviť bolestivej spomienky bez toho, aby si sa v nej stratil
 
@@ -56,6 +57,8 @@ Preto nestačí povedať si: už na to nemysli. Časť mozgu, ktorá pracuje s l
 Tu prichádza nádej. Mozog je plastický. **Neuroplasticita** znamená, že sa nervový systém dokáže učiť nové reakcie. Keď spomienku prinesieš do vedomia v bezpečnom množstve a zároveň aktivuješ pocit bezpečia, mozog môže aktualizovať starý záznam.
 
 Nie vždy rýchlo. Nie vždy na prvý pokus. Nie vždy bez pomoci. Ale je veľký rozdiel medzi tým, keď ťa spomienka unesie, a tým, keď sa ju učíš držať v rukách.
+
+<div data-cs-video></div>
 
 ## Ako sa zbaviť bolestivej spomienky pomocou 3-krokovej techniky
 

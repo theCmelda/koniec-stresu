@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["phone detox", "digital detox", "ako sa zbaviť závislosti od telefónu", "závislosť od mobilu"]
 transformation: vzťah s telefónom, ktorý slúži tebe a nie naopak
@@ -54,6 +54,9 @@ Praktický digital detox má tri vrstvy:
 - **Rozhodnutie**: telefón berieš do ruky s konkrétnym účelom
 
 Toto je oveľa menej dramatické než radikálne zákazy, ale funguje to lepšie. Pretože systém nevyžaduje dokonalosť. Vyžaduje len to, aby si najčastejšiu slučku prerušil dostatočne často.
+
+
+<div data-cs-video></div>
 
 ## Phone detox ako tréning pozornosti cez zmysly
 

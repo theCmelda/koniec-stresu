@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 9
 videoId: JzgGB-jJhJc
 videoTitle: "10 najčastejších otázok o meditácii (odpovede)"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["meditácia pre začiatočníkov", "ako začať meditovať", "ako meditovať doma", "chyby pri meditácii"]
 transformation: 'pokojnú prax meditácie každý deň'
@@ -45,6 +45,7 @@ Prvá úprimná odpoveď teda znie: nemusíš prestať myslieť. Stačí si vši
 
 To je meditácia.
 
+
 ## Ako začať meditovať doma bez špeciálnych podmienok
 
 Ak riešiš, **ako začať meditovať**, začni tak jednoducho, že to nebude mať kde zlyhať.
@@ -65,6 +66,8 @@ Ak premýšľaš, **ako meditovať doma**, vyber si jedno miesto. Nemusí byť d
 Najlepšie funguje pravidelnosť. Nie veľký výkon.
 
 Daj si meditáciu po rannej hygiene, po káve alebo večer pred sprchou. Pripoj ju k niečomu, čo už robíš. Tak si z nej spravíš návyk, nie ďalšiu povinnosť.
+
+<div data-cs-video></div>
 
 ## Ako dlho meditovať, keď začínaš?
 

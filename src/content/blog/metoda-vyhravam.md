@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: LDHX3a5mE6w
 videoTitle: "Metóda VYHRÁVAM: prenastavenie RAS"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["metóda VYHRÁVAM", "RAS reprogramming", "ako prenastaviť mozog", "pozitívne myslenie cvičenie"]
 transformation: mozog, ktorý si všimne príležitosti namiesto problémov
@@ -37,6 +37,7 @@ Tu sa často láme rozdiel medzi naivným optimizmom a praktickým tréningom po
 
 **RAS reprogramming** v praxi znamená, že opakovane dávaš mozgu otázky a dôkazy, ktoré menia prioritu filtra. Čo sa počíta ako výhra? Čo sa počíta ako signál rastu? Čo si dnes zvládol, aj keď to nebolo ideálne? Tieto otázky nie sú mäkké. Sú operačný systém. A keď sa opakujú denne, začnú meniť to, čo vidíš automaticky.
 
+
 ## Metóda VYHRÁVAM: jednoduchý 5-minútový protokol
 
 **Metóda VYHRÁVAM** je skratka, ktorú používam ako denný mentálny reset. Nie je to denník na dvadsať minút. Nie je to esej o pocitoch. Je to krátky systém, ktorý má dať tvojmu mozgu jasné vstupy, aby vedel, čo má filtrovať dovnútra.
@@ -57,6 +58,8 @@ Používaj tento rámec:
 Celé to má trvať päť minút. Ak z toho urobíš dvadsaťminútový rituál, možno tozabiješ hneď v prvom týždni. Systém musí byť dostatočne malý, aby prežil aj dni, keď nie si v ideálnej energii.
 
 Pointa nie je mať dokonalý zápis. Pointa je opakovane signalizovať mozgu: toto je dôležité, toto si všímaj, toto púšťaj do vedomia.
+
+<div data-cs-video></div>
 
 ## Ako prenastaviť mozog bez popierania reality
 

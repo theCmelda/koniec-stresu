@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: PqCXY5OB4sg
 videoTitle: "Vedená nahrávka: krivda a odpustenie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako odpustiť", "odpustenie", "ako odpustiť sebe", "ako odpustiť rodičom"]
 transformation: 'uvoľnenie krivdy, ktorá ťa už nedrží'
@@ -86,6 +86,9 @@ Preto pri práci s odpustením často hovorím: najprv bezpečie, potom význam.
 Niektoré veci sa nedajú pochopiť tak, aby prestali bolieť. Ale dajú sa spracovať tak, aby ťa prestali ovládať.
 
 A tu začína práca s dychom, vizualizáciou a vnútorným dialógom.
+
+
+<div data-cs-video></div>
 
 ## Ako odpustiť cez dych a reguláciu nervového systému
 

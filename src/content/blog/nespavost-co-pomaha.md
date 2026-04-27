@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 11
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["nespavosť čo pomáha", "chronická nespavosť", "ako zaspať pri nespavosti", "lieky na nespavosť alternatíva"]
 transformation: 'noci, po ktorých sa zobudíš oddýchnutý'
@@ -253,6 +253,9 @@ Toto je dôležité pri **chronická nespavosť**, lebo potrebuješ znova nauči
 Neber to ako trest. Ber to ako reguláciu prostredia.
 
 Tvoj cieľ nie je zaspať za každú cenu. Tvoj cieľ je nepridávať ďalší strach k prebudeniu. Keď sa zobudíš a zostaneš pokojnejší, už meníš vzorec.
+
+
+<div data-cs-video></div>
 
 ## Lieky na nespavosť alternatíva: kedy pomáha prirodzený postup a kedy už treba lekára
 

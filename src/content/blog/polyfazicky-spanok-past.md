@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["polyfázický spánok", "polyphasic sleep slovensky", "spánok 4 hodiny denne", "Uberman cyklus"]
 transformation: spánok ako leverage, nie ako čas, čo treba ušetriť
@@ -82,6 +82,9 @@ Tu je dobrý test: pozeraj sa na svoj spánok cez kvalitu ďalšieho dňa. Nie c
 Regenerácia nie je pasivita. Je to tréning nervovej sústavy, aby vedela prepínať. Sympatikus potrebuješ, keď ideš do výkonu. Parasympatikus potrebuješ, aby si výkon vedel zopakovať. Ak je celé tvoje fungovanie postavené na aktivácii, začneš platiť úrok v podobe únavy, podráždenosti, plytkého spánku a slabšej motivácie.
 
 Preto ma nezaujíma len otázka, koľko spíš. Zaujíma ma, či tvoj spánok reálne obnovuje systém. Ak nie, **polyfázický spánok** nie je upgrade. Je to len nový názov pre starý problém: ideš rýchlejšie, než sa vieš opravovať.
+
+
+<div data-cs-video></div>
 
 ## Ako budovať spánok ako systém výkonu
 

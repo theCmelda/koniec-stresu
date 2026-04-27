@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["body scan na zaspávanie", "body scan meditácia", "vedená meditácia spánok", "uvoľnenie tela pred spaním"]
 transformation: uvoľnené telo, ktoré vie, že je čas zaspať
@@ -37,6 +37,7 @@ Z pohľadu neurovedy tým posúvaš pozornosť z príbehov v hlave do interocepc
 
 Telo je brána. Keď ju používaš konzistentne, začneš budovať asociáciu: posteľ, tma, pokojný hlas, prechod telom, spánok. Toto je neuroplasticita v praxi. Nie dramatická zmena zo dňa na deň, ale opakovaný signál, ktorý sa časom stáva automatickejším.
 
+
 ## 10-minútový protokol: body scan meditácia krok za krokom
 
 Ak chceš, aby body scan fungoval, drž ho jednoduchý. Desať minút je dosť dlhý čas na to, aby sa nervová sústava začala posúvať, ale dosť krátky na to, aby z toho nevznikol ďalší projekt. Cieľ nie je spraviť dokonalú meditáciu. Cieľ je prejsť telo a dovoliť mu znížiť napätie o jeden stupeň.
@@ -66,6 +67,8 @@ Parasympatikus je časť systému, ktorá podporuje trávenie, obnovu, sociálne
 **Body scan na zaspávanie** dáva telu signál bezpečia cez opakovanú pozornosť a jemné uvoľnenie. Nejde o to, že jednou technikou opravíš celý životný štýl. Ide o to, že večer vytvoríš mikroprostredie, v ktorom nemusíš držať obranu. Menej kontroly. Menej skenovania externého sveta. Viac kontaktu s vnútornými vnemami.
 
 Kortizol, dopamín a pozornosť spolu úzko súvisia. Ak ešte desať minút pred spaním scrolluješ, mozog dostáva novotu, porovnávanie, impulzy a odmeny. Dopamín ťahá systém dopredu. Body scan robí opačný pohyb. Znižuje potrebu hľadať ďalší stimul a vracia ťa k signálom tela. To je dôvod, prečo jednoduchá **body scan meditácia** často funguje lepšie než ďalšie premýšľanie o tom, ako zaspať.
+
+<div data-cs-video></div>
 
 ## Ako si pripraviť prostredie na uvoľnenie tela pred spaním
 

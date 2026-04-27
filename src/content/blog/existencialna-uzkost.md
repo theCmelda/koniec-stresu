@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["existenciálna úzkosť", "zmysel života úzkosť", "čo to celé znamená", "existencialná kríza"]
 transformation: ukotvenie v zmysle, aj keď otázky nezmiznú
@@ -70,6 +70,9 @@ Falošné WHY má tri typické znaky:
 Hlboké WHY je iné. Neznamená, že každý deň cítiš nadšenie. To je rozprávka. Znamená, že aj keď je deň ťažký, vieš, prečo má zmysel pokračovať. Nie cez tlak. Cez smer.
 
 Tvoje WHY má byť dostatočne osobné, aby malo emočnú váhu, a dostatočne praktické, aby ovplyvňovalo rozhodnutia. Ak ostane len ako pekná veta v poznámkach, nepomôže ti. Musí sa stať filtrom: čomu povieš áno, čomu povieš nie, kde spomalíš, kde zatlačíš, kde prestaneš klamať sám seba.
+
+
+<div data-cs-video></div>
 
 ## Cvičenie na hlboké WHY pri existenciálnej úzkosti
 

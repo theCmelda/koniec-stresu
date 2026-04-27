@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["uzemnenie 5-4-3-2-1", "grounding technika", "uzemnenie pri úzkosti", "5-4-3-2-1 metóda"]
 transformation: praktická technika späť do prítomnosti
@@ -48,6 +48,9 @@ Na druhej strane, keď systém spadne do zamrznutia, môžeš byť otupený, odp
 Pri panickej atake je **5-4-3-2-1 metóda** použiteľná, ale nie ako prvá línia pre každého. Ak máš pocit, že omdlieš, zomrieš alebo stratíš kontrolu, tvoja kapacita pre zoznamy je nízka. Najprv potrebuješ signál bezpečia cez telo: predĺžený výdych, chodidlá do zeme, pevný kontakt s predmetom, orientácia očami do priestoru. Až potom má zmysel prejsť cez päť zmyslov.
 
 Pre mňa je toto systémové pravidlo: technika nemá dokazovať, že si silný. Technika má zodpovedať stavu systému. Keď sa stav zmení, meníš intervenciu. To nie je zlyhanie. To je dobrý operational awareness.
+
+
+<div data-cs-video></div>
 
 ## Ako robiť uzemnenie 5-4-3-2-1 správne
 

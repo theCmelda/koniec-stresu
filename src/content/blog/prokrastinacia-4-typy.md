@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: qJPQaZclQ3c
 videoTitle: "Rozdiel medzi tými, čo dotiahnu a tými, čo nie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["prokrastinácia", "typy prokrastinácie", "ako prekonať prokrastináciu", "prečo odkladám veci"]
 transformation: konkrétne nástroje pre tvoj typ odkladania
@@ -170,6 +170,9 @@ Používam na to **návratový protokol**:
 Mikrovýstup nie je pocit, že si pracoval. Je to niečo, čo existuje mimo tvojej hlavy: odoslaný email, prvý odsek, zoznam bodov, vyplnené čísla, návrh štruktúry, pripravený dokument. Tvoj mozog potrebuje dôkaz pohybu. Nie ďalší plán, ktorý nikdy neprejde do akcie.
 
 Schopnosť návratu je skill. A ako každý skill, buduje sa opakovaním. Neuroplasticita neznamená, že sa zmeníš po jednom silnom uvedomení. Znamená, že cez opakované správanie vytváraš nové predikcie. Najprv sa vraciaš pomaly. Potom rýchlejšie. Neskôr už výpadok nečítaš ako zlyhanie, ale ako súčasť systému.
+
+
+<div data-cs-video></div>
 
 ## Ako prekonať prokrastináciu podľa typu, nie podľa nálady
 

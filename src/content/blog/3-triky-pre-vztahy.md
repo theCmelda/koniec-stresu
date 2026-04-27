@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: p-hsJ96Cyq0
 videoTitle: "Tri triky pre lepšie vzťahy"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako zlepšiť vzťah", "lepšie vzťahy s partnerom", "komunikácia v partnerstve", "vzťahové triky"]
 transformation: vzťahy, kde sa cítiš videný a počutý
@@ -24,6 +24,7 @@ V tomto článku sa dozvieš:
 - ako vytvoriť bezpečie, v ktorom sa konflikt nemení na útok alebo útek
 
 Vo videu vyššie ti ukazujem tri konkrétne triky pre vzťahy: krátky reset pred reakciou, 10-minútový check-in a jednoduchý spôsob, ako opraviť mikrotrhlinu po konflikte. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu.
+
 
 ## Ako zlepšiť vzťah cez mikro signály
 
@@ -62,6 +63,8 @@ Skús tento protokol:
 Parasympatikus potrebuje signál, že nehrozí okamžitý útok. Dlhší výdych, pomalšie tempo a fyzické ukotvenie tela pomáhajú nervovej sústave znížiť obranu. Nie preto, že dýchanie vyrieši problém. Ale preto, že bez regulácie často riešiš problém z časti mozgu, ktorá chce hlavne prežiť.
 
 Ak chceš lepšie vzťahy s partnerom, nezačni otázkou, kto má pravdu. Začni otázkou: v akom stave idem hovoriť? To je malý posun, ale mení kvalitu celej konverzácie.
+
+<div data-cs-video></div>
 
 ## Ako zlepšiť vzťah pomocou 10-minútového check-inu
 

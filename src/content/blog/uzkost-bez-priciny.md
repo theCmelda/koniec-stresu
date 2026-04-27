@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["úzkosť bez príčiny", "náhla úzkosť", "úzkosť z ničoho nič", "prečo mám úzkosť bez dôvodu"]
 transformation: porozumenie tomu, čo telo skutočne signalizuje
@@ -142,6 +142,9 @@ Toto rozdelenie ti vráti páku. Nemusíš veriť každej interpretácii len pre
 Keď sa myšlienka prilepí, použi vetu: mám myšlienku, že sa niečo pokazí. Nie: niečo sa pokazí. Ten rozdiel je malý, ale dôležitý. Vytvorí priestor medzi tebou a obsahom hlavy. V terapii sa tomu často hovorí defúzia. Ja to beriem ako mentálnu páku. Menej zlúčenia s myšlienkou, viac priestoru na voľbu.
 
 Potom sa vráť do tela: chodidlá, zrak, výdych. Ak treba, zopakuj protokol **STOP, ZEM, NÁZOV, VÝDYCH** dvakrát. Cieľ nie je mať prázdnu hlavu. Cieľ je prestať prikladať drevo do slučky.
+
+
+<div data-cs-video></div>
 
 ## Ako budovať kapacitu nervovej sústavy dlhodobo
 

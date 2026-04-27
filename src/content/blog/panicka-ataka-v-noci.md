@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["panická ataka v noci", "nočné panické ataky", "budím sa s úzkosťou", "prebudenie panika v noci"]
 transformation: noci bez náhleho budenia v panike
@@ -68,6 +68,9 @@ Praktický postup pri prebudení:
 5. **Zníž rozhodovanie**: maj pripravený nočný protokol, aby si nemusel v panike vymýšľať plán.
 
 Toto nie je o dokonalosti. Keď príde **panická ataka v noci**, tvoj cieľ nie je podať výkon. Cieľ je znížiť intenzitu o 5 percent, potom o ďalších 5. Tak sa buduje dôvera. Nervová sústava sa učí cez opakovanie, nie cez jednorazové pochopenie.
+
+
+<div data-cs-video></div>
 
 ## Ako funguje hypnotická vedená nahrávka po nočnom prebudení
 

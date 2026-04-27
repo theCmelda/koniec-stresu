@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 11
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie cez vnútorné WHY"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako nájsť zmysel", "zmysel života", "ako nájsť svoje poslanie", "ikigai slovensky"]
 transformation: 'zmysel, za ktorým si vieš stáť'
@@ -321,6 +321,9 @@ Nie zmena kariéry. Jeden večer venovaný tomu, čo v tebe znova zapaľuje iskr
 Záväzok nie je veta: už nikdy nespadnem.
 
 Záväzok je veta: aj keď spadnem, viem, kam sa vraciam.
+
+
+<div data-cs-video></div>
 
 ## Príbeh z mojej praxe
 

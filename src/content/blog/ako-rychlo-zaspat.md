@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 8
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku ešte dnes (2 málo známe triky)"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako rýchlo zaspať", "lepší spánok", "nespavosť", "spánková hygiena"]
 transformation: 'hlbší spánok bez tabletiek'
@@ -26,6 +26,7 @@ Dobrá správa je, že nemusíš hneď meniť celý život. Dnes ti ukážem dve
 - prečo pomalé dýchanie upokojuje nervový systém
 - jednoduchú rutinu, ak ťa trápi **nespavosť**
 - čo robiť, keď chceš **zaspať za 2 minúty**, ale hlava nespolupracuje
+
 
 ## Ako rýchlo zaspať, keď je telo unavené, ale mozog bdelý
 
@@ -63,6 +64,8 @@ Skús dnes toto:
 Studené nohy môžu spánok brzdiť. Keď sú chodidlá príliš chladné, cievy sa stiahnu a telo horšie odvádza teplo.
 
 Tenké ponožky teda nie sú babská rada. Sú jednoduchý spôsob, ako podporiť termoreguláciu.
+
+<div data-cs-video></div>
 
 ## Ako rýchlo zaspať pomocou dychu: spomaľ výdych
 

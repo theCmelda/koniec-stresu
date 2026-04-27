@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["ako zmeniť svoj život", "životná zmena", "transformácia za 90 dní", "ako začať od začiatku"]
 transformation: 90 dní, ktoré nezačnú a neskončia v rovnakom mieste
@@ -24,6 +24,7 @@ Riešenie nie je mať silnejšiu vôľu, nový diár alebo brutálnejší plán.
 - ako použiť stres, návyk a regeneráciu ako systém, nie ako náhodné rozhodnutia
 
 Vo videu vyššie ti ukazujem konkrétny 30-dňový postup, ako sa dostať z chronického stresu do väčšieho pokoja cez telo, dych, spánok a reguláciu. V článku ti dám rámec, ktorý ho zasadí do väčšieho obrazu: ako z týchto 30 dní spraviť základ pre 90-dňovú transformáciu, ktorá nestojí na hype, ale na systéme.
+
 
 ## Ako zmeniť svoj život začína nervovou sústavou, nie plánovačom
 
@@ -117,6 +118,8 @@ Každý deň si poznač, či si návyk spravil. Jednoducho. Papier, appka, kalen
 Dopamín nie je len o odmene. Je aj o očakávaní progresu. Keď vidíš sériu malých víťazstiev, mozog začína veriť, že nový smer má traction.
 
 V tejto fáze nebuduješ dokonalý režim. Buduješ dôveru v seba cez opakovateľné dôkazy.
+
+<div data-cs-video></div>
 
 ## Ako zmeniť svoj život v 90 dňoch bez chaosu
 

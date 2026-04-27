@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: Xr7vPVcdVcs
 videoTitle: "Trauma a spomienky: technika z terapie"
-videoPlacement: bottom
+videoPlacement: inline
 featured: false
 keywords: ["vyhýbavé správanie", "úzkosť vyhýbam sa", "vyhýbam sa veciam ktoré ma stresujú", "prokrastinácia z úzkosti"]
 transformation: návrat k veciam, ktorým si sa kvôli úzkosti vyhýbal
@@ -60,6 +60,9 @@ Spomienky nie sú len video uložené v hlave. Sú to telesné predpovede. Nervo
 Tu vstupuje neuroplasticita. Mozog sa vie učiť nové asociácie, ale potrebuje skúsenosť, nie len vysvetlenie. Ak si sto razy povieš, že sa nemusíš báť malého talku, ale vždy zrušíš pozvanie, systém sa naučí len to, že únik bol potrebný. Ak však zostaneš v malej dávke kontaktu a prežiješ to bez kolapsu, vzniká nový dátový bod.
 
 Práca so spomienkami preto nie je dramatické hrabanie sa v minulosti. Je to presné hľadanie toho, kde sa starý ochranný program dnes spúšťa a ako mu dať nový výsledok. Nie naraz. Postupne. Tak, aby to telo vedelo absorbovať.
+
+
+<div data-cs-video></div>
 
 ## Ako mapovať vzorec bez toho, aby si sa v ňom utopil
 
