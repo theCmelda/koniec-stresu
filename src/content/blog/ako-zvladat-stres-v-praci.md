@@ -4,7 +4,9 @@ description: "ako zvládať stres v práci: praktický návod krok za krokom. Ko
 publishDate: 2026-04-28
 category: Stres
 readingTime: 11
-videoPlacement: remove
+videoId: y1RH0WbogA0
+videoTitle: "Energetický audit"
+videoPlacement: top
 featured: false
 keywords: ["ako zvládať stres v práci", "pracovný stres", "stres v zamestnaní", "ako zvládať pracovné napätie"]
 transformation: 'energiu, ktorá vydrží do piatka'

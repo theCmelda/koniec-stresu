@@ -4,7 +4,9 @@ description: "ako zmeniť svoj život: praktický návod krok za krokom. Konkré
 publishDate: 2026-06-28
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: Cqucxrnf-MI
+videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
+videoPlacement: top
 featured: false
 keywords: ["ako zmeniť svoj život", "životná zmena", "transformácia za 90 dní", "ako začať od začiatku"]
 transformation: 90 dní, ktoré nezačnú a neskončia v rovnakom mieste

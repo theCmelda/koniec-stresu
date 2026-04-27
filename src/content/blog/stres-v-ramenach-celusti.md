@@ -4,7 +4,9 @@ description: "stres v ramenách: praktický návod krok za krokom. Konkrétne te
 publishDate: 2026-05-19
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: y1RH0WbogA0
+videoTitle: "Energetický audit"
+videoPlacement: top
 featured: false
 keywords: ["stres v ramenách", "napätie v čeľusti", "stres v tele", "psychosomatika napätie"]
 transformation: uvoľnené telo, ktoré stres pustí cez deň, nie cez kríze

@@ -4,7 +4,9 @@ description: "NLP kotva pokoja: praktický návod krok za krokom. Konkrétne tec
 publishDate: 2026-05-10
 category: Stres
 readingTime: 11
-videoPlacement: remove
+videoId: syAw_f0Abic
+videoTitle: "NLP technika kotvy pokoja"
+videoPlacement: top
 featured: false
 keywords: ["NLP kotva pokoja", "NLP technika anchoring", "kotva pokoja meditácia", "anchoring NLP"]
 transformation: 'pokoj na povel kedykoľvek a kdekoľvek'

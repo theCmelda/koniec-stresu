@@ -4,7 +4,9 @@ description: "ako sa upokojiť rýchlo: praktický návod krok za krokom. Konkr�
 publishDate: 2026-05-15
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: Cqucxrnf-MI
+videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
+videoPlacement: top
 featured: false
 keywords: ["ako sa upokojiť rýchlo", "ako sa upokojiť za 60 sekúnd", "rýchle upokojenie pri strese", "ako sa upokojiť pred prezentáciou"]
 transformation: upokojenie na povel, kedykoľvek to potrebuješ

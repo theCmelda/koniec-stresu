@@ -4,8 +4,8 @@ description: "sociálna úzkosť: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-06-06
 category: Úzkosť
 readingTime: 12
-videoId: Y5VqEe7_AVk
-videoTitle: "Vytvor si vlastnú pokojnú kotvu (vedená nahrávka)"
+videoId: syAw_f0Abic
+videoTitle: "NLP technika kotvy pokoja"
 videoPlacement: top
 featured: false
 keywords: ["sociálna úzkosť", "sociálna fóbia", "úzkosť pred ľuďmi", "trápenie pred prezentáciou"]

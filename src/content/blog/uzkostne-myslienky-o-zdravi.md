@@ -4,7 +4,9 @@ description: "úzkostné myšlienky o zdraví: praktický návod krok za krokom.
 publishDate: 2026-06-09
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoId: S-OpVH6hnj8
+videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
+videoPlacement: top
 featured: false
 keywords: ["úzkostné myšlienky o zdraví", "hypochondria", "zdravotná úzkosť", "googlim symptómy bojím sa"]
 transformation: pokoj o tvoje telo bez kontrolovania každého pocitu

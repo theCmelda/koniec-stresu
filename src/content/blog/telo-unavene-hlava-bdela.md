@@ -4,7 +4,9 @@ description: "telo unavené hlava bdelá: praktický návod krok za krokom. Konk
 publishDate: 2026-05-26
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoId: JhUyvFqeIc8
+videoTitle: "Vedená meditácia: 2:4 dych"
+videoPlacement: top
 featured: false
 keywords: ["telo unavené hlava bdelá", "mind racing pred spaním", "ako vypnúť myseľ pred spaním", "myšlienky v hlave večer"]
 transformation: myseľ, ktorá sa vypne keď telo už chce spať

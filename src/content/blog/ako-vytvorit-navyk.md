@@ -4,7 +4,9 @@ description: "ako si vytvoriť návyk: praktický návod krok za krokom. Konkré
 publishDate: 2026-06-27
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: horlVXgyMGs
+videoTitle: "Ako udržať meditačnú prax aj keď nie je čas"
+videoPlacement: top
 featured: false
 keywords: ["ako si vytvoriť návyk", "návyk 21 dní", "atomic habits slovensky", "ako udržať návyk"]
 transformation: návyky, ktoré ti vydržia bez sily vôle

@@ -4,7 +4,9 @@ description: "denník vďačnosti ako začať: praktický návod krok za krokom.
 publishDate: 2026-05-05
 category: Transformácia
 readingTime: 11
-videoPlacement: remove
+videoId: dwHTTKnuGK8
+videoTitle: "10 minút cvičenia na zoznam zdrojov šťastia"
+videoPlacement: top
 featured: false
 keywords: ["denník vďačnosti ako začať", "denník vďačnosti", "vďačnosť cvičenie", "ranný rituál vďačnosti"]
 transformation: 'trvalú prácu s vďačnosťou bez výhovoriek'

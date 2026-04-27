@@ -5,7 +5,7 @@ publishDate: 2026-05-07
 category: Transformácia
 readingTime: 11
 videoId: PqCXY5OB4sg
-videoTitle: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
+videoTitle: "Vedená nahrávka: krivda a odpustenie"
 videoPlacement: top
 featured: false
 keywords: ["ako odpustiť", "odpustenie", "ako odpustiť sebe", "ako odpustiť rodičom"]

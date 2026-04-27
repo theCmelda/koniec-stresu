@@ -4,7 +4,9 @@ description: "spánková hygiena: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-24
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoId: YIH89ABBJ2w
+videoTitle: "Zdvojnásob kvalitu spánku"
+videoPlacement: top
 featured: false
 keywords: ["spánková hygiena", "pravidlá spánkovej hygieny", "tipy na lepší spánok", "spánková hygiena dospelí"]
 transformation: jednoduché ranné aj večerné rutiny pre hlboký spánok

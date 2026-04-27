@@ -4,7 +4,9 @@ description: "prokrastinácia: praktický návod krok za krokom. Konkrétne tech
 publishDate: 2026-06-15
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: qJPQaZclQ3c
+videoTitle: "Rozdiel medzi tými, čo dotiahnu a tými, čo nie"
+videoPlacement: top
 featured: false
 keywords: ["prokrastinácia", "typy prokrastinácie", "ako prekonať prokrastináciu", "prečo odkladám veci"]
 transformation: konkrétne nástroje pre tvoj typ odkladania

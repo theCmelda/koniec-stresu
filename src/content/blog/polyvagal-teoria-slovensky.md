@@ -5,7 +5,7 @@ publishDate: 2026-05-16
 category: Stres
 readingTime: 12
 videoId: _cRQoH4TFvY
-videoTitle: "Polyvagal teória po slovensky: ako rozumieť svojim reakciám tela"
+videoTitle: "Z mysle do srdca"
 videoPlacement: top
 featured: false
 keywords: ["polyvagal teória", "polyvagal teória po slovensky", "ventrálny vagus", "blúdivý nerv stimulácia"]

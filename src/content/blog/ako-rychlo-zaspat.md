@@ -4,7 +4,9 @@ description: Ako rýchlo zaspať pomocou teploty tela, dychu a jednoduchej rutin
 publishDate: 2026-04-23
 category: Spánok
 readingTime: 8
-videoPlacement: remove
+videoId: YIH89ABBJ2w
+videoTitle: "Zdvojnásob kvalitu spánku ešte dnes (2 málo známe triky)"
+videoPlacement: top
 featured: false
 keywords: ["ako rýchlo zaspať", "lepší spánok", "nespavosť", "spánková hygiena"]
 transformation: 'hlbší spánok bez tabletiek'

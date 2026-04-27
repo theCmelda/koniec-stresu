@@ -4,7 +4,9 @@ description: "ako nájsť zmysel: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-12
 category: Mentálna výkonnosť
 readingTime: 11
-videoPlacement: remove
+videoId: yz-8T7YcYHc
+videoTitle: "Tajomstvo motivácie cez vnútorné WHY"
+videoPlacement: top
 featured: false
 keywords: ["ako nájsť zmysel", "zmysel života", "ako nájsť svoje poslanie", "ikigai slovensky"]
 transformation: 'zmysel, za ktorým si vieš stáť'

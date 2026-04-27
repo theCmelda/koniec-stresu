@@ -5,7 +5,7 @@ publishDate: 2026-05-01
 category: Spánok
 readingTime: 11
 videoId: D8by4mvItxU
-videoTitle: "Nespavosť: čo skutočne pomáha (a kde strácaš čas)"
+videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
 videoPlacement: top
 featured: false
 keywords: ["nespavosť čo pomáha", "chronická nespavosť", "ako zaspať pri nespavosti", "lieky na nespavosť alternatíva"]

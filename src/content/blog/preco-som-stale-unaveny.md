@@ -4,7 +4,9 @@ description: "prečo som stále unavený: praktický návod krok za krokom. Konk
 publishDate: 2026-05-14
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: y1RH0WbogA0
+videoTitle: "Energetický audit"
+videoPlacement: top
 featured: false
 keywords: ["prečo som stále unavený", "stála únava príznaky", "chronická únava", "prečo som unavený aj po spánku"]
 transformation: energiu, ktorá vydrží od rána do večera

@@ -4,7 +4,9 @@ description: "ako znížiť kortizol: praktický návod krok za krokom. Konkrét
 publishDate: 2026-05-13
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: y1RH0WbogA0
+videoTitle: "Energetický audit"
+videoPlacement: top
 featured: false
 keywords: ["ako znížiť kortizol", "kortizol vysoký príznaky", "ako znížiť kortizol prirodzene", "stres a kortizol"]
 transformation: rovnovážny kortizol, ktorý ťa nebude vyrážať z formy

@@ -4,8 +4,8 @@ description: "chronický stres príznaky: praktický návod krok za krokom. Konk
 publishDate: 2026-04-30
 category: Stres
 readingTime: 11
-videoId: JhUyvFqeIc8
-videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
+videoId: Cqucxrnf-MI
+videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
 videoPlacement: top
 featured: false
 keywords: ["chronický stres príznaky", "dlhodobý stres", "chronický stres následky", "ako spoznať chronický stres"]

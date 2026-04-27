@@ -5,7 +5,7 @@ publishDate: 2026-06-11
 category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
-videoTitle: "Anticipatórna úzkosť: keď sa bojíš toho, že sa budeš báť"
+videoTitle: "Z mysle do srdca"
 videoPlacement: top
 featured: false
 keywords: ["anticipatórna úzkosť", "bojím sa že sa budem báť", "predzvest úzkosti", "úzkosť pred udalosťou"]

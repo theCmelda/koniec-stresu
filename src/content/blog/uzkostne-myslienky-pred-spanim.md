@@ -4,7 +4,9 @@ description: "úzkosť pred spaním: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-13
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoId: JhUyvFqeIc8
+videoTitle: "Vedená meditácia: 2:4 dych"
+videoPlacement: top
 featured: false
 keywords: ["úzkosť pred spaním", "úzkostné myšlienky večer", "myseľ nezastaví večer", "ako vypnúť myseľ pred spaním"]
 transformation: tiché večery bez špirály myšlienok

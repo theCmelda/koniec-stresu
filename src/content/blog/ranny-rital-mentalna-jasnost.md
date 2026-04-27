@@ -4,7 +4,9 @@ description: "ranný rituál: praktický návod krok za krokom. Konkrétne techn
 publishDate: 2026-06-21
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: TdmFPQJANKM
+videoTitle: "Otázka pre lepší deň"
+videoPlacement: top
 featured: false
 keywords: ["ranný rituál", "morning routine", "ranná rutina pre produktivitu", "ako začať deň"]
 transformation: ráno, ktoré nasmeruje celý deň

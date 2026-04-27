@@ -4,7 +4,9 @@ description: "ranný stres: praktický návod krok za krokom. Konkrétne technik
 publishDate: 2026-05-17
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: VoKR6HnQyxQ
+videoTitle: "90-sekundová ranná pauza"
+videoPlacement: top
 featured: false
 keywords: ["ranný stres", "ranná úzkosť", "ako začať deň pokojne", "ranný kortizol spike"]
 transformation: ráno, ktoré nezačína panikou, ale jasnosťou

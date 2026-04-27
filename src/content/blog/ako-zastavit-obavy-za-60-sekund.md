@@ -4,7 +4,9 @@ description: Ako zastaviť obavy za 60 sekúnd pomocou KBT, uzemnenia 5-4-3-2-1 
 publishDate: 2026-04-24
 category: Úzkosť
 readingTime: 8
-videoPlacement: remove
+videoId: S-OpVH6hnj8
+videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
+videoPlacement: top
 featured: false
 keywords: ["ako zastaviť obavy", "ako sa zbaviť úzkosti", "úzkostné myšlienky", "obavy pred spaním"]
 transformation: 'koniec úzkostných myšlienok'

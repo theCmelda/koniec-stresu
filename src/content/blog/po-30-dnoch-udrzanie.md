@@ -4,7 +4,9 @@ description: "po 30 dňoch transformácia: praktický návod krok za krokom. Kon
 publishDate: 2026-07-05
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: AgTdln4nlJE
+videoTitle: "Po 30 dňoch: ako pokračovať"
+videoPlacement: top
 featured: false
 keywords: ["po 30 dňoch transformácia", "udržanie pokoja", "po kurze ako pokračovať", "udržateľná transformácia"]
 transformation: trvalý pokoj namiesto výletu

@@ -4,7 +4,9 @@ description: "spúšťač šťastia: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-29
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: o_ZOmaZvc78
+videoTitle: "Spúšťač šťastia"
+videoPlacement: top
 featured: false
 keywords: ["spúšťač šťastia", "NLP anchoring", "ako si zapnúť pokoj", "anchoring pozitívny stav"]
 transformation: schopnosť privolať pozitívny stav v ťažkom momente

@@ -4,7 +4,9 @@ description: "úzkosť bez príčiny: praktický návod krok za krokom. Konkrét
 publishDate: 2026-06-05
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoId: S-OpVH6hnj8
+videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
+videoPlacement: top
 featured: false
 keywords: ["úzkosť bez príčiny", "náhla úzkosť", "úzkosť z ničoho nič", "prečo mám úzkosť bez dôvodu"]
 transformation: porozumenie tomu, čo telo skutočne signalizuje

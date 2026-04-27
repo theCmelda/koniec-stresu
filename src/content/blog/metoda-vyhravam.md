@@ -4,6 +4,8 @@ description: "metóda VYHRÁVAM: praktický návod krok za krokom. Konkrétne te
 publishDate: 2026-06-30
 category: Transformácia
 readingTime: 12
+videoId: LDHX3a5mE6w
+videoTitle: "Metóda VYHRÁVAM: prenastavenie RAS"
 videoPlacement: top
 featured: false
 keywords: ["metóda VYHRÁVAM", "RAS reprogramming", "ako prenastaviť mozog", "pozitívne myslenie cvičenie"]

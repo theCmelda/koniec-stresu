@@ -4,6 +4,8 @@ description: "REM cyklus: praktický návod krok za krokom. Konkrétne techniky,
 publishDate: 2026-06-02
 category: Spánok
 readingTime: 12
+videoId: YIH89ABBJ2w
+videoTitle: "Zdvojnásob kvalitu spánku"
 videoPlacement: top
 featured: false
 keywords: ["REM cyklus", "spánkové cykly 90 minút", "kedy sa zobudiť oddýchnutý", "REM fáza spánku"]

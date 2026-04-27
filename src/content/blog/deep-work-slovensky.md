@@ -4,7 +4,9 @@ description: "deep work: praktický návod krok za krokom. Konkrétne techniky, 
 publishDate: 2026-06-16
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: x2UfgNlqZ5k
+videoTitle: "Komplexná meditácia spájajúca 5 techník"
+videoPlacement: top
 featured: false
 keywords: ["deep work", "hlboká koncentrácia", "ako sa sústrediť", "Cal Newport deep work"]
 transformation: 2 hodiny denne hlbokej, hodnotnej práce

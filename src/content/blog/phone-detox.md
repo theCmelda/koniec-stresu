@@ -4,7 +4,9 @@ description: "phone detox: praktický návod krok za krokom. Konkrétne techniky
 publishDate: 2026-06-23
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: x2UfgNlqZ5k
+videoTitle: "Komplexná meditácia spájajúca 5 techník"
+videoPlacement: top
 featured: false
 keywords: ["phone detox", "digital detox", "ako sa zbaviť závislosti od telefónu", "závislosť od mobilu"]
 transformation: vzťah s telefónom, ktorý slúži tebe a nie naopak

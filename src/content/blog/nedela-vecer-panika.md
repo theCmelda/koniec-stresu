@@ -4,7 +4,9 @@ description: "nedeľa večer panika: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-05-18
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: hH03xJp5NZQ
+videoTitle: "Pauza nie je zlyhanie"
+videoPlacement: top
 featured: false
 keywords: ["nedeľa večer panika", "nedeľná úzkosť", "Sunday scaries", "ako sa pripraviť na pondelok"]
 transformation: nedeľný večer ako prechod, nie ako predtuchu

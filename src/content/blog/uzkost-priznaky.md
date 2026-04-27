@@ -4,7 +4,9 @@ description: "úzkosť príznaky: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-02
 category: Úzkosť
 readingTime: 11
-videoPlacement: remove
+videoId: S-OpVH6hnj8
+videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
+videoPlacement: top
 featured: false
 keywords: ["úzkosť príznaky", "ako spoznať úzkosť", "úzkostná porucha príznaky", "úzkosť v tele"]
 transformation: 'znovuzískanie kontroly nad úzkosťou'

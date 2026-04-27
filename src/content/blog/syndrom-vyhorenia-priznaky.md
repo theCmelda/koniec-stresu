@@ -4,7 +4,9 @@ description: "syndróm vyhorenia: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-06
 category: Stres
 readingTime: 11
-videoPlacement: remove
+videoId: hH03xJp5NZQ
+videoTitle: "Pauza nie je zlyhanie"
+videoPlacement: top
 featured: false
 keywords: ["syndróm vyhorenia", "burnout príznaky", "syndróm vyhorenia príznaky", "ako sa zotaviť z vyhorenia"]
 transformation: 'návrat energie bez vyhorenia'

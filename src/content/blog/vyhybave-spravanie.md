@@ -4,7 +4,9 @@ description: "vyhýbavé správanie: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-10
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoId: Xr7vPVcdVcs
+videoTitle: "Trauma a spomienky: technika z terapie"
+videoPlacement: top
 featured: false
 keywords: ["vyhýbavé správanie", "úzkosť vyhýbam sa", "vyhýbam sa veciam ktoré ma stresujú", "prokrastinácia z úzkosti"]
 transformation: návrat k veciam, ktorým si sa kvôli úzkosti vyhýbal

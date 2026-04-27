@@ -4,7 +4,9 @@ description: "decision fatigue: praktický návod krok za krokom. Konkrétne tec
 publishDate: 2026-06-17
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: ubIU0Q3bIrk
+videoTitle: "Pauza pred posledným krokom"
+videoPlacement: top
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "ako sa rozhodovať lepšie", "kognitívne preťaženie"]
 transformation: lepšie rozhodnutia s menej únavy

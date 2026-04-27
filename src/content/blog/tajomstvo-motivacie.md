@@ -4,7 +4,9 @@ description: "tajomstvo motivácie: praktický návod krok za krokom. Konkrétne
 publishDate: 2026-07-02
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: yz-8T7YcYHc
+videoTitle: "Tajomstvo motivácie"
+videoPlacement: top
 featured: false
 keywords: ["tajomstvo motivácie", "motivácia ktorá vydrží", "ako sa motivovať dlhodobo", "vnútorná motivácia"]
 transformation: motivácia, ktorú nepotrebuje YouTube ani vonku

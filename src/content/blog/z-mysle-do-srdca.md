@@ -5,7 +5,7 @@ publishDate: 2026-06-04
 category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
-videoTitle: "Z mysle do srdca: technika, ktorá vypína úzkosť za 4 minúty"
+videoTitle: "Z mysle do srdca"
 videoPlacement: top
 featured: false
 keywords: ["z mysle do srdca", "heart coherence", "srdcová koherencia technika", "presun pozornosti zo srdca"]

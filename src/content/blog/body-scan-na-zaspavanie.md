@@ -4,7 +4,9 @@ description: "body scan na zaspávanie: praktický návod krok za krokom. Konkr�
 publishDate: 2026-06-03
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoId: D8by4mvItxU
+videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
+videoPlacement: top
 featured: false
 keywords: ["body scan na zaspávanie", "body scan meditácia", "vedená meditácia spánok", "uvoľnenie tela pred spaním"]
 transformation: uvoľnené telo, ktoré vie, že je čas zaspať

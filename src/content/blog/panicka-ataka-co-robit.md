@@ -4,7 +4,9 @@ description: "panická ataka čo robiť: praktický návod krok za krokom. Konkr
 publishDate: 2026-04-29
 category: Úzkosť
 readingTime: 11
-videoPlacement: remove
+videoId: r1spuextOOs
+videoTitle: "Havening dotyk: 3 minúty"
+videoPlacement: top
 featured: false
 keywords: ["panická ataka čo robiť", "panická ataka pomoc", "ako zastaviť panickú ataku", "panická ataka príznaky"]
 transformation: 'ovládnutie panických stavov'

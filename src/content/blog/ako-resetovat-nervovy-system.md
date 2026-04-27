@@ -4,7 +4,9 @@ description: "ako resetovať nervový systém: praktický návod krok za krokom.
 publishDate: 2026-05-22
 category: Stres
 readingTime: 12
-videoPlacement: remove
+videoId: yEGfxyZGiiU
+videoTitle: "Pauza, reflexia, integrácia odpočinku"
+videoPlacement: top
 featured: false
 keywords: ["ako resetovať nervový systém", "nervový systém reset", "regenerácia za víkend", "ako sa zregenerovať"]
 transformation: víkend, po ktorom sa cítiš naozaj oddýchnutý

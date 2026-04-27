@@ -4,7 +4,9 @@ description: "overthinking ako prestať: praktický návod krok za krokom. Konkr
 publishDate: 2026-05-03
 category: Stres
 readingTime: 11
-videoPlacement: remove
+videoId: x2UfgNlqZ5k
+videoTitle: "Komplexná meditácia spájajúca 5 techník"
+videoPlacement: top
 featured: false
 keywords: ["overthinking ako prestať", "nadmerné premýšľanie", "ako prestať myslieť", "myšlienky v hlave nezastavia"]
 transformation: 'myseľ, ktorá vie zastaviť sama'

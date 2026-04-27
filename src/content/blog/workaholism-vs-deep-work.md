@@ -4,7 +4,9 @@ description: "workaholism: praktický návod krok za krokom. Konkrétne techniky
 publishDate: 2026-06-24
 category: Mentálna výkonnosť
 readingTime: 12
-videoPlacement: remove
+videoId: ios086FtRxU
+videoTitle: "Prečo potreba kontroly zvyšuje stres"
+videoPlacement: top
 featured: false
 keywords: ["workaholism", "workaholic", "závislosť od práce", "kedy pracovať veľa nie je odpoveď"]
 transformation: menej hodín, viac hlbokého výsledku

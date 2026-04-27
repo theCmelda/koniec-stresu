@@ -5,7 +5,7 @@ publishDate: 2026-06-01
 category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
-videoTitle: "Bez tabliet: 5 prírodných alternatív k Stilnoxu a Lexaurinu"
+videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
 videoPlacement: top
 featured: false
 keywords: ["prírodné alternatívy na spánok", "bez tabliet zaspať", "alternatíva Stilnox", "prírodný spánok bez liekov"]

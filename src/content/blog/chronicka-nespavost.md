@@ -4,7 +4,9 @@ description: "chronická nespavosť: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-05-28
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoId: D8by4mvItxU
+videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
+videoPlacement: top
 featured: false
 keywords: ["chronická nespavosť", "chronická insomnia", "nespavosť dlhodobo", "kedy ísť k lekárovi nespavosť"]
 transformation: návrat dôvery, že vieš zaspať

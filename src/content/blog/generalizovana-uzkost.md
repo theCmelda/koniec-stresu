@@ -4,7 +4,9 @@ description: "generalizovaná úzkostná porucha: praktický návod krok za krok
 publishDate: 2026-06-07
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoId: S-OpVH6hnj8
+videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
+videoPlacement: top
 featured: false
 keywords: ["generalizovaná úzkostná porucha", "GAD úzkosť", "neustále sa o niečo strachujem", "nadmerné obavy"]
 transformation: schopnosť odlíšiť normálnu opatrnosť od chronickej úzkosti

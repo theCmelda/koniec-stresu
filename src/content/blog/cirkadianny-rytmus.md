@@ -4,6 +4,8 @@ description: "cirkadiánny rytmus: praktický návod krok za krokom. Konkrétne 
 publishDate: 2026-05-27
 category: Spánok
 readingTime: 12
+videoId: YIH89ABBJ2w
+videoTitle: "Zdvojnásob kvalitu spánku"
 videoPlacement: top
 featured: false
 keywords: ["cirkadiánny rytmus", "ranné svetlo na spánok", "ako nastaviť vnútorné hodiny", "biologické hodiny tela"]

@@ -4,7 +4,9 @@ description: "Ako sa zbaviť stresu za 30 dní pomocou 3 krokov: spúšťače, r
 publishDate: 2026-04-22
 category: Stres
 readingTime: 9
-videoPlacement: remove
+videoId: Cqucxrnf-MI
+videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
+videoPlacement: top
 featured: true
 keywords: ["ako sa zbaviť stresu", "techniky proti stresu", "ako zvládať stres", "chronický stres", "kontrola stresu"]
 transformation: 'návrat pokoja do nervovej sústavy'

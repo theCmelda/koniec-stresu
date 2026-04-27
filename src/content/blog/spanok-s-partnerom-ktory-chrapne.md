@@ -4,7 +4,9 @@ description: "spánok s partnerom: praktický návod krok za krokom. Konkrétne 
 publishDate: 2026-05-31
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoId: YIH89ABBJ2w
+videoTitle: "Zdvojnásob kvalitu spánku"
+videoPlacement: top
 featured: false
 keywords: ["spánok s partnerom", "partner chrápe ako spať", "rušený spánok partner", "spať vedľa niekoho"]
 transformation: ticho a pokoj v spálni, aj keď nie ste sami

@@ -4,7 +4,9 @@ description: "ako zlepšiť vzťah: praktický návod krok za krokom. Konkrétne
 publishDate: 2026-07-01
 category: Transformácia
 readingTime: 12
-videoPlacement: remove
+videoId: p-hsJ96Cyq0
+videoTitle: "Tri triky pre lepšie vzťahy"
+videoPlacement: top
 featured: false
 keywords: ["ako zlepšiť vzťah", "lepšie vzťahy s partnerom", "komunikácia v partnerstve", "vzťahové triky"]
 transformation: vzťahy, kde sa cítiš videný a počutý
