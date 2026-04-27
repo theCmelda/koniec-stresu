@@ -8,6 +8,7 @@ videoId: Cqucxrnf-MI
 videoTitle: "Chronický stres: 11 príznakov, ktoré prehliadaš (a čo s tým robiť)"
 featured: false
 keywords: ["chronický stres príznaky", "dlhodobý stres", "chronický stres následky", "ako spoznať chronický stres"]
+transformation: 'obnovu nervovej sústavy z chronického stresu'
 leadMagnet:
   title: "Tvoje telo nepotrebuje dokonalosť. Potrebuje <em>opakovanie.</em>"
   description: 30-dňový PDF plán Koniec Stresu s dennými cvičeniami a audio nahrávkami pre dlhodobý reset nervovej sústavy.

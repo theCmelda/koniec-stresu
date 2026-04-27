@@ -8,6 +8,7 @@ videoId: dwHTTKnuGK8
 videoTitle: "Denník vďačnosti: ako ho začať tak, aby ti to vydržalo"
 featured: false
 keywords: ["denník vďačnosti ako začať", "denník vďačnosti", "vďačnosť cvičenie", "ranný rituál vďačnosti"]
+transformation: 'trvalú prácu s vďačnosťou bez výhovoriek'
 leadMagnet:
   title: "10 minút denne. <em>Žiadne</em> ezoterické tvrdenia."
   description: PDF s 30 ranných výziev pre denník vďačnosti, postavených na pozitívnej psychológii. Stiahnuteľné zadarmo.

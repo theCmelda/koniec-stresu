@@ -76,10 +76,7 @@ const articleSchema = {
   </article>
 
   <CTASection
-    title={data.leadMagnet?.title ?? 'Tvoje telo nepotrebuje dokonalosť. Potrebuje <em>opakovanie.</em>'}
-    description={data.leadMagnet?.description ?? 'Stiahni si 30-dňový PDF plán Koniec Stresu.'}
-    buttonText={data.leadMagnet?.buttonText ?? 'Získať plán'}
-    badge="Plán zadarmo"
+    transformation={data.transformation ?? 'koniec stresu, hlbší spánok a pokojnejšiu myseľ'}
   />
 
   <style>

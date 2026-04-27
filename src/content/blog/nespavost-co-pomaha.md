@@ -8,6 +8,7 @@ videoId: D8by4mvItxU
 videoTitle: "Nespavosť: čo skutočne pomáha (a kde strácaš čas)"
 featured: false
 keywords: ["nespavosť čo pomáha", "chronická nespavosť", "ako zaspať pri nespavosti", "lieky na nespavosť alternatíva"]
+transformation: 'noci, po ktorých sa zobudíš oddýchnutý'
 leadMagnet:
   title: "Tvoja noc môže vyzerať <em>inak.</em>"
   description: "Spánková Reset Mapa: 14 dní k hlbokému spánku. Plán cez večernú rutinu, svetlo, teplotu, dych a hypnotickú nahrávku."

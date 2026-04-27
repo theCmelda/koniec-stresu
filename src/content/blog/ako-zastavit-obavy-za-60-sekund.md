@@ -8,6 +8,7 @@ videoId: S-OpVH6hnj8
 videoTitle: Trik, ktorý zastaví obavy za 60 sekúnd
 featured: false
 keywords: ["ako zastaviť obavy", "ako sa zbaviť úzkosti", "úzkostné myšlienky", "obavy pred spaním"]
+transformation: 'koniec úzkostných myšlienok'
 leadMagnet:
   title: "Daj si do vrecka <em>záchrannú techniku.</em>"
   description: "Stiahni si PDF Stop Obavám: 7 vedecky overených techník proti úzkostným myšlienkam. Plus bonus audio na rýchle upokojenie."

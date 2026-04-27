@@ -8,6 +8,7 @@ videoId: YIH89ABBJ2w
 videoTitle: Zdvojnásob kvalitu spánku ešte dnes (2 málo známe triky)
 featured: false
 keywords: ["ako rýchlo zaspať", "lepší spánok", "nespavosť", "spánková hygiena"]
+transformation: 'hlbší spánok bez tabletiek'
 leadMagnet:
   title: "Tvoja noc môže vyzerať <em>inak.</em>"
   description: "Stiahni si Spánkovú Reset Mapu: 14 dní k hlbokému spánku. Jednoduchý plán cez večernú rutinu, svetlo, teplotu a dych."

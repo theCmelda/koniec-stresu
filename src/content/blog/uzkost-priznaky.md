@@ -8,6 +8,7 @@ videoId: S-OpVH6hnj8
 videoTitle: "Úzkosť: ako rozpoznať príznaky a kedy je čas na pomoc"
 featured: false
 keywords: ["úzkosť príznaky", "ako spoznať úzkosť", "úzkostná porucha príznaky", "úzkosť v tele"]
+transformation: 'znovuzískanie kontroly nad úzkosťou'
 leadMagnet:
   title: "Daj si do vrecka <em>záchrannú techniku.</em>"
   description: "PDF Stop Obavám: 7 vedecky overených techník na úzkostné myšlienky. Plus audio bonus na rýchle upokojenie."

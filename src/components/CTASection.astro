@@ -1,33 +1,135 @@
 ---
 interface Props {
+  /** Article-specific outcome — appears as the personal promise line. */
+  transformation?: string;
+  /** Override the entire title if needed. */
   title?: string;
-  description?: string;
-  buttonText?: string;
-  badge?: string;
+  /** Section anchor id. */
   id?: string;
+  /** Optional context line under the headline. */
+  context?: string;
 }
 
 const {
-  title = 'Tvoje telo nepotrebuje dokonalosť. Potrebuje opakovanie.',
-  description = 'Stiahni si 30-dňový PDF plán Koniec Stresu. Denné cvičenia, jednoduché úlohy a audio nahrávky, ktoré ťa prevedú reguláciou nervovej sústavy krok za krokom.',
-  buttonText = 'Získať plán',
-  badge = '30-dňový plán · zadarmo',
+  transformation = 'koniec stresu, hlbší spánok a pokojnejšia myseľ',
+  title,
   id = 'newsletter',
+  context,
 } = Astro.props;
+
+// Compose title if not overridden
+const headline =
+  title ??
+  `30 dní pre <em>${transformation}.</em>`;
 ---
 
 <section class="cta" id={id}>
   <div class="cta-card">
-    <span class="breadcrumb">{badge}</span>
-    <h2 set:html={title}></h2>
-    <p>{description}</p>
-    <form class="cta-form" onsubmit="event.preventDefault(); alert('Tu pripoj svoj email service (ConvertKit, Buttondown, MailerLite atď.).');">
-      <input type="email" placeholder="tvoj@email.sk" required aria-label="E-mail" />
-      <button type="submit">{buttonText}</button>
+    <span class="badge">
+      <span class="badge-dot"></span>
+      Predtým <s>€385</s> &nbsp;·&nbsp; <strong>Teraz zadarmo, na obmedzený čas</strong>
+    </span>
+
+    <h2 set:html={headline}></h2>
+
+    <p class="lede">
+      30 dní = 30 e-mailov a videí priamo odo mňa. Každý deň jeden malý krok, ktorý
+      nervová sústava pochopí. Žiadny príval informácií, žiadne motivačné reči.
+      {context ?? 'Iba praktické nástroje, ktoré som si overil sám aj so stovkami klientov.'}
+    </p>
+
+    <form class="cta-form" id="cs-optin-form" novalidate>
+      <div class="row">
+        <input
+          type="text"
+          name="first_name"
+          id="cs-optin-first-name"
+          placeholder="Tvoje krstné meno"
+          autocomplete="given-name"
+          required
+          maxlength="50"
+        />
+        <input
+          type="email"
+          name="email"
+          id="cs-optin-email"
+          placeholder="tvoj@email.sk"
+          autocomplete="email"
+          required
+        />
+      </div>
+      <button type="submit" id="cs-optin-btn">Začať transformáciu</button>
+      <small class="fineprint">
+        Bez spamu. Bez nátlaku. Iba 30 dní z mojej praxe. Kedykoľvek sa odhlásiš jedným klikom.
+      </small>
+      <small class="success" id="cs-optin-success" hidden>
+        Hotovo. Skontroluj si e-mail za pár sekúnd.
+      </small>
+      <small class="error" id="cs-optin-error" hidden>
+        Niečo sa nepodarilo. Skús to znova alebo napíš na info@koniecstresu.sk.
+      </small>
     </form>
-    <small>Zadarmo. Žiadny spam. Iba praktické nástroje.</small>
+
+    <div class="why">
+      <div class="why-item">
+        <span class="why-num">30</span>
+        <span class="why-label">dní každodennej praxe</span>
+      </div>
+      <div class="why-item">
+        <span class="why-num">€385</span>
+        <span class="why-label">predtým &middot; teraz <strong>0 €</strong></span>
+      </div>
+      <div class="why-item">
+        <span class="why-num">100 %</span>
+        <span class="why-label">to čo sami robím</span>
+      </div>
+    </div>
   </div>
 </section>
+
+<script>
+  const form = document.getElementById('cs-optin-form') as HTMLFormElement | null;
+  const btn = document.getElementById('cs-optin-btn') as HTMLButtonElement | null;
+  const successEl = document.getElementById('cs-optin-success') as HTMLElement | null;
+  const errorEl = document.getElementById('cs-optin-error') as HTMLElement | null;
+
+  if (form && btn) {
+    form.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      const firstName = (document.getElementById('cs-optin-first-name') as HTMLInputElement).value.trim();
+      const email = (document.getElementById('cs-optin-email') as HTMLInputElement).value.trim();
+      if (!firstName || !email) return;
+
+      btn.disabled = true;
+      btn.textContent = 'Posielam...';
+      if (successEl) successEl.hidden = true;
+      if (errorEl) errorEl.hidden = true;
+
+      try {
+        const r = await fetch('/api/optin', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            first_name: firstName,
+            email,
+            source: window.location.pathname,
+          }),
+        });
+        if (r.ok) {
+          if (successEl) successEl.hidden = false;
+          form.reset();
+        } else {
+          if (errorEl) errorEl.hidden = false;
+        }
+      } catch (e) {
+        if (errorEl) errorEl.hidden = false;
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Začať transformáciu';
+      }
+    });
+  }
+</script>
 
 <style>
   .cta {
@@ -35,11 +137,11 @@ const {
   }
 
   .cta-card {
-    max-width: 920px;
+    max-width: 760px;
     margin: 0 auto;
     background: linear-gradient(135deg, var(--terracotta), var(--rose));
     border-radius: 36px;
-    padding: 80px 40px;
+    padding: 64px 40px 56px;
     text-align: center;
     color: var(--paper);
     position: relative;
@@ -53,128 +155,209 @@ const {
     border-radius: 50%;
     pointer-events: none;
   }
-
   .cta-card::before {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     background: radial-gradient(circle, var(--peach), transparent 70%);
-    opacity: 0.4;
-    top: -100px;
+    opacity: 0.45;
+    top: -120px;
     right: -100px;
   }
-
   .cta-card::after {
-    width: 240px;
-    height: 240px;
+    width: 260px;
+    height: 260px;
     background: radial-gradient(circle, var(--olive), transparent 70%);
     opacity: 0.3;
-    bottom: -100px;
-    left: -50px;
+    bottom: -80px;
+    left: -60px;
   }
-
   .cta-card > * {
     position: relative;
     z-index: 1;
   }
 
-  .breadcrumb {
-    display: inline-block;
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
     background: rgba(255, 255, 255, 0.18);
     border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 7px 16px;
+    padding: 8px 18px;
     border-radius: 999px;
     font-size: 13px;
     color: var(--paper);
-    margin-bottom: 20px;
+    margin-bottom: 22px;
     font-weight: 500;
+  }
+  .badge s {
+    opacity: 0.8;
+    text-decoration: line-through;
+  }
+  .badge strong {
+    font-weight: 700;
+  }
+  .badge-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #fff;
+    margin-right: 4px;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.6);
+    animation: pulse 1.8s infinite;
+  }
+  @keyframes pulse {
+    0% {
+      box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.6);
+    }
+    70% {
+      box-shadow: 0 0 0 8px rgba(255, 255, 255, 0);
+    }
+    100% {
+      box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+    }
   }
 
   .cta-card h2 {
     font-family: var(--display);
-    font-size: clamp(34px, 5vw, 52px);
+    font-size: clamp(34px, 5vw, 54px);
     font-weight: 500;
-    line-height: 1.1;
+    line-height: 1.05;
     letter-spacing: -0.02em;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
     color: var(--paper);
   }
-
   .cta-card h2 :global(em) {
     font-style: italic;
     color: #ffe9d2;
   }
 
-  .cta-card p {
-    font-size: 19px;
+  .lede {
+    font-size: 17px;
+    line-height: 1.55;
     color: #fde8d4;
     max-width: 520px;
     margin: 0 auto 32px;
-    line-height: 1.5;
   }
 
   .cta-form {
-    display: flex;
-    gap: 8px;
-    max-width: 460px;
+    max-width: 480px;
     margin: 0 auto;
-    background: var(--paper);
-    padding: 6px;
-    border-radius: 999px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .cta-form .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
   }
 
   .cta-form input {
-    flex: 1;
-    background: transparent;
+    background: var(--paper);
     border: 0;
-    padding: 14px 20px;
+    border-radius: 14px;
+    padding: 14px 18px;
     font-size: 15px;
     color: var(--ink);
     outline: none;
     font-family: var(--sans);
+    transition: box-shadow 0.2s;
+  }
+  .cta-form input:focus {
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.45);
   }
 
   .cta-form button {
     background: var(--ink);
     color: var(--paper);
     border: 0;
-    border-radius: 999px;
-    padding: 14px 26px;
+    border-radius: 14px;
+    padding: 16px 24px;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 15px;
     cursor: pointer;
     font-family: var(--sans);
-    transition: transform 0.2s;
+    transition: transform 0.15s, background 0.2s;
   }
-
-  .cta-form button:hover {
+  .cta-form button:hover:not(:disabled) {
     transform: translateY(-1px);
+    background: #4a3327;
+  }
+  .cta-form button:disabled {
+    opacity: 0.6;
+    cursor: progress;
   }
 
-  .cta-card small {
-    display: block;
-    margin-top: 18px;
+  .fineprint {
     color: #fde8d4;
-    font-size: 13px;
-    opacity: 0.85;
+    font-size: 12px;
+    opacity: 0.8;
+    margin-top: 4px;
+    line-height: 1.5;
+  }
+  .success {
+    color: #fff;
+    font-weight: 600;
+    background: rgba(255, 255, 255, 0.18);
+    border-radius: 10px;
+    padding: 8px 12px;
+  }
+  .error {
+    color: #fff;
+    font-weight: 600;
+    background: rgba(46, 31, 23, 0.4);
+    border-radius: 10px;
+    padding: 8px 12px;
+  }
+
+  .why {
+    margin-top: 36px;
+    padding-top: 28px;
+    border-top: 1px solid rgba(255, 255, 255, 0.18);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+
+  .why-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 120px;
+  }
+
+  .why-num {
+    font-family: var(--display);
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 1;
+    color: #ffe9d2;
+    margin-bottom: 4px;
+  }
+  .why-num strong {
+    color: var(--paper);
+  }
+  .why-label {
+    font-size: 12px;
+    color: #fde8d4;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
   }
 
   @media (max-width: 600px) {
     .cta-card {
-      padding: 48px 24px;
+      padding: 48px 24px 40px;
     }
-    .cta-form {
-      flex-direction: column;
-      background: transparent;
-      padding: 0;
-      border-radius: 0;
+    .cta-form .row {
+      grid-template-columns: 1fr;
     }
-    .cta-form input {
-      background: var(--paper);
-      border-radius: 999px;
-      padding: 14px 22px;
+    .why {
+      gap: 20px;
     }
-    .cta-form button {
-      padding: 16px;
+    .why-item {
+      min-width: 90px;
     }
   }
 </style>

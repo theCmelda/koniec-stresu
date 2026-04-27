@@ -8,6 +8,7 @@ videoId: x2UfgNlqZ5k
 videoTitle: "Overthinking: ako zastaviť myseľ, ktorá sa nezastaví sama"
 featured: false
 keywords: ["overthinking ako prestať", "nadmerné premýšľanie", "ako prestať myslieť", "myšlienky v hlave nezastavia"]
+transformation: 'myseľ, ktorá vie zastaviť sama'
 leadMagnet:
   title: "Tvoja myseľ sa <em>vie</em> spomaliť. Učím ju to každý deň."
   description: Bezplatná 7-dňová meditačná séria (mp3) plus štartovací PDF, ktorý ťa prevedie základmi praxe pre upokojenie mysle.

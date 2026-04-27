@@ -8,6 +8,7 @@ videoId: y1RH0WbogA0
 videoTitle: "Ako zvládať stres v práci: 7 techník, ktoré vieš použiť dnes"
 featured: false
 keywords: ["ako zvládať stres v práci", "pracovný stres", "stres v zamestnaní", "ako zvládať pracovné napätie"]
+transformation: 'energiu, ktorá vydrží do piatka'
 leadMagnet:
   title: "Tvoje telo si pamätá <em>každú</em> e-mailovú správu od šéfa."
   description: Stiahni si 30-dňový PDF plán Koniec Stresu. Denné cvičenia + audio nahrávky pre prácu so stresom v práci aj doma.

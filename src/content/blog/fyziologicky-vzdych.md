@@ -8,6 +8,7 @@ videoId: 3T6MJL-wiFY
 videoTitle: "Fyziologický vzdych: 30-sekundová technika z neurovedy"
 featured: false
 keywords: ["fyziologický vzdych", "physiological sigh slovensky", "dychová technika Huberman", "rýchle upokojenie dychom"]
+transformation: 'okamžitý reset nervovej sústavy v 30 sekundách'
 leadMagnet:
   title: "Tvoja diaľnica do <em>parasympatika.</em>"
   description: Bezplatná audio nahrávka 2-minútovej praxe fyziologického vzdychu. Maj ju v telefóne na keď ju budeš potrebovať.

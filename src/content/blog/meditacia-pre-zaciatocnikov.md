@@ -8,6 +8,7 @@ videoId: JzgGB-jJhJc
 videoTitle: 10 najčastejších otázok o meditácii (odpovede)
 featured: false
 keywords: ["meditácia pre začiatočníkov", "ako začať meditovať", "ako meditovať doma", "chyby pri meditácii"]
+transformation: 'pokojnú prax meditácie každý deň'
 leadMagnet:
   title: "7 dní vedených meditácií. <em>Zadarmo.</em>"
   description: Bezplatná 7-dňová meditačná séria (mp3) plus štartovací PDF, ktorý ťa prevedie základmi praxe. Bez tlaku, bez ezoteriky.

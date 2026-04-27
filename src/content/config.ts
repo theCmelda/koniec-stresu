@@ -12,6 +12,9 @@ const blog = defineCollection({
     videoTitle: z.string().optional(),
     category: z.string().default('Stres'),
     readingTime: z.number().optional(),
+    /** Article-specific transformation outcome used in CTA (e.g. "hlbší spánok bez tabletiek") */
+    transformation: z.string().optional(),
+    /** Legacy: per-article lead magnet copy. Kept for backward-compat but the CTA now defaults to the unified 30-day course pitch using `transformation`. */
     leadMagnet: z
       .object({
         title: z.string(),

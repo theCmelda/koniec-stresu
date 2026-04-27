@@ -8,6 +8,7 @@ videoId: yz-8T7YcYHc
 videoTitle: Ako nájsť svoj skutočný zmysel (a nepúšťať ho)
 featured: false
 keywords: ["ako nájsť zmysel", "zmysel života", "ako nájsť svoje poslanie", "ikigai slovensky"]
+transformation: 'zmysel, za ktorým si vieš stáť'
 leadMagnet:
   title: "Zmysel <em>nehľadáš.</em> Vraciaš sa k nemu."
   description: Bezplatné PDF s 7 otázkami od Daniela na objavenie tvojho skutočného WHY. Plus audio meditácia.

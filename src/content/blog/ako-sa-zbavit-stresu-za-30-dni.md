@@ -8,6 +8,7 @@ videoId: Cqucxrnf-MI
 videoTitle: 3 kroky, ako dostať stres pod kontrolu za 30 dní
 featured: true
 keywords: ["ako sa zbaviť stresu", "techniky proti stresu", "ako zvládať stres", "chronický stres", "kontrola stresu"]
+transformation: 'návrat pokoja do nervovej sústavy'
 leadMagnet:
   title: "Tvoje telo nepotrebuje dokonalosť. Potrebuje <em>opakovanie.</em>"
   description: Stiahni si 30-dňový PDF plán Koniec Stresu. Denné cvičenia, jednoduché úlohy a audio nahrávky, ktoré ťa prevedú reguláciou nervovej sústavy krok za krokom.

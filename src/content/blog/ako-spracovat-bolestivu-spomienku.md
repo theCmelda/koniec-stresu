@@ -8,6 +8,7 @@ videoId: Xr7vPVcdVcs
 videoTitle: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
 featured: false
 keywords: ["ako sa zbaviť bolestivej spomienky", "spracovanie traumy", "vymazať bolestivú spomienku", "ako pracovať s traumou"]
+transformation: 'bolestivé spomienky bez emocionálneho náboja'
 leadMagnet:
   title: "Spomienka <em>nemusí</em> diktovať tvoju budúcnosť."
   description: Bezplatné PDF + audio s krok-za-krokom postupom na zníženie emocionálneho náboja bolestivej spomienky.

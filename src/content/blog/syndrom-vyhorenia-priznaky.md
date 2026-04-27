@@ -8,6 +8,7 @@ videoId: hH03xJp5NZQ
 videoTitle: "Syndróm vyhorenia: 9 znakov, ktoré nemôžeš ignorovať"
 featured: false
 keywords: ["syndróm vyhorenia", "burnout príznaky", "syndróm vyhorenia príznaky", "ako sa zotaviť z vyhorenia"]
+transformation: 'návrat energie bez vyhorenia'
 leadMagnet:
   title: "Pauza nie je zlyhanie. Je to <em>návrat k sebe.</em>"
   description: 30-dňový PDF plán Koniec Stresu s dennými mikrocvičeniami pre regeneráciu nervovej sústavy aj pri preťažení.

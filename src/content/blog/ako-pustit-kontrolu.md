@@ -8,6 +8,7 @@ videoId: ios086FtRxU
 videoTitle: Prečo potreba kontroly ničí tvoj pokoj (a ako ju pustiť)
 featured: false
 keywords: ["ako pustiť kontrolu", "potreba kontroly", "ako prijať to čo neviem ovplyvniť", "perfekcionizmus"]
+transformation: 'pokoj, ktorý nezávisí od kontroly'
 leadMagnet:
   title: "Pokoj nie je v <em>kontrole.</em> Je v dôvere."
   description: 30-dňový PDF plán Koniec Stresu s cvičeniami na pustenie potreby kontroly a budovanie vnútornej istoty.

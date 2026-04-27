@@ -8,6 +8,7 @@ videoId: PqCXY5OB4sg
 videoTitle: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
 featured: false
 keywords: ["ako odpustiť", "odpustenie", "ako odpustiť sebe", "ako odpustiť rodičom"]
+transformation: 'uvoľnenie krivdy, ktorá ťa už nedrží'
 leadMagnet:
   title: "Krivda v tele. Odpustenie v <em>dýchaní.</em>"
   description: Bezplatná vedená audio nahrávka na prácu s krivdou a odpustením. PDF s postupom krok za krokom.

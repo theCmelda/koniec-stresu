@@ -8,6 +8,7 @@ videoId: JhUyvFqeIc8
 videoTitle: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
 featured: false
 keywords: ["dýchanie 4-7-8", "technika 4-7-8", "dýchanie na upokojenie", "Andrew Weil dýchanie"]
+transformation: 'okamžitý pokoj cez dych'
 leadMagnet:
   title: "30 dní dychových <em>cvičení.</em> Bez výhovoriek."
   description: Stiahni si 30-dňový PDF plán Koniec Stresu s dennými dychovými technikami a audio sprievodcom.

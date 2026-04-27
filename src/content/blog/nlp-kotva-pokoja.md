@@ -8,6 +8,7 @@ videoId: syAw_f0Abic
 videoTitle: "NLP kotva pokoja: ako si zapnúť pokoj na povel"
 featured: false
 keywords: ["NLP kotva pokoja", "NLP technika anchoring", "kotva pokoja meditácia", "anchoring NLP"]
+transformation: 'pokoj na povel kedykoľvek a kdekoľvek'
 leadMagnet:
   title: "Pokoj je len jedno gesto <em>ďaleko.</em>"
   description: Bezplatné audio s vedenou nahrávkou na vytvorenie tvojej osobnej kotvy pokoja. PDF s celým postupom.
