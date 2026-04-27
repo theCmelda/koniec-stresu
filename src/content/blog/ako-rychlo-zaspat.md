@@ -211,6 +211,12 @@ Niekedy áno, ale nerob z toho skúšku. Lepšie je použiť dve minúty na uvo�
 
 Začni stabilným časom vstávania, ranným svetlom, chladnejšou tmavou spálňou a obmedzením kofeínu popoludní. Toto má často väčší efekt než hľadanie dokonalej večernej rutiny.
 
+## Pokračuj v čítaní
+
+- [Budenie sa o 3:00 ráno: prečo a ako to zastaviť](/blog/budenie-sa-o-3-rano), Ak ti spánok narúša nočné prebudenie, pozri si presný postup, ako vrátiť telo späť do hlbokej fázy.
+- [Nespavosť: čo skutočne pomáha (a kde strácaš čas)](/blog/nespavost-co-pomaha), Hlbší rámec pre tých, ktorí už mesiace skúšajú všetko a nič nedrží.
+- [Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém](/blog/dychanie-4-7-8), Najpraktickejšia dychová technika pre rýchle upokojenie pred spaním.
+
 ## Ako pokračovať od dnes
 
 Dnes večer si nevyberaj desať zmien. Vyber si dve.

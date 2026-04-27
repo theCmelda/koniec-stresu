@@ -240,6 +240,12 @@ Reálne je znížiť napätie, lepšie rozpoznať spúšťače a naučiť telo r
 
 Ak máš panické ataky, dlhodobú nespavosť, silné úzkosti, depresívne stavy alebo pocit, že to nezvládaš, vyhľadaj psychológa, psychoterapeuta alebo lekára. Techniky môžu pomôcť, ale nemajú nahradiť odbornú starostlivosť.
 
+## Pokračuj v čítaní
+
+- [Chronický stres: 11 príznakov, ktoré prehliadaš](/blog/chronicky-stres-priznaky), Pomôže ti rozpoznať, či si v chronickom strese ešte predtým, ako ťa to dobehne.
+- [Ako znížiť kortizol prirodzene](/blog/kortizol-ako-znizit), Konkrétne kroky, ktoré dopĺňajú 30-dňový rámec.
+- [Syndróm vyhorenia: 9 znakov, ktoré nemôžeš ignorovať](/blog/syndrom-vyhorenia-priznaky), Ak si už cez prvú fázu stresu, toto je ďalší level.
+
 ## Ako pokračovať od dnes
 
 Ak chceš vedieť, **ako sa zbaviť stresu** bez chaosu a skúšania náhodných rád, začni plánom. Nie veľkým životným reštartom. Stačí jeden konkrétny krok denne.

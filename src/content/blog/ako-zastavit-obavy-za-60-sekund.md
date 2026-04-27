@@ -299,6 +299,12 @@ Ak sa ti točí hlava, prestaň a vráť sa k prirodzenému dýchaniu. Pri zdrav
 
 Začni malým denným návykom. Aj 3 minúty denne vedia časom zmeniť reakciu tela na stres.
 
+## Pokračuj v čítaní
+
+- [Úzkosť: ako rozpoznať príznaky a kedy je čas na pomoc](/blog/uzkost-priznaky), Pomôže ti zorientovať sa, či máš úzkosť situačnú alebo dlhodobú.
+- [Úzkosť bez príčiny: prečo telo niekedy „vystrelí“ bez dôvodu](/blog/uzkost-bez-priciny), Zbav sa pocitu, že si pokazený, keď úzkosť príde z ničoho nič.
+- [Havening metóda: 3 minúty na okamžité upokojenie](/blog/havening-metoda), Doplnková technika pre situácie, keď samotný 60-sekundový trik nestačí.
+
 ## Ako pokračovať od dnes
 
 Dnes nepotrebuješ dokonalý plán. Potrebuješ jeden jasný postup, ktorý použiješ v momente, keď sa obavy rozbehnú.

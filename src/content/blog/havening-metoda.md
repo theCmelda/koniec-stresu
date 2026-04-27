@@ -185,6 +185,12 @@ Niektorí ľudia cítia zmenu už po 2 až 3 minútach. Iní potrebujú viac opa
 
 Pre väčšinu ľudí je jemný self-havening bezpečný. Ak máš traumu, disociáciu, psychické ochorenie alebo sa pri technike zhoršuješ, rob ju len s odborným vedením.
 
+## Pokračuj v čítaní
+
+- [Panická ataka: čo robiť počas a ako sa pripraviť](/blog/panicka-ataka-co-robit), Ak Havening používaš pri náhlej úzkosti, toto je rámec, ako reagovať počas plnej panickej ataky.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), Rýchla alternatíva, keď nemáš priestor na 3-minútovú prax.
+- [Úzkosť bez príčiny: prečo telo „vystrelí“ z ničoho nič](/blog/uzkost-bez-priciny), Doplnkový pohľad, prečo telo aktivuje úzkosť aj keď sa zdanlivo nič nedeje.
+
 ## Ako pokračovať od dnes
 
 Ak si chceš havening vyskúšať, nezačni veľkým plánom. Začni tromi minútami dnes.

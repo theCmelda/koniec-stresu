@@ -261,6 +261,12 @@ Niečo môžeš cítiť hneď po prvom sedení. Napríklad pokojnejší dych ale
 
 Hlbšie zmeny väčšinou prichádzajú po niekoľkých týždňoch pravidelnej praxe. Stačí krátko, ale opakovane.
 
+## Pokračuj v čítaní
+
+- [Ako si vytvoriť návyk, ktorý zostane](/blog/ako-vytvorit-navyk), Bez návyku ani najlepšia meditačná technika nedrží. Tu je rámec, ktorý funguje.
+- [Mind racing: keď sa nedokážeš sústrediť ani 5 minút](/blog/mind-racing-sustredit), Ak ti pri meditácii myseľ nezastaví, toto je presný postup.
+- [Dýchanie 4-7-8: jednoduchý vstup do meditatívneho stavu](/blog/dychanie-4-7-8), Ak ti čistá meditácia nesedí, dych je rýchlejšia cesta k rovnakému efektu.
+
 ## Ako pokračovať od dnes
 
 Ak chceš začať bez premýšľania, priprav sa na najbližších 7 dní. Nie na celý život. Len na týždeň.
