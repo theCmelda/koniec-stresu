@@ -1,0 +1,405 @@
+---
+/**
+ * Exit-intent rating popup. Shown once per article (cookie-tracked).
+ * Triggers: mouseleave from viewport top (desktop) or 90s idle (mobile fallback).
+ *
+ * Data flow:
+ *   1. user picks a star → POST /api/rating with { slug, rating } (immediate save)
+ *   2. follow-up textarea expands with conditional prompt
+ *   3. user types feedback → POST /api/rating with { slug, rating, feedback }
+ *   4. cookie cs_rated_<slug> set so popup won't show again on this article
+ *
+ * Click outside the card or close button closes without saving anything new.
+ */
+interface Props {
+  slug: string;
+  title: string;
+}
+const { slug, title } = Astro.props;
+---
+
+<div class="exit-overlay" id="rx-overlay" data-slug={slug} data-title={title} role="dialog" aria-modal="true" aria-labelledby="rx-title" hidden>
+  <div class="exit-card" role="document">
+    <button class="exit-close" id="rx-close" type="button" aria-label="Zavrieť">×</button>
+
+    <div id="rx-step-rate">
+      <div class="rx-header">
+        <div class="rx-mark" aria-hidden="true">★</div>
+        <div class="rx-text">
+          <p class="rx-title" id="rx-title">Stálo ti to za <em>tvoj čas?</em></p>
+          <p class="rx-sub">Tvoj feedback formuje to, čo napíšem ďalej.</p>
+        </div>
+      </div>
+
+      <div class="rx-stars" role="radiogroup" aria-label="Hodnotenie">
+        {[1, 2, 3, 4, 5].map((n) => (
+          <button class="rx-star" type="button" data-rate={n} aria-label={`${n} hviezd`}>
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+            </svg>
+          </button>
+        ))}
+      </div>
+
+      <div class="rx-followup" id="rx-followup">
+        <p class="rx-prompt" id="rx-prompt"></p>
+        <textarea id="rx-text" placeholder="" maxlength="2000"></textarea>
+        <button class="rx-send" id="rx-send" type="button">Odoslať</button>
+      </div>
+    </div>
+
+    <div class="rx-thanks" id="rx-thanks">
+      <div class="rx-mark" aria-hidden="true">✓</div>
+      <p class="rx-thanks-text">Ďakujem za feedback.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function () {
+    const overlay = document.getElementById('rx-overlay') as HTMLDivElement | null;
+    if (!overlay) return;
+    const slug = overlay.dataset.slug ?? '';
+    const COOKIE = `cs_rated_${slug}`;
+
+    // Skip if already rated this article
+    if (document.cookie.split('; ').some((c) => c.startsWith(`${COOKIE}=`))) return;
+
+    const closeBtn = document.getElementById('rx-close');
+    const stars = document.querySelectorAll<HTMLButtonElement>('.rx-star');
+    const followup = document.getElementById('rx-followup') as HTMLDivElement;
+    const promptEl = document.getElementById('rx-prompt') as HTMLParagraphElement;
+    const textEl = document.getElementById('rx-text') as HTMLTextAreaElement;
+    const sendBtn = document.getElementById('rx-send') as HTMLButtonElement;
+    const stepRate = document.getElementById('rx-step-rate') as HTMLDivElement;
+    const thanks = document.getElementById('rx-thanks') as HTMLDivElement;
+
+    let rating = 0;
+    let opened = false;
+    let triggered = false;
+
+    function open() {
+      if (opened) return;
+      opened = true;
+      overlay!.hidden = false;
+      requestAnimationFrame(() => overlay!.classList.add('open'));
+      document.documentElement.style.overflow = 'hidden';
+    }
+    function close() {
+      overlay!.classList.remove('open');
+      document.documentElement.style.overflow = '';
+      // Mark as rated even if just closed (don't pester again)
+      const days = 60;
+      const exp = new Date(Date.now() + days * 86400000).toUTCString();
+      document.cookie = `${COOKIE}=1; expires=${exp}; path=/; SameSite=Lax`;
+      setTimeout(() => { overlay!.hidden = true; }, 280);
+    }
+
+    // Click outside the card closes
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) close();
+    });
+    closeBtn?.addEventListener('click', close);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && opened) close();
+    });
+
+    async function save(payload: Record<string, unknown>) {
+      try {
+        await fetch('/api/rating', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ slug, ...payload }),
+          keepalive: true,
+        });
+      } catch {
+        /* silent */
+      }
+    }
+
+    // Star hover preview
+    stars.forEach((s, i) => {
+      s.addEventListener('mouseenter', () => {
+        stars.forEach((x, j) => x.classList.toggle('preview', j <= i));
+      });
+      s.addEventListener('mouseleave', () => {
+        stars.forEach((x) => x.classList.remove('preview'));
+      });
+      s.addEventListener('click', () => {
+        rating = parseInt(s.dataset.rate || '0', 10);
+        stars.forEach((x, j) => x.classList.toggle('active', j < rating));
+        save({ rating });
+        const positive = rating >= 4;
+        promptEl.textContent = positive
+          ? 'Čo by si chcel/a vidieť ďalej?'
+          : 'Čo by sa dalo zlepšiť?';
+        textEl.placeholder = positive
+          ? 'Napr. ako prerušiť overthinking pred spaním...'
+          : 'Bol príliš dlhý, chýbalo mi, bolo nejasné...';
+        followup.classList.add('show');
+        textEl.focus();
+      });
+    });
+
+    sendBtn.addEventListener('click', async () => {
+      sendBtn.disabled = true;
+      sendBtn.textContent = 'Posielam...';
+      const feedback = textEl.value.trim();
+      await save({ rating, feedback });
+      stepRate.style.display = 'none';
+      thanks.classList.add('show');
+      setTimeout(close, 1500);
+    });
+
+    // Trigger A: real exit-intent (desktop only — mouse leaves viewport top)
+    document.addEventListener('mouseleave', (e) => {
+      if (triggered) return;
+      if (e.clientY <= 0) {
+        triggered = true;
+        open();
+      }
+    });
+
+    // Trigger B: mobile / fallback — show after 90 seconds of presence on the page
+    const isTouch = matchMedia('(pointer: coarse)').matches;
+    if (isTouch) {
+      setTimeout(() => {
+        if (!triggered) {
+          triggered = true;
+          open();
+        }
+      }, 90_000);
+    }
+
+    // Trigger C: mobile back-button intent (popstate just before unload)
+    window.addEventListener('beforeunload', () => {
+      // Cookie set on close already; nothing else to do here
+    });
+  })();
+</script>
+
+<style>
+  .exit-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(46, 34, 26, 0.45);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s, visibility 0.25s;
+  }
+  .exit-overlay.open {
+    opacity: 1;
+    visibility: visible;
+  }
+  .exit-card {
+    background: var(--paper);
+    border-radius: 24px;
+    padding: 32px 32px 28px;
+    max-width: 520px;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 30px 80px -20px rgba(46, 34, 26, 0.4);
+    transform: scale(0.94) translateY(20px);
+    transition: transform 0.35s cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+  .exit-overlay.open .exit-card {
+    transform: scale(1) translateY(0);
+  }
+  .exit-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    font-size: 22px;
+    color: var(--muted);
+    transition: color 0.15s, background 0.15s;
+    line-height: 1;
+  }
+  .exit-close:hover {
+    color: var(--ink);
+    background: var(--cream);
+  }
+
+  .rx-header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 18px;
+    align-items: center;
+    margin-bottom: 8px;
+    padding-right: 36px;
+  }
+  @media (max-width: 520px) {
+    .rx-header {
+      grid-template-columns: 1fr;
+      text-align: center;
+      padding-right: 0;
+    }
+  }
+
+  .rx-mark {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--terracotta), var(--rose));
+    display: grid;
+    place-items: center;
+    color: var(--paper);
+    font-family: var(--display);
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: 0 8px 24px -8px rgba(217, 119, 87, 0.4);
+  }
+  @media (max-width: 520px) {
+    .rx-mark {
+      margin: 0 auto;
+    }
+  }
+
+  .rx-text .rx-title {
+    font-family: var(--display);
+    font-size: 26px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+    color: var(--ink);
+  }
+  .rx-text .rx-title em {
+    font-style: italic;
+    color: var(--terracotta);
+  }
+  .rx-text .rx-sub {
+    color: var(--soft);
+    font-size: 14px;
+    margin-top: 4px;
+    line-height: 1.45;
+  }
+
+  .rx-stars {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    margin: 24px 0 0;
+  }
+  .rx-star {
+    width: 52px;
+    height: 52px;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    border-radius: 14px;
+    transition: transform 0.12s, background 0.15s;
+    padding: 0;
+  }
+  .rx-star svg {
+    width: 38px;
+    height: 38px;
+    color: var(--rule);
+    transition: color 0.15s, transform 0.15s;
+  }
+  .rx-star:hover {
+    background: var(--cream);
+  }
+  .rx-star:hover svg,
+  .rx-star.preview svg,
+  .rx-star.active svg {
+    color: #e9b67c;
+    transform: scale(1.1);
+  }
+  .rx-star.active svg {
+    transform: scale(1);
+  }
+
+  .rx-followup {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.25s 0.15s;
+  }
+  .rx-followup.show {
+    max-height: 360px;
+    opacity: 1;
+    margin-top: 20px;
+  }
+  .rx-prompt {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: var(--ink);
+  }
+  .rx-followup textarea {
+    width: 100%;
+    min-height: 88px;
+    background: var(--cream);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 14px 16px;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--ink);
+    resize: vertical;
+    outline: none;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .rx-followup textarea:focus {
+    border-color: var(--terracotta);
+    background: var(--paper);
+  }
+
+  .rx-send {
+    width: 100%;
+    display: block;
+    background: var(--ink);
+    color: var(--paper);
+    border: 0;
+    padding: 14px 22px;
+    border-radius: 14px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: var(--sans);
+    transition: background 0.2s, transform 0.15s;
+    margin-top: 10px;
+  }
+  .rx-send:hover:not(:disabled) {
+    background: var(--terracotta);
+    transform: translateY(-1px);
+  }
+  .rx-send:disabled {
+    opacity: 0.7;
+    cursor: progress;
+  }
+
+  .rx-thanks {
+    display: none;
+    text-align: center;
+    padding: 8px 0;
+  }
+  .rx-thanks.show {
+    display: block;
+  }
+  .rx-thanks-text {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 14px;
+    color: var(--ink);
+  }
+</style>
