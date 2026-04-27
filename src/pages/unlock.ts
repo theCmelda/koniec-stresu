@@ -5,30 +5,54 @@ const COOKIE_NAME = 'cs_unlock';
 const COOKIE_VALUE = 'open-2026';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 30; // 30 days
 
-export const POST: APIRoute = async ({ request, cookies, redirect }) => {
-  let password: FormDataEntryValue | string | null = null;
+function buildCookieHeader(): string {
+  return [
+    `${COOKIE_NAME}=${COOKIE_VALUE}`,
+    'Path=/',
+    `Max-Age=${COOKIE_MAX_AGE}`,
+    'HttpOnly',
+    'Secure',
+    'SameSite=Lax',
+  ].join('; ');
+}
+
+export const POST: APIRoute = async ({ request }) => {
+  let password: unknown = null;
 
   const contentType = request.headers.get('content-type') ?? '';
-  if (contentType.includes('application/x-www-form-urlencoded') || contentType.includes('multipart/form-data')) {
-    const formData = await request.formData();
-    password = formData.get('password');
-  } else if (contentType.includes('application/json')) {
-    const json = await request.json().catch(() => ({}));
-    password = (json as Record<string, string>).password ?? null;
+  try {
+    if (contentType.includes('application/json')) {
+      const json = await request.json();
+      password = (json as Record<string, unknown>).password;
+    } else if (
+      contentType.includes('application/x-www-form-urlencoded') ||
+      contentType.includes('multipart/form-data')
+    ) {
+      const formData = await request.formData();
+      password = formData.get('password');
+    }
+  } catch {
+    password = null;
   }
 
   if (typeof password === 'string' && password.trim() === PASSWORD) {
-    cookies.set(COOKIE_NAME, COOKIE_VALUE, {
-      path: '/',
-      httpOnly: true,
-      sameSite: 'lax',
-      secure: true,
-      maxAge: COOKIE_MAX_AGE,
+    return new Response(JSON.stringify({ ok: true }), {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'no-store',
+        'Set-Cookie': buildCookieHeader(),
+      },
     });
-    return redirect('/', 303);
   }
 
-  return redirect('/?error=1', 303);
+  return new Response(JSON.stringify({ ok: false, error: 'invalid_password' }), {
+    status: 401,
+    headers: {
+      'Content-Type': 'application/json',
+      'Cache-Control': 'no-store',
+    },
+  });
 };
 
 export const GET: APIRoute = async ({ redirect }) => redirect('/', 303);

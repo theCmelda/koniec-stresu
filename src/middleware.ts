@@ -296,11 +296,35 @@ function comingSoonHTML(error: boolean): string {
       <h2>Máš <em>heslo?</em></h2>
       <p class="gate-desc">Stránka je zatiaľ v privátnom režime. Ak ti Daniel poslal heslo, zadaj ho nižšie.</p>
       ${error ? '<div class="error">Nesprávne heslo. Skús znova.</div>' : ''}
-      <form method="post" action="/unlock">
+      <form id="cs-unlock-form" novalidate>
         <label for="password">Heslo</label>
         <input id="password" type="password" name="password" placeholder="••••••••" autocomplete="off" autofocus required>
-        <button type="submit">Vstúpiť</button>
+        <button type="submit" id="cs-unlock-btn">Vstúpiť</button>
       </form>
+      <script>
+        document.getElementById('cs-unlock-form').addEventListener('submit', async function(ev) {
+          ev.preventDefault();
+          var btn = document.getElementById('cs-unlock-btn');
+          var pw = document.getElementById('password').value;
+          btn.disabled = true;
+          btn.textContent = 'Overujem...';
+          try {
+            var r = await fetch('/unlock', {
+              method: 'POST',
+              credentials: 'include',
+              headers: {'Content-Type': 'application/json'},
+              body: JSON.stringify({password: pw})
+            });
+            if (r.ok) {
+              window.location.assign('/');
+            } else {
+              window.location.assign('/?error=1');
+            }
+          } catch (e) {
+            window.location.assign('/?error=1');
+          }
+        });
+      </script>
       <p class="hint">Zatiaľ nemáš prístup? Stránka sa otvorí všetkým čoskoro.</p>
     </aside>
   </div>
