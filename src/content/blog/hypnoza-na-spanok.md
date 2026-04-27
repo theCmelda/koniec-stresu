@@ -6,6 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnóza na spánok: ako funguje a kedy si ju pustiť"
+videoPlacement: top
 featured: false
 keywords: ["hypnóza na spánok", "spánková hypnóza", "self-hypnóza pred spaním", "hypnotická nahrávka spánok"]
 transformation: rýchle zaspávanie cez navigované uvoľnenie

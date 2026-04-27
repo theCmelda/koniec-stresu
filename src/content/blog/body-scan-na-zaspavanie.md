@@ -6,6 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Body scan na zaspávanie: 10-minútový sprievodca"
+videoPlacement: bottom
 featured: false
 keywords: ["body scan na zaspávanie", "body scan meditácia", "vedená meditácia spánok", "uvoľnenie tela pred spaním"]
 transformation: uvoľnené telo, ktoré vie, že je čas zaspať

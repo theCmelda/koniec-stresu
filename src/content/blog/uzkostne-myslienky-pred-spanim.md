@@ -6,6 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Úzkosť pred spaním: ako vypnúť mind racing pred zaspatím"
+videoPlacement: top
 featured: false
 keywords: ["úzkosť pred spaním", "úzkostné myšlienky večer", "myseľ nezastaví večer", "ako vypnúť myseľ pred spaním"]
 transformation: tiché večery bez špirály myšlienok

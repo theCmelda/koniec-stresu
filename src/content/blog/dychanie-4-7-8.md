@@ -6,6 +6,7 @@ category: Stres
 readingTime: 11
 videoId: JhUyvFqeIc8
 videoTitle: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
+videoPlacement: middle
 featured: false
 keywords: ["dýchanie 4-7-8", "technika 4-7-8", "dýchanie na upokojenie", "Andrew Weil dýchanie"]
 transformation: 'okamžitý pokoj cez dych'

@@ -6,6 +6,7 @@ category: Spánok
 readingTime: 11
 videoId: D8by4mvItxU
 videoTitle: "Nespavosť: čo skutočne pomáha (a kde strácaš čas)"
+videoPlacement: bottom
 featured: false
 keywords: ["nespavosť čo pomáha", "chronická nespavosť", "ako zaspať pri nespavosti", "lieky na nespavosť alternatíva"]
 transformation: 'noci, po ktorých sa zobudíš oddýchnutý'

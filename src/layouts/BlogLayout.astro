@@ -64,7 +64,7 @@ const articleSchema = {
     </div>
   </header>
 
-  {data.videoId && (
+  {data.videoId && data.videoPlacement === 'top' && (
     <VideoEmbed
       videoId={data.videoId}
       title={data.videoTitle ?? data.title}
@@ -73,6 +73,17 @@ const articleSchema = {
 
   <article class="prose article">
     <slot />
+
+    {data.videoId && data.videoPlacement === 'bottom' && (
+      <aside class="article-video">
+        <h2 class="video-heading">Pozri si vedenú prax</h2>
+        <p class="video-sub">Ak ti slová nestačia, video ťa prevedie technikou krok za krokom.</p>
+        <VideoEmbed
+          videoId={data.videoId}
+          title={data.videoTitle ?? data.title}
+        />
+      </aside>
+    )}
   </article>
 
   <CTASection
@@ -154,6 +165,31 @@ const articleSchema = {
 
     .article {
       padding: 64px 24px;
+    }
+
+    .article-video {
+      max-width: 760px;
+      margin: 64px auto 0;
+      padding-top: 48px;
+      border-top: 1px solid var(--rule);
+      text-align: center;
+    }
+
+    .video-heading {
+      font-family: var(--display);
+      font-size: 32px;
+      font-weight: 500;
+      letter-spacing: -0.015em;
+      margin-bottom: 8px;
+    }
+
+    .video-sub {
+      font-size: 16px;
+      color: var(--soft);
+      margin-bottom: 24px;
+      max-width: 520px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     @media (max-width: 600px) {

@@ -6,6 +6,7 @@ category: Spánok
 readingTime: 8
 videoId: YIH89ABBJ2w
 videoTitle: Zdvojnásob kvalitu spánku ešte dnes (2 málo známe triky)
+videoPlacement: middle
 featured: false
 keywords: ["ako rýchlo zaspať", "lepší spánok", "nespavosť", "spánková hygiena"]
 transformation: 'hlbší spánok bez tabletiek'

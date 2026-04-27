@@ -4,8 +4,9 @@ description: Meditácia pre začiatočníkov bez tlaku. Zisti, ako začať medit
 publishDate: 2026-04-25
 category: Transformácia
 readingTime: 9
-videoId: JzgGB-jJhJc
-videoTitle: 10 najčastejších otázok o meditácii (odpovede)
+videoId: JhUyvFqeIc8
+videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
+videoPlacement: top
 featured: false
 keywords: ["meditácia pre začiatočníkov", "ako začať meditovať", "ako meditovať doma", "chyby pri meditácii"]
 transformation: 'pokojnú prax meditácie každý deň'

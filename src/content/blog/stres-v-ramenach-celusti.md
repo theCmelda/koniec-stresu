@@ -4,8 +4,9 @@ description: "stres v ramenách: praktický návod krok za krokom. Konkrétne te
 publishDate: 2026-05-19
 category: Stres
 readingTime: 12
-videoId: y1RH0WbogA0
-videoTitle: "Stres ti drží v ramenách a čeľusti: 4 telové uvoľnenia"
+videoId: 01X-hzukAtI
+videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
+videoPlacement: top
 featured: false
 keywords: ["stres v ramenách", "napätie v čeľusti", "stres v tele", "psychosomatika napätie"]
 transformation: uvoľnené telo, ktoré stres pustí cez deň, nie cez kríze

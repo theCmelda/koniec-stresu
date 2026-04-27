@@ -6,6 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: o_ZOmaZvc78
 videoTitle: "Spúšťač šťastia: ako zapnúť pokoj na povel"
+videoPlacement: top
 featured: false
 keywords: ["spúšťač šťastia", "NLP anchoring", "ako si zapnúť pokoj", "anchoring pozitívny stav"]
 transformation: schopnosť privolať pozitívny stav v ťažkom momente

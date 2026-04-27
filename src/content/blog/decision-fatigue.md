@@ -4,8 +4,9 @@ description: "decision fatigue: praktický návod krok za krokom. Konkrétne tec
 publishDate: 2026-05-21
 category: Stres
 readingTime: 12
-videoId: ubIU0Q3bIrk
-videoTitle: "Decision fatigue: prečo večer nezvládneš ani malé voľby"
+videoId: yEGfxyZGiiU
+videoTitle: "Ako urobiť pauzu bez toho, aby si stratil progress"
+videoPlacement: top
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "prečo večer rozhodujem zle", "preťaženie mozgu"]
 transformation: rozhodnutia, ktoré ti nevedia spáliť deň

@@ -6,6 +6,7 @@ category: Úzkosť
 readingTime: 8
 videoId: 5Rph_cBZibk
 videoTitle: "Havening: 3 minúty na okamžité upokojenie (nahrávka)"
+videoPlacement: middle
 featured: false
 keywords: ["havening metóda", "havening technika", "ako sa upokojiť", "úzkosť technika", "panická ataka"]
 transformation: 'rýchle upokojenie pri akútnej úzkosti'

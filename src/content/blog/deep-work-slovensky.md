@@ -4,8 +4,9 @@ description: "deep work: praktický návod krok za krokom. Konkrétne techniky, 
 publishDate: 2026-06-16
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: x2UfgNlqZ5k
-videoTitle: "Deep work pre slovenský kontext: ako brániť svoj fokus"
+videoId: 01X-hzukAtI
+videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
+videoPlacement: top
 featured: false
 keywords: ["deep work", "hlboká koncentrácia", "ako sa sústrediť", "Cal Newport deep work"]
 transformation: 2 hodiny denne hlbokej, hodnotnej práce

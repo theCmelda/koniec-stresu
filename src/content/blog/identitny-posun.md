@@ -4,8 +4,9 @@ description: "identitný posun: praktický návod krok za krokom. Konkrétne tec
 publishDate: 2026-07-06
 category: Transformácia
 readingTime: 12
-videoId: aCtBLnaelpc
-videoTitle: "Identitný posun: ako sa stať niekým novým bez násilia"
+videoId: zVR7irv4OCg
+videoTitle: "Ako si garantovať úspech (a čo ti ho zabije)"
+videoPlacement: top
 featured: false
 keywords: ["identitný posun", "ako sa stať niekým iným", "identity shift", "transformácia identity"]
 transformation: stať sa verziou seba, na ktorú si hrdý

@@ -4,8 +4,9 @@ description: "ako vyriešiť dilemu: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-22
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: 0SVZjfkj5ZE
-videoTitle: Ako vyriešiť dilemu cez „older self“ rámec
+videoId: VoKR6HnQyxQ
+videoTitle: "Týždňová reflexia: 5 otázok pre osobný rast"
+videoPlacement: top
 featured: false
 keywords: ["ako vyriešiť dilemu", "zložité rozhodnutie", "Older self framework", "ako sa rozhodnúť pri dileme"]
 transformation: rozhodnutia, ktoré budú dávať zmysel aj o desať rokov

@@ -6,6 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Anticipatórna úzkosť: keď sa bojíš toho, že sa budeš báť"
+videoPlacement: top
 featured: false
 keywords: ["anticipatórna úzkosť", "bojím sa že sa budem báť", "predzvest úzkosti", "úzkosť pred udalosťou"]
 transformation: pokoj pred udalosťou, ktorej sa zatiaľ len bojíš

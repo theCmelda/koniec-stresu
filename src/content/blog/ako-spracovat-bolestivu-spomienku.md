@@ -6,6 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: Xr7vPVcdVcs
 videoTitle: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
+videoPlacement: top
 featured: false
 keywords: ["ako sa zbaviť bolestivej spomienky", "spracovanie traumy", "vymazať bolestivú spomienku", "ako pracovať s traumou"]
 transformation: 'bolestivé spomienky bez emocionálneho náboja'

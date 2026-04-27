@@ -6,6 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: TdmFPQJANKM
 videoTitle: "Ranný rituál pre mentálnu jasnosť: 90-minútový setup"
+videoPlacement: middle
 featured: false
 keywords: ["ranný rituál", "morning routine", "ranná rutina pre produktivitu", "ako začať deň"]
 transformation: ráno, ktoré nasmeruje celý deň

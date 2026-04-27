@@ -6,6 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Telo unavené, hlava bdelá: ako vypnúť overactive mind v posteli"
+videoPlacement: top
 featured: false
 keywords: ["telo unavené hlava bdelá", "mind racing pred spaním", "ako vypnúť myseľ pred spaním", "myšlienky v hlave večer"]
 transformation: myseľ, ktorá sa vypne keď telo už chce spať

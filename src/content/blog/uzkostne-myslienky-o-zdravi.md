@@ -4,8 +4,9 @@ description: "úzkostné myšlienky o zdraví: praktický návod krok za krokom.
 publishDate: 2026-06-09
 category: Úzkosť
 readingTime: 12
-videoId: S-OpVH6hnj8
-videoTitle: "Úzkostné myšlienky o zdraví: hypochondria a Google-search trap"
+videoId: JhUyvFqeIc8
+videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
+videoPlacement: top
 featured: false
 keywords: ["úzkostné myšlienky o zdraví", "hypochondria", "zdravotná úzkosť", "googlim symptómy bojím sa"]
 transformation: pokoj o tvoje telo bez kontrolovania každého pocitu

@@ -4,8 +4,9 @@ description: "prokrastinácia: praktický návod krok za krokom. Konkrétne tech
 publishDate: 2026-06-15
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: qJPQaZclQ3c
-videoTitle: "Prokrastinácia nie je lenivosť: 4 typy a ako ich rozdielne riešiť"
+videoId: yz-8T7YcYHc
+videoTitle: "Tajomstvo nezastaviteľnej motivácie (funguje ihneď)"
+videoPlacement: top
 featured: false
 keywords: ["prokrastinácia", "typy prokrastinácie", "ako prekonať prokrastináciu", "prečo odkladám veci"]
 transformation: konkrétne nástroje pre tvoj typ odkladania

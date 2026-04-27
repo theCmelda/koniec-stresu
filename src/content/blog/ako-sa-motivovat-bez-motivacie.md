@@ -4,8 +4,9 @@ description: "ako sa motivovať: praktický návod krok za krokom. Konkrétne te
 publishDate: 2026-06-18
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: yz-8T7YcYHc
-videoTitle: "Ako sa motivovať keď niet motivácie: systém je silnejší ako pocit"
+videoId: zVR7irv4OCg
+videoTitle: "Ako si garantovať úspech (a čo ti ho zabije)"
+videoPlacement: top
 featured: false
 keywords: ["ako sa motivovať", "bez motivácie", "ako začať keď sa nechce", "systém vs motivácia"]
 transformation: schopnosť konať aj v dni, keď „nie je nálada“

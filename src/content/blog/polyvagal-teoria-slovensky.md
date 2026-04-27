@@ -6,6 +6,7 @@ category: Stres
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Polyvagal teória po slovensky: ako rozumieť svojim reakciám tela"
+videoPlacement: top
 featured: false
 keywords: ["polyvagal teória", "polyvagal teória po slovensky", "ventrálny vagus", "blúdivý nerv stimulácia"]
 transformation: porozumenie tomu, prečo tvoje telo reaguje tak, ako reaguje

@@ -4,8 +4,9 @@ description: "fyziologický vzdych: praktický návod krok za krokom. Konkrétne
 publishDate: 2026-05-11
 category: Stres
 readingTime: 11
-videoId: 3T6MJL-wiFY
-videoTitle: "Fyziologický vzdych: 30-sekundová technika z neurovedy"
+videoId: zg9woir17BE
+videoTitle: "Najrýchlejšia technika proti stresu (2 minúty stačia)"
+videoPlacement: top
 featured: false
 keywords: ["fyziologický vzdych", "physiological sigh slovensky", "dychová technika Huberman", "rýchle upokojenie dychom"]
 transformation: 'okamžitý reset nervovej sústavy v 30 sekundách'

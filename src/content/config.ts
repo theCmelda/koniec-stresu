@@ -10,6 +10,8 @@ const blog = defineCollection({
     author: z.string().default('Daniel Jedlička'),
     videoId: z.string().optional(),
     videoTitle: z.string().optional(),
+    /** Where to render the video on the page. */
+    videoPlacement: z.enum(['top', 'middle', 'bottom', 'remove']).default('top'),
     category: z.string().default('Stres'),
     readingTime: z.number().optional(),
     /** Article-specific transformation outcome used in CTA (e.g. "hlbší spánok bez tabletiek") */

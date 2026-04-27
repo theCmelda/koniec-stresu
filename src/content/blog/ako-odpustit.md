@@ -6,6 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: PqCXY5OB4sg
 videoTitle: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
+videoPlacement: top
 featured: false
 keywords: ["ako odpustiť", "odpustenie", "ako odpustiť sebe", "ako odpustiť rodičom"]
 transformation: 'uvoľnenie krivdy, ktorá ťa už nedrží'

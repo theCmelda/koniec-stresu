@@ -6,6 +6,7 @@ category: Stres
 readingTime: 9
 videoId: Cqucxrnf-MI
 videoTitle: 3 kroky, ako dostať stres pod kontrolu za 30 dní
+videoPlacement: top
 featured: true
 keywords: ["ako sa zbaviť stresu", "techniky proti stresu", "ako zvládať stres", "chronický stres", "kontrola stresu"]
 transformation: 'návrat pokoja do nervovej sústavy'

@@ -4,8 +4,9 @@ description: "jet lag: praktický návod krok za krokom. Konkrétne techniky, ve
 publishDate: 2026-05-29
 category: Spánok
 readingTime: 12
-videoId: YIH89ABBJ2w
-videoTitle: "Jet lag: ako sa preprogramovať za 3 dni (namiesto týždňa)"
+videoId: D8by4mvItxU
+videoTitle: "Relaxačná nahrávka na spánok: zaspi do 10 minút"
+videoPlacement: top
 featured: false
 keywords: ["jet lag", "jet lag ako prekonať", "smerový spánok", "letecký jet lag rýchlo"]
 transformation: rýchla adaptácia na novú časovú zónu

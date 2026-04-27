@@ -4,8 +4,9 @@ description: "ranný journal: praktický návod krok za krokom. Konkrétne techn
 publishDate: 2026-06-26
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: TdmFPQJANKM
-videoTitle: "Ranný journal: 3 otázky, ktoré transformujú deň"
+videoId: VoKR6HnQyxQ
+videoTitle: "Týždňová reflexia: 5 otázok pre osobný rast"
+videoPlacement: top
 featured: false
 keywords: ["ranný journal", "ranný denník", "morning pages", "písanie ráno"]
 transformation: deň so smerom, ktorý si si zvolil ty

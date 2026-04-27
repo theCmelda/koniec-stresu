@@ -4,8 +4,9 @@ description: "po 30 dňoch transformácia: praktický návod krok za krokom. Kon
 publishDate: 2026-07-05
 category: Transformácia
 readingTime: 12
-videoId: AgTdln4nlJE
-videoTitle: "Po 30 dňoch: ako si udržať pokoj navždy"
+videoId: horlVXgyMGs
+videoTitle: "Ako si vytvoriť trvalý zvyk meditácie (aj ak nemáš čas)"
+videoPlacement: top
 featured: false
 keywords: ["po 30 dňoch transformácia", "udržanie pokoja", "po kurze ako pokračovať", "udržateľná transformácia"]
 transformation: trvalý pokoj namiesto výletu

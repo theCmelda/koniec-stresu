@@ -4,8 +4,9 @@ description: "vzorec úspechu: praktický návod krok za krokom. Konkrétne tech
 publishDate: 2026-07-04
 category: Transformácia
 readingTime: 12
-videoId: zVR7irv4OCg
-videoTitle: "Vzorec úspechu: prečo niektorí dotiahnu a iní nie"
+videoId: qJPQaZclQ3c
+videoTitle: "1 vec, ktorá rozhoduje o úspechu (alebo neúspechu)"
+videoPlacement: top
 featured: false
 keywords: ["vzorec úspechu", "ako uspieť", "úspech vzorec", "prečo niektorí dotiahnu"]
 transformation: konkrétny rámec na dotiahnutie čohokoľvek do konca

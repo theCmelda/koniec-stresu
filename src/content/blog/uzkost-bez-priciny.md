@@ -4,8 +4,9 @@ description: "úzkosť bez príčiny: praktický návod krok za krokom. Konkrét
 publishDate: 2026-06-05
 category: Úzkosť
 readingTime: 12
-videoId: S-OpVH6hnj8
-videoTitle: "Úzkosť bez príčiny: prečo telo niekedy „vystrelí“ bez zjavného dôvodu"
+videoId: r1spuextOOs
+videoTitle: "Havening: 2-minútová metóda proti úzkosti (skús teraz)"
+videoPlacement: top
 featured: false
 keywords: ["úzkosť bez príčiny", "náhla úzkosť", "úzkosť z ničoho nič", "prečo mám úzkosť bez dôvodu"]
 transformation: porozumenie tomu, čo telo skutočne signalizuje
