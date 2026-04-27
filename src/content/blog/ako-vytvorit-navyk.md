@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: horlVXgyMGs
 videoTitle: "Ako udržať meditačnú prax aj keď nie je čas"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako si vytvoriť návyk", "návyk 21 dní", "atomic habits slovensky", "ako udržať návyk"]
 transformation: návyky, ktoré ti vydržia bez sily vôle

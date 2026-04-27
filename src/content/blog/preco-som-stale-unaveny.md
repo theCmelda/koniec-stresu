@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["prečo som stále unavený", "stála únava príznaky", "chronická únava", "prečo som unavený aj po spánku"]
 transformation: energiu, ktorá vydrží od rána do večera

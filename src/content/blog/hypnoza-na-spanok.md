@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["hypnóza na spánok", "spánková hypnóza", "self-hypnóza pred spaním", "hypnotická nahrávka spánok"]
 transformation: rýchle zaspávanie cez navigované uvoľnenie

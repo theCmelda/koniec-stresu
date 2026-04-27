@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["body scan na zaspávanie", "body scan meditácia", "vedená meditácia spánok", "uvoľnenie tela pred spaním"]
 transformation: uvoľnené telo, ktoré vie, že je čas zaspať

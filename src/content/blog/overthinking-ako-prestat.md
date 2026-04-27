@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["overthinking ako prestať", "nadmerné premýšľanie", "ako prestať myslieť", "myšlienky v hlave nezastavia"]
 transformation: 'myseľ, ktorá vie zastaviť sama'

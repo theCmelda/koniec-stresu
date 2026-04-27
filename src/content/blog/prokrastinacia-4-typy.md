@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: qJPQaZclQ3c
 videoTitle: "Rozdiel medzi tými, čo dotiahnu a tými, čo nie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["prokrastinácia", "typy prokrastinácie", "ako prekonať prokrastináciu", "prečo odkladám veci"]
 transformation: konkrétne nástroje pre tvoj typ odkladania

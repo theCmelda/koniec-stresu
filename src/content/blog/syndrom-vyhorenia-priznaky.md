@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["syndróm vyhorenia", "burnout príznaky", "syndróm vyhorenia príznaky", "ako sa zotaviť z vyhorenia"]
 transformation: 'návrat energie bez vyhorenia'

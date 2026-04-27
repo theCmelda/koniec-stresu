@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: zVR7irv4OCg
 videoTitle: "Vzorec úspechu"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["vzorec úspechu", "ako uspieť", "úspech vzorec", "prečo niektorí dotiahnu"]
 transformation: konkrétny rámec na dotiahnutie čohokoľvek do konca

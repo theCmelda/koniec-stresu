@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 8
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako zastaviť obavy", "ako sa zbaviť úzkosti", "úzkostné myšlienky", "obavy pred spaním"]
 transformation: 'koniec úzkostných myšlienok'

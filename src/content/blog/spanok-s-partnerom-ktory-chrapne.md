@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["spánok s partnerom", "partner chrápe ako spať", "rušený spánok partner", "spať vedľa niekoho"]
 transformation: ticho a pokoj v spálni, aj keď nie ste sami

@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["telo unavené hlava bdelá", "mind racing pred spaním", "ako vypnúť myseľ pred spaním", "myšlienky v hlave večer"]
 transformation: myseľ, ktorá sa vypne keď telo už chce spať

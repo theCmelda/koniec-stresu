@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: PqCXY5OB4sg
 videoTitle: "Vedená nahrávka: krivda a odpustenie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako odpustiť", "odpustenie", "ako odpustiť sebe", "ako odpustiť rodičom"]
 transformation: 'uvoľnenie krivdy, ktorá ťa už nedrží'

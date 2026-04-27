@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: p-hsJ96Cyq0
 videoTitle: "Tri triky pre lepšie vzťahy"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako zlepšiť vzťah", "lepšie vzťahy s partnerom", "komunikácia v partnerstve", "vzťahové triky"]
 transformation: vzťahy, kde sa cítiš videný a počutý

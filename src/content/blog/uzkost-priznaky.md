@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 11
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["úzkosť príznaky", "ako spoznať úzkosť", "úzkostná porucha príznaky", "úzkosť v tele"]
 transformation: 'znovuzískanie kontroly nad úzkosťou'

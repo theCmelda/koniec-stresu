@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: Xr7vPVcdVcs
 videoTitle: "Trauma a spomienky: technika z terapie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["vyhýbavé správanie", "úzkosť vyhýbam sa", "vyhýbam sa veciam ktoré ma stresujú", "prokrastinácia z úzkosti"]
 transformation: návrat k veciam, ktorým si sa kvôli úzkosti vyhýbal

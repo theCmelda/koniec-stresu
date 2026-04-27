@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["úzkosť pred spaním", "úzkostné myšlienky večer", "myseľ nezastaví večer", "ako vypnúť myseľ pred spaním"]
 transformation: tiché večery bez špirály myšlienok

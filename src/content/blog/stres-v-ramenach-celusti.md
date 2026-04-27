@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["stres v ramenách", "napätie v čeľusti", "stres v tele", "psychosomatika napätie"]
 transformation: uvoľnené telo, ktoré stres pustí cez deň, nie cez kríze

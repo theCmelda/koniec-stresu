@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["úzkosť bez príčiny", "náhla úzkosť", "úzkosť z ničoho nič", "prečo mám úzkosť bez dôvodu"]
 transformation: porozumenie tomu, čo telo skutočne signalizuje

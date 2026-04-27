@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako sa upokojiť rýchlo", "ako sa upokojiť za 60 sekúnd", "rýchle upokojenie pri strese", "ako sa upokojiť pred prezentáciou"]
 transformation: upokojenie na povel, kedykoľvek to potrebuješ

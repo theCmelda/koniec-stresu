@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["jet lag", "jet lag ako prekonať", "smerový spánok", "letecký jet lag rýchlo"]
 transformation: rýchla adaptácia na novú časovú zónu

@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["chronická nespavosť", "chronická insomnia", "nespavosť dlhodobo", "kedy ísť k lekárovi nespavosť"]
 transformation: návrat dôvery, že vieš zaspať

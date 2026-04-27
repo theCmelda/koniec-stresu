@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: Cqucxrnf-MI
 videoTitle: "3 kroky, ako dostať stres pod kontrolu za 30 dní"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako zmeniť svoj život", "životná zmena", "transformácia za 90 dní", "ako začať od začiatku"]
 transformation: 90 dní, ktoré nezačnú a neskončia v rovnakom mieste

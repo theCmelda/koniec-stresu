@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: LDHX3a5mE6w
 videoTitle: "Metóda VYHRÁVAM: prenastavenie RAS"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["metóda VYHRÁVAM", "RAS reprogramming", "ako prenastaviť mozog", "pozitívne myslenie cvičenie"]
 transformation: mozog, ktorý si všimne príležitosti namiesto problémov

@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 9
 videoId: JzgGB-jJhJc
 videoTitle: "10 najčastejších otázok o meditácii (odpovede)"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["meditácia pre začiatočníkov", "ako začať meditovať", "ako meditovať doma", "chyby pri meditácii"]
 transformation: 'pokojnú prax meditácie každý deň'

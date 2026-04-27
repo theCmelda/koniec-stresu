@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako znížiť kortizol", "kortizol vysoký príznaky", "ako znížiť kortizol prirodzene", "stres a kortizol"]
 transformation: rovnovážny kortizol, ktorý ťa nebude vyrážať z formy

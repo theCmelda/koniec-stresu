@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: ubIU0Q3bIrk
 videoTitle: "Pauza pred posledným krokom"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "ako sa rozhodovať lepšie", "kognitívne preťaženie"]
 transformation: lepšie rozhodnutia s menej únavy

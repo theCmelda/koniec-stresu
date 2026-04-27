@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: TdmFPQJANKM
 videoTitle: "Otázka pre lepší deň"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ranný journal", "ranný denník", "morning pages", "písanie ráno"]
 transformation: deň so smerom, ktorý si si zvolil ty

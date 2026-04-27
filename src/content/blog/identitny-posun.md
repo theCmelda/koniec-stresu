@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: aCtBLnaelpc
 videoTitle: "Prehľad očakávaných zmien po 30 dňoch"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["identitný posun", "ako sa stať niekým iným", "identity shift", "transformácia identity"]
 transformation: stať sa verziou seba, na ktorú si hrdý

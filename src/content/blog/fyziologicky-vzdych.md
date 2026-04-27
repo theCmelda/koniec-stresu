@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: 3T6MJL-wiFY
 videoTitle: "Krátka prax: 2-minútový reset cez dych"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["fyziologický vzdych", "physiological sigh slovensky", "dychová technika Huberman", "rýchle upokojenie dychom"]
 transformation: 'okamžitý reset nervovej sústavy v 30 sekundách'

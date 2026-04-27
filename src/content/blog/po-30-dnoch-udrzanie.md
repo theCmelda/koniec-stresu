@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: AgTdln4nlJE
 videoTitle: "Po 30 dňoch: ako pokračovať"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["po 30 dňoch transformácia", "udržanie pokoja", "po kurze ako pokračovať", "udržateľná transformácia"]
 transformation: trvalý pokoj namiesto výletu

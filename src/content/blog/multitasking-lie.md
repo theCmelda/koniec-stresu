@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["multitasking", "multitasking lie", "prečo je multitasking zlý", "single-tasking"]
 transformation: návrat k single-taskingu a 3× vyššej produktivite

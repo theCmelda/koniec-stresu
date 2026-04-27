@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: Xr7vPVcdVcs
 videoTitle: "Trauma a spomienky: technika z terapie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako sa zbaviť bolestivej spomienky", "spracovanie traumy", "vymazať bolestivú spomienku", "ako pracovať s traumou"]
 transformation: 'bolestivé spomienky bez emocionálneho náboja'

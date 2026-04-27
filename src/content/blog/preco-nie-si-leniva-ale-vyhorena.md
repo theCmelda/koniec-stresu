@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["lenivosť alebo vyhorenie", "nie som lenivý som vyhorený", "ako rozlíšiť lenivosť od vyhorenia", "rozdiel lenivosť vyhorenie"]
 transformation: jasnosť o tom, čo telo skutočne potrebuje

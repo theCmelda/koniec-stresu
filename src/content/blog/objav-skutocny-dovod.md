@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["skutočný dôvod prečo", "WHY framework", "Simon Sinek WHY", "ako nájsť svoj prečo"]
 transformation: jasnosť o tom, prečo robíš to, čo robíš

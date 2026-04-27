@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako vyriešiť dilemu", "zložité rozhodnutie", "Older self framework", "ako sa rozhodnúť pri dileme"]
 transformation: rozhodnutia, ktoré budú dávať zmysel aj o desať rokov

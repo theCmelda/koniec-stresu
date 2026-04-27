@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["deep work", "hlboká koncentrácia", "ako sa sústrediť", "Cal Newport deep work"]
 transformation: 2 hodiny denne hlbokej, hodnotnej práce

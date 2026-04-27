@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: yEGfxyZGiiU
 videoTitle: "Pauza, reflexia, integrácia odpočinku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako resetovať nervový systém", "nervový systém reset", "regenerácia za víkend", "ako sa zregenerovať"]
 transformation: víkend, po ktorom sa cítiš naozaj oddýchnutý

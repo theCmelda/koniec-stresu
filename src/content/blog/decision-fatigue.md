@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: ubIU0Q3bIrk
 videoTitle: "Pauza pred posledným krokom"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "prečo večer rozhodujem zle", "preťaženie mozgu"]
 transformation: rozhodnutia, ktoré ti nevedia spáliť deň

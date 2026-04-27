@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["spánková hygiena", "pravidlá spánkovej hygieny", "tipy na lepší spánok", "spánková hygiena dospelí"]
 transformation: jednoduché ranné aj večerné rutiny pre hlboký spánok

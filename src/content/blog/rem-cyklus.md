@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["REM cyklus", "spánkové cykly 90 minút", "kedy sa zobudiť oddýchnutý", "REM fáza spánku"]
 transformation: ráno bez ťažoby na hrudníku

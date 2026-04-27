@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: syAw_f0Abic
 videoTitle: "NLP technika kotvy pokoja"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["NLP kotva pokoja", "NLP technika anchoring", "kotva pokoja meditácia", "anchoring NLP"]
 transformation: 'pokoj na povel kedykoľvek a kdekoľvek'

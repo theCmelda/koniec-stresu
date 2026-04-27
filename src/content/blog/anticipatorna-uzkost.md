@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["anticipatórna úzkosť", "bojím sa že sa budem báť", "predzvest úzkosti", "úzkosť pred udalosťou"]
 transformation: pokoj pred udalosťou, ktorej sa zatiaľ len bojíš

@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 11
 videoId: dwHTTKnuGK8
 videoTitle: "10 minút cvičenia na zoznam zdrojov šťastia"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["denník vďačnosti ako začať", "denník vďačnosti", "vďačnosť cvičenie", "ranný rituál vďačnosti"]
 transformation: 'trvalú prácu s vďačnosťou bez výhovoriek'

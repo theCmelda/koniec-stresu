@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: ios086FtRxU
 videoTitle: "Prečo potreba kontroly zvyšuje stres"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["workaholism", "workaholic", "závislosť od práce", "kedy pracovať veľa nie je odpoveď"]
 transformation: menej hodín, viac hlbokého výsledku

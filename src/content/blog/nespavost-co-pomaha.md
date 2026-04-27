@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 11
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["nespavosť čo pomáha", "chronická nespavosť", "ako zaspať pri nespavosti", "lieky na nespavosť alternatíva"]
 transformation: 'noci, po ktorých sa zobudíš oddýchnutý'

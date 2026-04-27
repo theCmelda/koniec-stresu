@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako sa motivovať", "bez motivácie", "ako začať keď sa nechce", "systém vs motivácia"]
 transformation: schopnosť konať aj v dni, keď „nie je nálada“

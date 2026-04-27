@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["uzemnenie 5-4-3-2-1", "grounding technika", "uzemnenie pri úzkosti", "5-4-3-2-1 metóda"]
 transformation: praktická technika späť do prítomnosti

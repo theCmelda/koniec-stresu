@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 11
 videoId: ios086FtRxU
 videoTitle: "Prečo potreba kontroly zvyšuje stres"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako pustiť kontrolu", "potreba kontroly", "ako prijať to čo neviem ovplyvniť", "perfekcionizmus"]
 transformation: 'pokoj, ktorý nezávisí od kontroly'

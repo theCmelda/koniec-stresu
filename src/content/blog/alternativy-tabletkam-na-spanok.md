@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["prírodné alternatívy na spánok", "bez tabliet zaspať", "alternatíva Stilnox", "prírodný spánok bez liekov"]
 transformation: spánok bez závislosti na tabletkách

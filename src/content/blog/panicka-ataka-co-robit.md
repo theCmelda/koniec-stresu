@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 11
 videoId: r1spuextOOs
 videoTitle: "Havening dotyk: 3 minúty"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["panická ataka čo robiť", "panická ataka pomoc", "ako zastaviť panickú ataku", "panická ataka príznaky"]
 transformation: 'ovládnutie panických stavov'

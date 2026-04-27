@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: S-OpVH6hnj8
 videoTitle: "Trik, ktorý zastaví obavy za 60 sekúnd"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["generalizovaná úzkostná porucha", "GAD úzkosť", "neustále sa o niečo strachujem", "nadmerné obavy"]
 transformation: schopnosť odlíšiť normálnu opatrnosť od chronickej úzkosti

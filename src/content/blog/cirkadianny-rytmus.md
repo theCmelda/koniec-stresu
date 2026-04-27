@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["cirkadiánny rytmus", "ranné svetlo na spánok", "ako nastaviť vnútorné hodiny", "biologické hodiny tela"]
 transformation: telo, ktoré vie kedy zaspať bez tlaku

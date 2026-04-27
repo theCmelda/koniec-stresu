@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: hH03xJp5NZQ
 videoTitle: "Pauza nie je zlyhanie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["nedeľa večer panika", "nedeľná úzkosť", "Sunday scaries", "ako sa pripraviť na pondelok"]
 transformation: nedeľný večer ako prechod, nie ako predtuchu

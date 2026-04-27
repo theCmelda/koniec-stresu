@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: JzgGB-jJhJc
 videoTitle: "10 najčastejších otázok o meditácii"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako sa sústrediť", "mind racing počas práce", "neviem sa sústrediť", "myseľ skáče z miesta na miesto"]
 transformation: schopnosť ostať pri jednej veci dosť dlho na to, aby si ju dokončil

@@ -6,7 +6,7 @@ category: Transformácia
 readingTime: 12
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["tajomstvo motivácie", "motivácia ktorá vydrží", "ako sa motivovať dlhodobo", "vnútorná motivácia"]
 transformation: motivácia, ktorú nepotrebuje YouTube ani vonku

@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: x2UfgNlqZ5k
 videoTitle: "Komplexná meditácia spájajúca 5 techník"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["phone detox", "digital detox", "ako sa zbaviť závislosti od telefónu", "závislosť od mobilu"]
 transformation: vzťah s telefónom, ktorý slúži tebe a nie naopak

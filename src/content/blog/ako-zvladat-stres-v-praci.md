@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: y1RH0WbogA0
 videoTitle: "Energetický audit"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako zvládať stres v práci", "pracovný stres", "stres v zamestnaní", "ako zvládať pracovné napätie"]
 transformation: 'energiu, ktorá vydrží do piatka'

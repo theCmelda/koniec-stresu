@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: D8by4mvItxU
 videoTitle: "Hypnotická vedená nahrávka na rýchle zaspatie"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["budenie sa v noci", "budím sa o 3 ráno", "prečo sa budím v noci", "neviem zaspať keď sa zobudím"]
 transformation: noci bez prerušovania o tretej

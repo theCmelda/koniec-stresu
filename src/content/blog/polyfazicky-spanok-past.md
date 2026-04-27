@@ -6,7 +6,7 @@ category: Spánok
 readingTime: 12
 videoId: YIH89ABBJ2w
 videoTitle: "Zdvojnásob kvalitu spánku"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["polyfázický spánok", "polyphasic sleep slovensky", "spánok 4 hodiny denne", "Uberman cyklus"]
 transformation: spánok ako leverage, nie ako čas, čo treba ušetriť

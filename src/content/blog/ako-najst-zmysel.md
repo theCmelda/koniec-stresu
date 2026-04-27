@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 11
 videoId: yz-8T7YcYHc
 videoTitle: "Tajomstvo motivácie cez vnútorné WHY"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ako nájsť zmysel", "zmysel života", "ako nájsť svoje poslanie", "ikigai slovensky"]
 transformation: 'zmysel, za ktorým si vieš stáť'

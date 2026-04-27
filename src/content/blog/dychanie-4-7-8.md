@@ -6,7 +6,7 @@ category: Stres
 readingTime: 11
 videoId: JhUyvFqeIc8
 videoTitle: "Vedená meditácia: 2:4 dych"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["dýchanie 4-7-8", "technika 4-7-8", "dýchanie na upokojenie", "Andrew Weil dýchanie"]
 transformation: 'okamžitý pokoj cez dych'

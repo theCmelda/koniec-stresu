@@ -6,7 +6,7 @@ category: Mentálna výkonnosť
 readingTime: 12
 videoId: TdmFPQJANKM
 videoTitle: "Otázka pre lepší deň"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ranný rituál", "morning routine", "ranná rutina pre produktivitu", "ako začať deň"]
 transformation: ráno, ktoré nasmeruje celý deň

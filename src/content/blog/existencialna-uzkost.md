@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: 0SVZjfkj5ZE
 videoTitle: "Objav svoj skutočný dôvod"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["existenciálna úzkosť", "zmysel života úzkosť", "čo to celé znamená", "existencialná kríza"]
 transformation: ukotvenie v zmysle, aj keď otázky nezmiznú

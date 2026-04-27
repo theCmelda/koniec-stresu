@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: VoKR6HnQyxQ
 videoTitle: "90-sekundová ranná pauza"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["ranný stres", "ranná úzkosť", "ako začať deň pokojne", "ranný kortizol spike"]
 transformation: ráno, ktoré nezačína panikou, ale jasnosťou

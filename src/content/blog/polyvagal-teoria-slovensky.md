@@ -6,7 +6,7 @@ category: Stres
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["polyvagal teória", "polyvagal teória po slovensky", "ventrálny vagus", "blúdivý nerv stimulácia"]
 transformation: porozumenie tomu, prečo tvoje telo reaguje tak, ako reaguje

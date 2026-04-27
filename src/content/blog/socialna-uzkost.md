@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: syAw_f0Abic
 videoTitle: "NLP technika kotvy pokoja"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["sociálna úzkosť", "sociálna fóbia", "úzkosť pred ľuďmi", "trápenie pred prezentáciou"]
 transformation: pokoj v situáciách, kde ťa vidia iní

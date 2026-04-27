@@ -6,7 +6,7 @@ category: Úzkosť
 readingTime: 12
 videoId: _cRQoH4TFvY
 videoTitle: "Z mysle do srdca"
-videoPlacement: top
+videoPlacement: bottom
 featured: false
 keywords: ["z mysle do srdca", "heart coherence", "srdcová koherencia technika", "presun pozornosti zo srdca"]
 transformation: schopnosť vystúpiť z mysle, keď sa točí v kruhu
