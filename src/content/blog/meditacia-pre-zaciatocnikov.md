@@ -27,10 +27,6 @@ Chceš začať meditovať, ale v hlave ti beží otázka za otázkou. Či to rob
 
 Vo videu nižšie ti ukazujem odpovede na najčastejšie otázky začiatočníkov a vysvetľujem techniku naživo.
 
-<div class="video-wrap">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/JzgGB-jJhJc" title="10 najčastejších otázok o meditácii (odpovede)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Meditácia pre začiatočníkov: čo to vlastne je?
 
 Meditácia nie je snaha mať prázdnu hlavu. Toto je jedna z najväčších pascí, do ktorej začiatočníci padajú.

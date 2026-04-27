@@ -27,10 +27,6 @@ Poznáš ten moment, keď sa ti zovrie hrudník, myšlienky zrýchlia a telo sa 
 - presný **havening návod** na 3 minúty doma
 - kedy je táto **úzkosť technika** vhodná a kedy radšej vyhľadať odbornú pomoc
 
-<div class="video-wrap">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5Rph_cBZibk" title="Havening: 3 minúty na okamžité upokojenie (nahrávka)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Čo je havening metóda a prečo funguje cez dotyk
 
 **Havening metóda** vznikla v práci Dr. Ronalda Rudena a jeho brata Dr. Stevena Rudena. Slovo haven znamená bezpečné útočisko. Presne o to ide.

@@ -25,10 +25,6 @@ V tomto článku ti ukážem, **ako sa zbaviť stresu** pomocou jednoduchého 30
 - ako vyzerá praktický plán na **30 dní bez stresu**
 - ako si udržať pokoj aj po skončení plánu
 
-<div class="video-wrap">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Cqucxrnf-MI" title="3 kroky, ako dostať stres pod kontrolu za 30 dní" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Prečo chronický stres drží telo v pohotovosti
 
 Stres sám o sebe nie je nepriateľ. Krátkodobý stres ti pomáha reagovať, sústrediť sa a prežiť náročnú situáciu. Problém vzniká vtedy, keď telo nedostane signál, že nebezpečenstvo skončilo.
