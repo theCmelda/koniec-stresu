@@ -7,7 +7,7 @@ const COOKIE_MAX_AGE = 60 * 60 * 24 * 30; // 30 days
 
 const ALLOWED_PATH_PREFIXES = ['/_astro/', '/_image', '/_vercel/'];
 const ALLOWED_PATHS = new Set([
-  '/__unlock',
+  '/unlock',
   '/favicon.svg',
   '/robots.txt',
   '/sitemap-index.xml',
@@ -296,7 +296,7 @@ function comingSoonHTML(error: boolean): string {
       <h2>Máš <em>heslo?</em></h2>
       <p class="gate-desc">Stránka je zatiaľ v privátnom režime. Ak ti Daniel poslal heslo, zadaj ho nižšie.</p>
       ${error ? '<div class="error">Nesprávne heslo. Skús znova.</div>' : ''}
-      <form method="post" action="/__unlock">
+      <form method="post" action="/unlock">
         <label for="password">Heslo</label>
         <input id="password" type="password" name="password" placeholder="••••••••" autocomplete="off" autofocus required>
         <button type="submit">Vstúpiť</button>
