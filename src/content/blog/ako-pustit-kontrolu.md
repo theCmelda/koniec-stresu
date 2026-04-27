@@ -2,7 +2,7 @@
 title: Prečo potreba kontroly ničí tvoj pokoj (a ako ju pustiť)
 description: "ako pustiť kontrolu: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-09
-category: Mindset
+category: Mentálna výkonnosť
 readingTime: 11
 videoId: ios086FtRxU
 videoTitle: Prečo potreba kontroly ničí tvoj pokoj (a ako ju pustiť)
@@ -319,10 +319,10 @@ Večer si vytvor krátky rituál uzavretia dňa. Napíš si tri veci: čo som dn
 
 ## Pokračuj v čítaní
 
-- Chronický stres: príznaky, ktoré telo neklame (`/blog/chronicky-stres-priznaky`): pomôže ti rozpoznať, kedy už nejde len o náročné obdobie, ale o preťažený nervový systém.
-- Syndróm vyhorenia: príznaky, ktoré neignoruj (`/blog/syndrom-vyhorenia-priznaky`): prečítaj si, ak máš pocit, že funguješ len zo zvyku a vnútro už nevládze.
-- Ako odpustiť bez toho, aby si poprel bolesť (`/blog/ako-odpustit`): vhodné čítanie, ak potreba kontroly súvisí so starým zranením alebo krivdou.
-- Ako nájsť zmysel, keď sa ti život rozpadá (`/blog/ako-najst-zmysel`): pre chvíle, keď potrebuješ viac než techniku a hľadáš hlbšiu oporu.
+- [Chronický stres: príznaky, ktoré telo neklame](/blog/chronicky-stres-priznaky): pomôže ti rozpoznať, kedy už nejde len o náročné obdobie, ale o preťažený nervový systém.
+- [Syndróm vyhorenia: príznaky, ktoré neignoruj](/blog/syndrom-vyhorenia-priznaky): prečítaj si, ak máš pocit, že funguješ len zo zvyku a vnútro už nevládze.
+- [Ako odpustiť bez toho, aby si poprel bolesť](/blog/ako-odpustit): vhodné čítanie, ak potreba kontroly súvisí so starým zranením alebo krivdou.
+- [Ako nájsť zmysel, keď sa ti život rozpadá](/blog/ako-najst-zmysel): pre chvíle, keď potrebuješ viac než techniku a hľadáš hlbšiu oporu.
 
 ## Ako pokračovať od dnes
 

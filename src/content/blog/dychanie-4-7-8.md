@@ -2,7 +2,7 @@
 title: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
 description: "dýchanie 4-7-8: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-04
-category: Dych
+category: Stres
 readingTime: 11
 videoId: JhUyvFqeIc8
 videoTitle: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
@@ -279,10 +279,10 @@ Niekedy cítiš rozdiel po jednej minúte. Inokedy sa účinok ukáže až po ni
 
 ## Pokračuj v čítaní
 
-- Fyziologický vzdych (`/blog/fyziologicky-vzdych`): rýchla technika, ktorá využíva dvojitý nádych a dlhý výdych pri akútnom napätí
-- Ako rýchlo zaspať (`/blog/ako-rychlo-zaspat`): praktický návod, ako upokojiť telo večer, keď hlava nechce vypnúť
-- Panická ataka: čo robiť (`/blog/panicka-ataka-co-robit`): konkrétne kroky pre chvíle, keď sa úzkosť rozbehne naplno
-- Meditácia pre začiatočníkov (`/blog/meditacia-pre-zaciatocnikov`): jednoduchý vstup do meditácie bez tlaku na výkon a prázdnu hlavu
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych): rýchla technika, ktorá využíva dvojitý nádych a dlhý výdych pri akútnom napätí
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat): praktický návod, ako upokojiť telo večer, keď hlava nechce vypnúť
+- [Panická ataka: čo robiť](/blog/panicka-ataka-co-robit): konkrétne kroky pre chvíle, keď sa úzkosť rozbehne naplno
+- [Meditácia pre začiatočníkov](/blog/meditacia-pre-zaciatocnikov): jednoduchý vstup do meditácie bez tlaku na výkon a prázdnu hlavu
 
 ## Ako pokračovať od dnes
 

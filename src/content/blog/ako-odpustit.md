@@ -2,7 +2,7 @@
 title: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
 description: "ako odpustiť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-07
-category: Emócie
+category: Transformácia
 readingTime: 11
 videoId: PqCXY5OB4sg
 videoTitle: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
@@ -339,10 +339,10 @@ Nie podľa toho, že si na všetko zabudol. Skôr podľa toho, že spomienka už
 
 ## Pokračuj v čítaní
 
-- Ako spracovať bolestivú spomienku (`/blog/ako-spracovat-bolestivu-spomienku`): ak cítiš, že krivda je stále naviazaná na konkrétny obraz alebo situáciu.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): keď sa snažíš mať všetko pod kontrolou, aby sa stará bolesť už nikdy nezopakovala.
-- Denník vďačnosti: ako začať (`/blog/dennik-vdacnosti-ako-zacat`): jemná prax na preladenie pozornosti bez popierania ťažkých vecí.
-- Ako nájsť zmysel (`/blog/ako-najst-zmysel`): ak cítiš, že po zranení potrebuješ znovu poskladať smer svojho života.
+- [Ako spracovať bolestivú spomienku](/blog/ako-spracovat-bolestivu-spomienku): ak cítiš, že krivda je stále naviazaná na konkrétny obraz alebo situáciu.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): keď sa snažíš mať všetko pod kontrolou, aby sa stará bolesť už nikdy nezopakovala.
+- [Denník vďačnosti: ako začať](/blog/dennik-vdacnosti-ako-zacat): jemná prax na preladenie pozornosti bez popierania ťažkých vecí.
+- [Ako nájsť zmysel](/blog/ako-najst-zmysel): ak cítiš, že po zranení potrebuješ znovu poskladať smer svojho života.
 
 ## Ako pokračovať od dnes
 

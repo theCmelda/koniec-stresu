@@ -221,9 +221,9 @@ V strese potrebuješ verziu návyku pre aktivovaný sympatikus. To znamená krat
 
 ## Pokračuj v čítaní
 
-- **Denník vďačnosti: ako začať bez patosu** (`/blog/dennik-vdacnosti-ako-zacat`), dobré pokračovanie, ak chceš trénovať pozornosť na malé signály progresu a uzatvárať deň jednoduchou reflexiou.
-- **Ako zmeniť život za 90 dní** (`/blog/ako-zmenit-zivot-90-dni`), prečítaš si, ako rozmýšľať v krátkych transformačných cykloch namiesto nekonečných novoročných plánov.
-- **Metóda Vyhrávam** (`/blog/metoda-vyhravam`), praktický rámec na budovanie identity cez malé dôkazy, nie cez prázdne motivačné deklarácie.
+- [Denník vďačnosti: ako začať bez patosu](/blog/dennik-vdacnosti-ako-zacat), dobré pokračovanie, ak chceš trénovať pozornosť na malé signály progresu a uzatvárať deň jednoduchou reflexiou.
+- [Ako zmeniť život za 90 dní](/blog/ako-zmenit-zivot-90-dni), prečítaš si, ako rozmýšľať v krátkych transformačných cykloch namiesto nekonečných novoročných plánov.
+- [Metóda Vyhrávam](/blog/metoda-vyhravam), praktický rámec na budovanie identity cez malé dôkazy, nie cez prázdne motivačné deklarácie.
 
 ## Ako pokračovať od dnes
 

@@ -326,10 +326,10 @@ Závisí od situácie. Pri krátkodobej nespavosti po strese môže často pomô
 
 ## Pokračuj v čítaní
 
-- Ako rýchlo zaspať (`/blog/ako-rychlo-zaspat`): praktický návod, keď potrebuješ upokojiť telo a zaspať bez zbytočného tlaku.
-- Overthinking: ako prestať (`/blog/overthinking-ako-prestat`): prečítaj si, ako pracovať s hlavou, ktorá večer nechce vypnúť.
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`): krátka technika na momenty, keď sa telo rozbehne do úzkosti.
-- Dýchanie 4-7-8 (`/blog/dychanie-4-7-8`): jednoduché dychové cvičenie, ktoré môže podporiť parasympatikus a večerné uvoľnenie.
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat): praktický návod, keď potrebuješ upokojiť telo a zaspať bez zbytočného tlaku.
+- [Overthinking: ako prestať](/blog/overthinking-ako-prestat): prečítaj si, ako pracovať s hlavou, ktorá večer nechce vypnúť.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund): krátka technika na momenty, keď sa telo rozbehne do úzkosti.
+- [Dýchanie 4-7-8](/blog/dychanie-4-7-8): jednoduché dychové cvičenie, ktoré môže podporiť parasympatikus a večerné uvoľnenie.
 
 ## Ako pokračovať od dnes
 

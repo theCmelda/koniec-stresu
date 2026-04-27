@@ -207,9 +207,9 @@ Začni tým, čo vieš kontrolovať. Po zobudení dostaň do očí silné svetlo
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať, keď hlava nechce vypnúť** (`/blog/ako-rychlo-zaspat`), praktické techniky na večerné stíšenie nervovej sústavy bez tlačenia na výkon
-- **Spánková hygiena: priority, ktoré majú najväčší efekt** (`/blog/spankova-hygiena-priority`), ak chceš vedieť, čo riešiť ako prvé a čo je len detail
-- **Ranný stres bez kortizol spike** (`/blog/ranny-stres-bez-kortizol-spike`), dobré pokračovanie, ak sa budíš už v napätí a deň štartuje príliš agresívne
+- [Ako rýchlo zaspať, keď hlava nechce vypnúť](/blog/ako-rychlo-zaspat), praktické techniky na večerné stíšenie nervovej sústavy bez tlačenia na výkon
+- [Spánková hygiena: priority, ktoré majú najväčší efekt](/blog/spankova-hygiena-priority), ak chceš vedieť, čo riešiť ako prvé a čo je len detail
+- [Ranný stres bez kortizol spike](/blog/ranny-stres-bez-kortizol-spike), dobré pokračovanie, ak sa budíš už v napätí a deň štartuje príliš agresívne
 
 ## Ako pokračovať od dnes
 

@@ -192,9 +192,9 @@ Ak máš reálny problém, mozog ho nebude ignorovať len preto, že je večer. 
 
 ## Pokračuj v čítaní
 
-- **Telo unavené, hlava bdelá** (`/blog/telo-unavene-hlava-bdela`), dobré pokračovanie, ak večer cítiš fyzickú únavu, ale mentálne stále bežíš.
-- **Ako rýchlo zaspať** (`/blog/ako-rychlo-zaspat`), praktický rámec pre zaspávanie, keď potrebuješ jednoduchý večerný systém.
-- **Overthinking: ako prestať** (`/blog/overthinking-ako-prestat`), prečítaj si, ak sa večerné premýšľanie prelieva aj do dňa a chceš s ním pracovať hlbšie.
+- [Telo unavené, hlava bdelá](/blog/telo-unavene-hlava-bdela), dobré pokračovanie, ak večer cítiš fyzickú únavu, ale mentálne stále bežíš.
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat), praktický rámec pre zaspávanie, keď potrebuješ jednoduchý večerný systém.
+- [Overthinking: ako prestať](/blog/overthinking-ako-prestat), prečítaj si, ak sa večerné premýšľanie prelieva aj do dňa a chceš s ním pracovať hlbšie.
 
 ## Ako pokračovať od dnes
 

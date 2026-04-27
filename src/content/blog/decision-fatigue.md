@@ -209,9 +209,9 @@ Zaveď pravidlá tam, kde sa opakujú rovnaké situácie. Blokuj podobné úlohy
 
 ## Pokračuj v čítaní
 
-- **Prečo som stále unavený** (`/blog/preco-som-stale-unaveny`), ak chceš lepšie rozumieť rozdielu medzi bežnou únavou, stresom a dlhodobým vyčerpaním
-- **Ranný rituál pre mentálnu jasnosť** (`/blog/ranny-rital-mentalna-jasnost`), praktický rámec, ako znížiť počet ranných rozhodnutí a začať deň s čistejšou hlavou
-- **Prečo nie si lenivá, ale vyhorená** (`/blog/preco-nie-si-leniva-ale-vyhorena`), dobré pokračovanie, ak sa únava z rozhodovania spája s dlhodobým tlakom a stratou kapacity
+- [Prečo som stále unavený](/blog/preco-som-stale-unaveny), ak chceš lepšie rozumieť rozdielu medzi bežnou únavou, stresom a dlhodobým vyčerpaním
+- [Ranný rituál pre mentálnu jasnosť](/blog/ranny-rital-mentalna-jasnost), praktický rámec, ako znížiť počet ranných rozhodnutí a začať deň s čistejšou hlavou
+- [Prečo nie si lenivá, ale vyhorená](/blog/preco-nie-si-leniva-ale-vyhorena), dobré pokračovanie, ak sa únava z rozhodovania spája s dlhodobým tlakom a stratou kapacity
 
 ## Ako pokračovať od dnes
 

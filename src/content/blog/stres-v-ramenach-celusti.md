@@ -174,9 +174,9 @@ Záleží od intenzity stresu, spánku, práce a toho, ako pravidelne trénuješ
 
 ## Pokračuj v čítaní
 
-- **Fyziologický vzdych: najrýchlejší dychový reset pri strese** (`/blog/fyziologicky-vzdych`), praktický nástroj, keď potrebuješ rýchlo znížiť aktiváciu a vrátiť telu pocit kontroly
-- **Kortizol: ako ho znížiť bez toho, aby si spomalil život na nulu** (`/blog/kortizol-ako-znizit`), hlbší pohľad na stresové hormóny, regeneráciu a výkon bez chronického preťaženia
-- **Ako pustiť kontrolu, keď ti hlava stále beží** (`/blog/ako-pustit-kontrolu`), dobré pokračovanie, ak cítiš, že napätie v tele súvisí s potrebou držať všetko pevne v rukách
+- [Fyziologický vzdych: najrýchlejší dychový reset pri strese](/blog/fyziologicky-vzdych), praktický nástroj, keď potrebuješ rýchlo znížiť aktiváciu a vrátiť telu pocit kontroly
+- [Kortizol: ako ho znížiť bez toho, aby si spomalil život na nulu](/blog/kortizol-ako-znizit), hlbší pohľad na stresové hormóny, regeneráciu a výkon bez chronického preťaženia
+- [Ako pustiť kontrolu, keď ti hlava stále beží](/blog/ako-pustit-kontrolu), dobré pokračovanie, ak cítiš, že napätie v tele súvisí s potrebou držať všetko pevne v rukách
 
 ## Ako pokračovať od dnes
 

@@ -190,9 +190,9 @@ Nehľadaj ideálne ráno. Hľadaj minimálnu verziu, ktorá prežije realitu. 90
 
 ## Pokračuj v čítaní
 
-- **Kortizol: ako ho znížiť bez extrémov** (`/blog/kortizol-ako-znizit`), ak chceš pochopiť, kedy ti kortizol pomáha a kedy ti berie kapacitu
-- **Ranný rituál pre mentálnu jasnosť** (`/blog/ranny-rital-mentalna-jasnost`), praktický rámec na prvých 20 minút dňa bez zbytočného prekomplikovania
-- **Prečo som stále unavený** (`/blog/preco-som-stale-unaveny`), ak sa budíš vyčerpaný, aj keď spíš dosť hodín
+- [Kortizol: ako ho znížiť bez extrémov](/blog/kortizol-ako-znizit), ak chceš pochopiť, kedy ti kortizol pomáha a kedy ti berie kapacitu
+- [Ranný rituál pre mentálnu jasnosť](/blog/ranny-rital-mentalna-jasnost), praktický rámec na prvých 20 minút dňa bez zbytočného prekomplikovania
+- [Prečo som stále unavený](/blog/preco-som-stale-unaveny), ak sa budíš vyčerpaný, aj keď spíš dosť hodín
 
 ## Ako pokračovať od dnes
 

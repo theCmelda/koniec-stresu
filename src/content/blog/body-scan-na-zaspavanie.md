@@ -170,9 +170,9 @@ Najväčší efekt príde z konzistencie. Skús 7 až 14 večerov za sebou, bez 
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať, keď hlava nechce vypnúť** (`/blog/ako-rychlo-zaspat`), praktický rámec pre večery, keď potrebuješ znížiť aktiváciu bez boja so sebou
-- **Hypnóza na spánok: kedy pomáha a čo od nej čakať** (`/blog/hypnoza-na-spanok`), dobré pokračovanie, ak ti vyhovuje vedený hlas a chceš hlbší ponor do relaxácie
-- **Telo unavené, hlava bdelá: prečo sa to deje** (`/blog/telo-unavene-hlava-bdela`), vysvetlenie rozdielu medzi fyzickou únavou a nervovou reguláciou
+- [Ako rýchlo zaspať, keď hlava nechce vypnúť](/blog/ako-rychlo-zaspat), praktický rámec pre večery, keď potrebuješ znížiť aktiváciu bez boja so sebou
+- [Hypnóza na spánok: kedy pomáha a čo od nej čakať](/blog/hypnoza-na-spanok), dobré pokračovanie, ak ti vyhovuje vedený hlas a chceš hlbší ponor do relaxácie
+- [Telo unavené, hlava bdelá: prečo sa to deje](/blog/telo-unavene-hlava-bdela), vysvetlenie rozdielu medzi fyzickou únavou a nervovou reguláciou
 
 ## Ako pokračovať od dnes
 

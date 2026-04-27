@@ -214,9 +214,9 @@ Meditácia nie je únik od práce. Správne použitá je tréning regulácie poz
 
 ## Pokračuj v čítaní
 
-- **Deep work po slovensky** (`/blog/deep-work-slovensky`), prečítaj si, ako nastaviť hlbokú prácu ako systém, nie ako náhodný stav sústredenia
-- **Phone detox: ako prestať kŕmiť rozbitú pozornosť** (`/blog/phone-detox`), dobrý ďalší krok, ak ti mobil rozbíja pracovné bloky aj regeneráciu
-- **Decision fatigue: keď ťa unavia rozhodnutia skôr než práca** (`/blog/decision-fatigue-mental`), pomôže ti pochopiť, prečo menej rozhodnutí často znamená viac výkonu
+- [Deep work po slovensky](/blog/deep-work-slovensky), prečítaj si, ako nastaviť hlbokú prácu ako systém, nie ako náhodný stav sústredenia
+- [Phone detox: ako prestať kŕmiť rozbitú pozornosť](/blog/phone-detox), dobrý ďalší krok, ak ti mobil rozbíja pracovné bloky aj regeneráciu
+- [Decision fatigue: keď ťa unavia rozhodnutia skôr než práca](/blog/decision-fatigue-mental), pomôže ti pochopiť, prečo menej rozhodnutí často znamená viac výkonu
 
 ## Ako pokračovať od dnes
 

@@ -195,9 +195,9 @@ Sprav to diskrétne. Pred vstupom do miestnosti použi 3 fyziologické vzdychy, 
 
 ## Pokračuj v čítaní
 
-- **Fyziologický vzdych: najrýchlejšie dychové cvičenie na stres** (`/blog/fyziologicky-vzdych`), ak chceš ísť hlbšie do techniky, ktorá dokáže znížiť aktiváciu tela za desiatky sekúnd.
-- **Panická ataka: čo robiť, keď telo spustí poplach** (`/blog/panicka-ataka-co-robit`), praktický rámec pre situácie, keď stres prerastie do silnej panickej reakcie.
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), dobré pokračovanie, ak ťa viac trápia mentálne slučky, katastrofické scenáre a opakované premýšľanie.
+- [Fyziologický vzdych: najrýchlejšie dychové cvičenie na stres](/blog/fyziologicky-vzdych), ak chceš ísť hlbšie do techniky, ktorá dokáže znížiť aktiváciu tela za desiatky sekúnd.
+- [Panická ataka: čo robiť, keď telo spustí poplach](/blog/panicka-ataka-co-robit), praktický rámec pre situácie, keď stres prerastie do silnej panickej reakcie.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), dobré pokračovanie, ak ťa viac trápia mentálne slučky, katastrofické scenáre a opakované premýšľanie.
 
 ## Ako pokračovať od dnes
 

@@ -308,10 +308,10 @@ Ak sa ataky opakujú, začínaš sa vyhýbať miestam alebo žiješ v neustálom
 
 ## Pokračuj v čítaní
 
-- Úzkosť príznaky (`/blog/uzkost-priznaky`), pomôže ti rozlíšiť, čo je úzkosť, čo panika a čo už riešiť s odborníkom.
-- Havening metóda (`/blog/havening-metoda`), hlbší návod na dotyk, ktorý vieš použiť pri panike, strese aj zahltení.
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`), krátka technika na chvíle, keď sa hlava rozbehne do katastrof.
-- Fyziologický vzdych (`/blog/fyziologicky-vzdych`), jednoduché dychové cvičenie, ktoré rýchlo znižuje aktiváciu tela.
+- [Úzkosť príznaky](/blog/uzkost-priznaky), pomôže ti rozlíšiť, čo je úzkosť, čo panika a čo už riešiť s odborníkom.
+- [Havening metóda](/blog/havening-metoda), hlbší návod na dotyk, ktorý vieš použiť pri panike, strese aj zahltení.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), krátka technika na chvíle, keď sa hlava rozbehne do katastrof.
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych), jednoduché dychové cvičenie, ktoré rýchlo znižuje aktiváciu tela.
 
 ## Ako pokračovať od dnes
 

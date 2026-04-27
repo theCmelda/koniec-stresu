@@ -224,9 +224,9 @@ Stačí raz za pár mesiacov alebo pri veľkých zmenách. Napríklad keď mení
 
 ## Pokračuj v čítaní
 
-- **Ako nájsť zmysel** (`/blog/ako-najst-zmysel`), ak chceš ísť hlbšie do otázky smerovania, hodnôt a osobného významu
-- **Vzorec úspechu** (`/blog/vzorec-uspechu`), prepojí ti dôvod, systém, opakovanie a výsledky bez lacnej motivácie
-- **Ako vyriešiť dilemu** (`/blog/ako-vyriesit-dilemu`), praktický rámec na rozhodnutia, keď máš viac možností a nevieš, ktorú vybrať
+- [Ako nájsť zmysel](/blog/ako-najst-zmysel), ak chceš ísť hlbšie do otázky smerovania, hodnôt a osobného významu
+- [Vzorec úspechu](/blog/vzorec-uspechu), prepojí ti dôvod, systém, opakovanie a výsledky bez lacnej motivácie
+- [Ako vyriešiť dilemu](/blog/ako-vyriesit-dilemu), praktický rámec na rozhodnutia, keď máš viac možností a nevieš, ktorú vybrať
 
 ## Ako pokračovať od dnes
 

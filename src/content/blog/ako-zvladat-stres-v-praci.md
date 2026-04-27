@@ -255,10 +255,10 @@ Prvé zmeny si môžeš všimnúť už po pár dňoch, najmä ak ho robíš prav
 
 ## Pokračuj v čítaní
 
-- Chronický stres: príznaky, ktoré telo nehovorí potichu (`/blog/chronicky-stres-priznaky`): Pomôže ti rozoznať, kedy už stres nie je len náročné obdobie.
-- Syndróm vyhorenia: príznaky, ktoré netreba prehliadať (`/blog/syndrom-vyhorenia-priznaky`): Prečítaj si, kde je hranica medzi únavou a vyhorením.
-- Ako pustiť kontrolu bez toho, aby si sa cítil bezmocne (`/blog/ako-pustit-kontrolu`): Vhodné, ak sa snažíš zvládať stres tým, že všetko držíš v rukách.
-- Ako sa zbaviť stresu za 30 dní (`/blog/ako-sa-zbavit-stresu-za-30-dni`): Praktický plán, ak chceš postupovať krok za krokom.
+- [Chronický stres: príznaky, ktoré telo nehovorí potichu](/blog/chronicky-stres-priznaky): Pomôže ti rozoznať, kedy už stres nie je len náročné obdobie.
+- [Syndróm vyhorenia: príznaky, ktoré netreba prehliadať](/blog/syndrom-vyhorenia-priznaky): Prečítaj si, kde je hranica medzi únavou a vyhorením.
+- [Ako pustiť kontrolu bez toho, aby si sa cítil bezmocne](/blog/ako-pustit-kontrolu): Vhodné, ak sa snažíš zvládať stres tým, že všetko držíš v rukách.
+- [Ako sa zbaviť stresu za 30 dní](/blog/ako-sa-zbavit-stresu-za-30-dni): Praktický plán, ak chceš postupovať krok za krokom.
 
 ## Ako pokračovať od dnes
 

@@ -309,10 +309,10 @@ Začni malými priestormi, nie dokonalým voľnom. Päť minút ticha v aute. Kr
 
 ## Pokračuj v čítaní
 
-- Ako zvládať stres v práci (`/blog/ako-zvladat-stres-v-praci`): praktické kroky, ako znížiť tlak počas pracovného dňa bez veľkých zmien.
-- Chronický stres príznaky (`/blog/chronicky-stres-priznaky`): pomôže ti rozlíšiť bežný stres od dlhodobého preťaženia nervového systému.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): článok pre chvíle, keď máš pocit, že musíš držať všetko pokope.
-- Ako sa zbaviť stresu za 30 dní (`/blog/ako-sa-zbavit-stresu-za-30-dni`): jednoduchý plán, ako začať s reguláciou tela krok za krokom.
+- [Ako zvládať stres v práci](/blog/ako-zvladat-stres-v-praci): praktické kroky, ako znížiť tlak počas pracovného dňa bez veľkých zmien.
+- [Chronický stres príznaky](/blog/chronicky-stres-priznaky): pomôže ti rozlíšiť bežný stres od dlhodobého preťaženia nervového systému.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): článok pre chvíle, keď máš pocit, že musíš držať všetko pokope.
+- [Ako sa zbaviť stresu za 30 dní](/blog/ako-sa-zbavit-stresu-za-30-dni): jednoduchý plán, ako začať s reguláciou tela krok za krokom.
 
 ## Ako pokračovať od dnes
 

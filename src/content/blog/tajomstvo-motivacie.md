@@ -175,9 +175,9 @@ Pretože aj vnútorná motivácia potrebuje formu. Ak máš silný dôvod, ale �
 
 ## Pokračuj v čítaní
 
-- **Objav skutočný dôvod** (`/blog/objav-skutocny-dovod`) - Ak chceš ísť hlbšie do otázky, prečo niektoré ciele nemajú silu a iné ťa ťahajú aj cez odpor.
-- **Ako nájsť zmysel** (`/blog/ako-najst-zmysel`) - Prečítaj si, ako prepojiť smer, hodnoty a každodenné rozhodnutia bez abstraktných fráz.
-- **Vzorec úspechu** (`/blog/vzorec-uspechu`) - Praktický rámec na to, ako skladať výkon, konzistenciu a systém do reálnych výsledkov.
+- [Objav skutočný dôvod](/blog/objav-skutocny-dovod) - Ak chceš ísť hlbšie do otázky, prečo niektoré ciele nemajú silu a iné ťa ťahajú aj cez odpor.
+- [Ako nájsť zmysel](/blog/ako-najst-zmysel) - Prečítaj si, ako prepojiť smer, hodnoty a každodenné rozhodnutia bez abstraktných fráz.
+- [Vzorec úspechu](/blog/vzorec-uspechu) - Praktický rámec na to, ako skladať výkon, konzistenciu a systém do reálnych výsledkov.
 
 ## Ako pokračovať od dnes
 

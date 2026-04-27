@@ -174,9 +174,9 @@ Skús sedemdňový test. Sleduj, či sa budíš hlavne pri pohybe partnera, pri 
 
 ## Pokračuj v čítaní
 
-- **Čo pomáha pri nespavosti** (`/blog/nespavost-co-pomaha`), ak už nejde len o partnera, ale o širší problém so zaspávaním a nočným budením
-- **Ako rýchlo zaspať** (`/blog/ako-rychlo-zaspat`), praktický rámec na večerné prepnutie tela do režimu spánku
-- **Spánková hygiena: priority, ktoré dávajú najväčší efekt** (`/blog/spankova-hygiena-priority`), keď chceš upratať základy skôr, než začneš riešiť doplnky a biohacking
+- [Čo pomáha pri nespavosti](/blog/nespavost-co-pomaha), ak už nejde len o partnera, ale o širší problém so zaspávaním a nočným budením
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat), praktický rámec na večerné prepnutie tela do režimu spánku
+- [Spánková hygiena: priority, ktoré dávajú najväčší efekt](/blog/spankova-hygiena-priority), keď chceš upratať základy skôr, než začneš riešiť doplnky a biohacking
 
 ## Ako pokračovať od dnes
 

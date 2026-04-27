@@ -240,9 +240,9 @@ Záleží od komplexnosti správania a od toho, koľko trenia máš v prostredí
 
 ## Pokračuj v čítaní
 
-- **4 typy prokrastinácie a ako s nimi pracovať** (`/blog/prokrastinacia-4-typy`), pomôže ti rozlíšiť, či odkladáš kvôli strachu, nejasnosti, preťaženiu alebo nízkej energii.
-- **Objav skutočný dôvod, prečo sa nevieš pohnúť** (`/blog/objav-skutocny-dovod`), dobré pokračovanie, ak cítiš, že problém nie je len v disciplíne, ale v hlbšom vzorci správania.
-- **Vzorec úspechu, ktorý prežije aj slabé dni** (`/blog/vzorec-uspechu`), rozširuje tému systému, konzistencie a malých krokov, ktoré sa časom skladajú do výsledku.
+- [4 typy prokrastinácie a ako s nimi pracovať](/blog/prokrastinacia-4-typy), pomôže ti rozlíšiť, či odkladáš kvôli strachu, nejasnosti, preťaženiu alebo nízkej energii.
+- [Objav skutočný dôvod, prečo sa nevieš pohnúť](/blog/objav-skutocny-dovod), dobré pokračovanie, ak cítiš, že problém nie je len v disciplíne, ale v hlbšom vzorci správania.
+- [Vzorec úspechu, ktorý prežije aj slabé dni](/blog/vzorec-uspechu), rozširuje tému systému, konzistencie a malých krokov, ktoré sa časom skladajú do výsledku.
 
 ## Ako pokračovať od dnes
 

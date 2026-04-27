@@ -180,9 +180,9 @@ Pri deťoch potrebuješ flexibilný systém, nie dokonalý režim. Drž najmä r
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať bez toho, aby si bojoval so svojou hlavou** (`/blog/ako-rychlo-zaspat`), praktický rámec na zaspávanie, keď je telo unavené, ale mozog stále beží
-- **Nespavosť: čo pomáha, keď bežné rady nestačia** (`/blog/nespavost-co-pomaha`), hlbší pohľad na nespavosť, stres a reguláciu nervovej sústavy
-- **Cirkadiánny rytmus: ako si nastaviť biologické hodiny** (`/blog/cirkadianny-rytmus`), prečítaj si, ako ranné svetlo, čas vstávania a večerné signály ovplyvňujú spánok
+- [Ako rýchlo zaspať bez toho, aby si bojoval so svojou hlavou](/blog/ako-rychlo-zaspat), praktický rámec na zaspávanie, keď je telo unavené, ale mozog stále beží
+- [Nespavosť: čo pomáha, keď bežné rady nestačia](/blog/nespavost-co-pomaha), hlbší pohľad na nespavosť, stres a reguláciu nervovej sústavy
+- [Cirkadiánny rytmus: ako si nastaviť biologické hodiny](/blog/cirkadianny-rytmus), prečítaj si, ako ranné svetlo, čas vstávania a večerné signály ovplyvňujú spánok
 
 ## Ako pokračovať od dnes
 

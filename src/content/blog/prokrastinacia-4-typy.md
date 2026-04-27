@@ -231,9 +231,9 @@ Dlhodobo nevyhrávaš silnejšou vôľou, ale lepším systémom. Potrebuješ pr
 
 ## Pokračuj v čítaní
 
-- **Ako prestať overthinkovať a začať konať** (`/blog/overthinking-ako-prestat`), ak tvoja prokrastinácia vzniká z preanalyzovania, tento článok ti pomôže dostať myseľ z kruhu späť do akcie
-- **Deep work po slovensky: ako si chrániť sústredenie** (`/blog/deep-work-slovensky`), praktický rámec pre pracovné bloky, prostredie a sústredenie bez neustáleho prepínania
-- **Ako sa motivovať bez motivácie** (`/blog/ako-sa-motivovat-bez-motivacie`), ak čakáš na správny pocit, tu nájdeš systém, ktorý funguje aj bez neho
+- [Ako prestať overthinkovať a začať konať](/blog/overthinking-ako-prestat), ak tvoja prokrastinácia vzniká z preanalyzovania, tento článok ti pomôže dostať myseľ z kruhu späť do akcie
+- [Deep work po slovensky: ako si chrániť sústredenie](/blog/deep-work-slovensky), praktický rámec pre pracovné bloky, prostredie a sústredenie bez neustáleho prepínania
+- [Ako sa motivovať bez motivácie](/blog/ako-sa-motivovat-bez-motivacie), ak čakáš na správny pocit, tu nájdeš systém, ktorý funguje aj bez neho
 
 ## Ako pokračovať od dnes
 

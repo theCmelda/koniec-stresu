@@ -203,11 +203,11 @@ Najprv odpor neber ako nepriateľa. Často je to signál, že zmena je pre nervo
 
 ## Pokračuj v čítaní
 
-- **Ako si udržať zmenu po 30 dňoch** (`/blog/po-30-dnoch-udrzanie`) - Prečítaj si, ako pokračovať po prvom mesiaci, keď opadne novota a rozhoduje systém.
+- [Ako si udržať zmenu po 30 dňoch](/blog/po-30-dnoch-udrzanie) - Prečítaj si, ako pokračovať po prvom mesiaci, keď opadne novota a rozhoduje systém.
 
-- **Ako vytvoriť návyk, ktorý vydrží** (`/blog/ako-vytvorit-navyk`) - Praktický rámec na stavanie malých opakovaní, ktoré sa časom stanú súčasťou identity.
+- [Ako vytvoriť návyk, ktorý vydrží](/blog/ako-vytvorit-navyk) - Praktický rámec na stavanie malých opakovaní, ktoré sa časom stanú súčasťou identity.
 
-- **Ako zmeniť život za 90 dní** (`/blog/ako-zmenit-zivot-90-dni`) - Dobré pokračovanie, ak chceš z 30-dňovej praxe spraviť dlhší transformačný cyklus.
+- [Ako zmeniť život za 90 dní](/blog/ako-zmenit-zivot-90-dni) - Dobré pokračovanie, ak chceš z 30-dňovej praxe spraviť dlhší transformačný cyklus.
 
 ## Ako pokračovať od dnes
 

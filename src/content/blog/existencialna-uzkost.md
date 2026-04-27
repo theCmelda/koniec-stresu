@@ -257,9 +257,9 @@ Začni cez správanie, nie cez pocit. Pozri sa na momenty, kde si v minulosti c�
 
 ## Pokračuj v čítaní
 
-- **Ako nájsť zmysel, keď máš pocit, že len funguješ** (`/blog/ako-najst-zmysel`), pomôže ti rozlíšiť medzi cieľmi, očakávaniami okolia a skutočným smerom, ktorý má pre teba váhu
-- **Objav skutočný dôvod, prečo robíš to, čo robíš** (`/blog/objav-skutocny-dovod`), ide hlbšie do práce s osobným WHY a ukazuje, ako ho preložiť do rozhodnutí
-- **Úzkosť: príznaky, ktoré telo používa ako signál** (`/blog/uzkost-priznaky`), užitočné, ak chceš lepšie pochopiť, čo sa deje v tele, keď sa úzkosť prejaví fyzicky
+- [Ako nájsť zmysel, keď máš pocit, že len funguješ](/blog/ako-najst-zmysel), pomôže ti rozlíšiť medzi cieľmi, očakávaniami okolia a skutočným smerom, ktorý má pre teba váhu
+- [Objav skutočný dôvod, prečo robíš to, čo robíš](/blog/objav-skutocny-dovod), ide hlbšie do práce s osobným WHY a ukazuje, ako ho preložiť do rozhodnutí
+- [Úzkosť: príznaky, ktoré telo používa ako signál](/blog/uzkost-priznaky), užitočné, ak chceš lepšie pochopiť, čo sa deje v tele, keď sa úzkosť prejaví fyzicky
 
 ## Ako pokračovať od dnes
 

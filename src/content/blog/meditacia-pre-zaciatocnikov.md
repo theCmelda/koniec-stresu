@@ -2,7 +2,7 @@
 title: "Meditácia pre začiatočníkov: 10 najčastejších otázok (a úprimné odpovede)"
 description: Meditácia pre začiatočníkov bez tlaku. Zisti, ako začať meditovať doma, ako dlho meditovať a čomu sa vyhnúť.
 publishDate: 2026-04-25
-category: Meditácia
+category: Transformácia
 readingTime: 9
 videoId: JzgGB-jJhJc
 videoTitle: 10 najčastejších otázok o meditácii (odpovede)

@@ -215,11 +215,11 @@ Toto sú najťažšie rozhodnutia, lebo nejde len o teba. Začni tým, že oddel
 
 ## Pokračuj v čítaní
 
-- **Objav skutočný dôvodsvojich rozhodnutí** (`/blog/objav-skutocny-dovod`) - pomôže ti ísť pod povrch prvej odpovede a nájsť motiváciu, ktorá rozhodnutie reálne unesie
+- [Objav skutočný dôvodsvojich rozhodnutí](/blog/objav-skutocny-dovod) - pomôže ti ísť pod povrch prvej odpovede a nájsť motiváciu, ktorá rozhodnutie reálne unesie
 
-- **Ako nájsť zmysel, keď máš veľa možností** (`/blog/ako-najst-zmysel`) - dobré pokračovanie, ak cítiš, že problém nie je len voľba, ale strata smeru
+- [Ako nájsť zmysel, keď máš veľa možností](/blog/ako-najst-zmysel) - dobré pokračovanie, ak cítiš, že problém nie je len voľba, ale strata smeru
 
-- **Decision fatigue: prečo ťa rozhodovanie mentálne vyčerpáva** (`/blog/decision-fatigue-mental`) - prečítaj si, ak máš pocit, že nerozhodnosť nie je jednorazová, ale opakovaný vzorec
+- [Decision fatigue: prečo ťa rozhodovanie mentálne vyčerpáva](/blog/decision-fatigue-mental) - prečítaj si, ak máš pocit, že nerozhodnosť nie je jednorazová, ale opakovaný vzorec
 
 ## Ako pokračovať od dnes
 

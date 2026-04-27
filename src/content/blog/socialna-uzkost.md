@@ -208,9 +208,9 @@ Lebo nervová sústava nie je projekt, ktorý raz dokončíš a odovzdáš. Stre
 
 ## Pokračuj v čítaní
 
-- **NLP kotva pokoja: ako si vytvoriť rýchly vstup do regulácie** (`/blog/nlp-kotva-pokoja`), praktický návod, ak chceš ísť hlbšie do samotnej techniky kotvenia.
-- **Úzkosť príznaky: čo sa deje v tele, keď spustí alarm** (`/blog/uzkost-priznaky`), pomôže ti lepšie čítať signály nervovej sústavy a prestať si ich vysvetľovať ako zlyhanie.
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), krátky protokol, ktorý vieš použiť, keď sa hlava rozbehne do scenárov pred eventom alebo prezentáciou.
+- [NLP kotva pokoja: ako si vytvoriť rýchly vstup do regulácie](/blog/nlp-kotva-pokoja), praktický návod, ak chceš ísť hlbšie do samotnej techniky kotvenia.
+- [Úzkosť príznaky: čo sa deje v tele, keď spustí alarm](/blog/uzkost-priznaky), pomôže ti lepšie čítať signály nervovej sústavy a prestať si ich vysvetľovať ako zlyhanie.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), krátky protokol, ktorý vieš použiť, keď sa hlava rozbehne do scenárov pred eventom alebo prezentáciou.
 
 ## Ako pokračovať od dnes
 

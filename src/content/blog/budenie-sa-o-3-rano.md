@@ -188,9 +188,9 @@ Ak sa budíš s bolesťou, výrazným búšením srdca, dýchavicou, refluxom, n
 
 ## Pokračuj v čítaní
 
-- **Nespavosť: čo pomáha, keď spánok nejde prirodzene** (`/blog/nespavost-co-pomaha`), dobrý ďalší krok, ak sa nočné prebúdzanie mení na dlhodobejší problém so spánkom
-- **Ako rýchlo zaspať bez tlaku na výkon** (`/blog/ako-rychlo-zaspat`), praktický rámec pre večery, keď hlava beží a telo nevie prepnúť
-- **Kortizol: ako ho znížiť a nežiť stále v pohotovosti** (`/blog/kortizol-ako-znizit`), prečítaj si, ak cítiš, že za nočným budením je stres, tlak a preťažený systém
+- [Nespavosť: čo pomáha, keď spánok nejde prirodzene](/blog/nespavost-co-pomaha), dobrý ďalší krok, ak sa nočné prebúdzanie mení na dlhodobejší problém so spánkom
+- [Ako rýchlo zaspať bez tlaku na výkon](/blog/ako-rychlo-zaspat), praktický rámec pre večery, keď hlava beží a telo nevie prepnúť
+- [Kortizol: ako ho znížiť a nežiť stále v pohotovosti](/blog/kortizol-ako-znizit), prečítaj si, ak cítiš, že za nočným budením je stres, tlak a preťažený systém
 
 ## Ako pokračovať od dnes
 

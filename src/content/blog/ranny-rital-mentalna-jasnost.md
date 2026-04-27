@@ -211,9 +211,9 @@ Produktivita bez stresu nezačína väčším tlakom, ale lepšou reguláciou. N
 
 ## Pokračuj v čítaní
 
-- **Ako zvládnuť ranný stres bez kortizolového spikeu** (`/blog/ranny-stres-bez-kortizol-spike`), prečítaj si, ako pracovať s ranným napätím bez toho, aby si deň začínal v preťažení
-- **Deep work po slovensky: ako chrániť fokus v reálnom živote** (`/blog/deep-work-slovensky`), praktický rámec pre prvý blok tvorivej práce bez zbytočného prepínania
-- **Ranný journal: 3 otázky, ktoré nastavia deň** (`/blog/ranny-journal-3-otazky`), ak chceš rozšíriť jednu rannú otázku na jednoduchý zápisník bez komplikovania
+- [Ako zvládnuť ranný stres bez kortizolového spikeu](/blog/ranny-stres-bez-kortizol-spike), prečítaj si, ako pracovať s ranným napätím bez toho, aby si deň začínal v preťažení
+- [Deep work po slovensky: ako chrániť fokus v reálnom živote](/blog/deep-work-slovensky), praktický rámec pre prvý blok tvorivej práce bez zbytočného prepínania
+- [Ranný journal: 3 otázky, ktoré nastavia deň](/blog/ranny-journal-3-otazky), ak chceš rozšíriť jednu rannú otázku na jednoduchý zápisník bez komplikovania
 
 ## Ako pokračovať od dnes
 

@@ -168,9 +168,9 @@ Začni svetlom ráno, pohybom cez deň, nižším kofeínom poobede a pokojnejš
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať, keď hlava nechce vypnúť** (`/blog/ako-rychlo-zaspat`), praktický rámec pre večery, keď telo leží v posteli, ale nervová sústava stále beží
-- **Spánková hygiena: priority, ktoré majú najväčší dopad** (`/blog/spankova-hygiena-priority`), ak chceš prestať riešiť 20 detailov a sústrediť sa na páky, ktoré reálne menia kvalitu spánku
-- **Cirkadiánny rytmus: ako si nastaviť telo na lepší spánok a energiu** (`/blog/cirkadianny-rytmus`), vysvetlenie, prečo svetlo, čas jedla a pravidelnosť menia to, ako ľahko zaspávaš a vstávaš
+- [Ako rýchlo zaspať, keď hlava nechce vypnúť](/blog/ako-rychlo-zaspat), praktický rámec pre večery, keď telo leží v posteli, ale nervová sústava stále beží
+- [Spánková hygiena: priority, ktoré majú najväčší dopad](/blog/spankova-hygiena-priority), ak chceš prestať riešiť 20 detailov a sústrediť sa na páky, ktoré reálne menia kvalitu spánku
+- [Cirkadiánny rytmus: ako si nastaviť telo na lepší spánok a energiu](/blog/cirkadianny-rytmus), vysvetlenie, prečo svetlo, čas jedla a pravidelnosť menia to, ako ľahko zaspávaš a vstávaš
 
 ## Ako pokračovať od dnes
 

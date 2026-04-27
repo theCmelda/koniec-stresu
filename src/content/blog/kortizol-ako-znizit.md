@@ -196,9 +196,9 @@ Ak máš dlhodobú nespavosť, panické stavy, výrazné výkyvy nálady, búše
 
 ## Pokračuj v čítaní
 
-- **Chronický stres: príznaky, ktoré telo prestáva zvládať** (`/blog/chronicky-stres-priznaky`), prečítaj si, ako rozpoznať rozdiel medzi krátkodobým tlakom a stresom, ktorý už mení tvoje fungovanie.
-- **Syndróm vyhorenia: príznaky, ktoré netreba pretláčať** (`/blog/syndrom-vyhorenia-priznaky`), dobré pokračovanie, ak cítiš, že únava už nie je len z náročného týždňa.
-- **Prečo som stále unavený, aj keď spím dosť** (`/blog/preco-som-stale-unaveny`), pozri sa na únavu cez nervovú sústavu, regeneráciu a skryté energetické úniky.
+- [Chronický stres: príznaky, ktoré telo prestáva zvládať](/blog/chronicky-stres-priznaky), prečítaj si, ako rozpoznať rozdiel medzi krátkodobým tlakom a stresom, ktorý už mení tvoje fungovanie.
+- [Syndróm vyhorenia: príznaky, ktoré netreba pretláčať](/blog/syndrom-vyhorenia-priznaky), dobré pokračovanie, ak cítiš, že únava už nie je len z náročného týždňa.
+- [Prečo som stále unavený, aj keď spím dosť](/blog/preco-som-stale-unaveny), pozri sa na únavu cez nervovú sústavu, regeneráciu a skryté energetické úniky.
 
 ## Ako pokračovať od dnes
 

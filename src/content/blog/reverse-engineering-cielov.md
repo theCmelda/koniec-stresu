@@ -228,9 +228,9 @@ Použi 90-dňový horizont a nastav si cieľ, ktorý je ambiciózny, ale má jas
 
 ## Pokračuj v čítaní
 
-- **Objav skutočný dôvod, prečo sa nehýbeš dopredu** (`/blog/objav-skutocny-dovod`), pomôže ti odlíšiť povrchový problém od skutočného bottlenecku v správaní a rozhodovaní
-- **Ako nájsť zmysel, keď máš výkon, ale chýba smer** (`/blog/ako-najst-zmysel`), dobré pokračovanie, ak cítiš, že vieš makať, ale nie si si istý, či ideš správnym smerom
-- **Ako zmeniť život za 90 dní** (`/blog/ako-zmenit-zivot-90-dni`), nadväzuje na 90-dňový framework a ukazuje, ako ho preniesť do identity, návykov a prostredia
+- [Objav skutočný dôvod, prečo sa nehýbeš dopredu](/blog/objav-skutocny-dovod), pomôže ti odlíšiť povrchový problém od skutočného bottlenecku v správaní a rozhodovaní
+- [Ako nájsť zmysel, keď máš výkon, ale chýba smer](/blog/ako-najst-zmysel), dobré pokračovanie, ak cítiš, že vieš makať, ale nie si si istý, či ideš správnym smerom
+- [Ako zmeniť život za 90 dní](/blog/ako-zmenit-zivot-90-dni), nadväzuje na 90-dňový framework a ukazuje, ako ho preniesť do identity, návykov a prostredia
 
 ## Ako pokračovať od dnes
 

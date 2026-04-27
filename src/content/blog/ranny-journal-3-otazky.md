@@ -200,9 +200,9 @@ Prvý efekt môžeš cítiť hneď, najmä ak máš ráno chaos v hlave. Stabiln
 
 ## Pokračuj v čítaní
 
-- **Ranný rituál pre mentálnu jasnosť** (`/blog/ranny-rital-mentalna-jasnost`), ak chceš širší rámec pre ráno, energiu a prvé rozhodnutia dňa
-- **Denník vďačnosti: ako začať tak, aby to dávalo zmysel** (`/blog/dennik-vdacnosti-ako-zacat`), ak chceš pochopiť, kedy vďačnosť pomáha a kedy sa mení na prázdny zvyk
-- **Ranný stres bez kortizol spike** (`/blog/ranny-stres-bez-kortizol-spike`), ak chceš znížiť reaktivitu po zobudení a lepšie pracovať s nervovou sústavou
+- [Ranný rituál pre mentálnu jasnosť](/blog/ranny-rital-mentalna-jasnost), ak chceš širší rámec pre ráno, energiu a prvé rozhodnutia dňa
+- [Denník vďačnosti: ako začať tak, aby to dávalo zmysel](/blog/dennik-vdacnosti-ako-zacat), ak chceš pochopiť, kedy vďačnosť pomáha a kedy sa mení na prázdny zvyk
+- [Ranný stres bez kortizol spike](/blog/ranny-stres-bez-kortizol-spike), ak chceš znížiť reaktivitu po zobudení a lepšie pracovať s nervovou sústavou
 
 ## Ako pokračovať od dnes
 

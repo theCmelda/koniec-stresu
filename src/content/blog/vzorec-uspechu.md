@@ -218,9 +218,9 @@ Nerieš najprv viac času, rieš vyššiu presnosť. Vyber jeden cieľ, jeden t�
 
 ## Pokračuj v čítaní
 
-- **Objav skutočný dôvod, prečo stojíš na mieste** (`/blog/objav-skutocny-dovod`), pomôže ti nájsť skrytý blok, ktorý často vyzerá ako lenivosť alebo slabá disciplína
-- **Ako nájsť zmysel, keď nechceš žiť na autopilote** (`/blog/ako-najst-zmysel`), dobré pokračovanie, ak cítiš, že máš výkon, ale chýba ti jasnejší smer
-- **Ako zmeniť život za 90 dní** (`/blog/ako-zmenit-zivot-90-dni`), praktický rámec, ako premeniť cieľ na konkrétny plán a merateľný progres
+- [Objav skutočný dôvod, prečo stojíš na mieste](/blog/objav-skutocny-dovod), pomôže ti nájsť skrytý blok, ktorý často vyzerá ako lenivosť alebo slabá disciplína
+- [Ako nájsť zmysel, keď nechceš žiť na autopilote](/blog/ako-najst-zmysel), dobré pokračovanie, ak cítiš, že máš výkon, ale chýba ti jasnejší smer
+- [Ako zmeniť život za 90 dní](/blog/ako-zmenit-zivot-90-dni), praktický rámec, ako premeniť cieľ na konkrétny plán a merateľný progres
 
 ## Ako pokračovať od dnes
 

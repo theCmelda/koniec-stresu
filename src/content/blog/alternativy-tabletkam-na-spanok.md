@@ -180,9 +180,9 @@ Záleží od histórie nespavosti, stresu, liekov, práce a stavu nervovej súst
 
 ## Pokračuj v čítaní
 
-- **Čo pomáha na nespavosť, keď už nechceš skúšať náhodné rady** (`/blog/nespavost-co-pomaha`), praktický rámec, ako rozlíšiť príčiny nespavosti a vybrať zásahy, ktoré dávajú zmysel.
-- **Ako rýchlo zaspať bez boja so sebou** (`/blog/ako-rychlo-zaspat`), konkrétne techniky na večer, keď je telo unavené, ale hlava stále beží.
-- **Chronická nespavosť: keď sa z problému stane systém** (`/blog/chronicka-nespavost`), hlbší pohľad na dlhodobú nespavosť, naučené slučky a návrat k regulácii.
+- [Čo pomáha na nespavosť, keď už nechceš skúšať náhodné rady](/blog/nespavost-co-pomaha), praktický rámec, ako rozlíšiť príčiny nespavosti a vybrať zásahy, ktoré dávajú zmysel.
+- [Ako rýchlo zaspať bez boja so sebou](/blog/ako-rychlo-zaspat), konkrétne techniky na večer, keď je telo unavené, ale hlava stále beží.
+- [Chronická nespavosť: keď sa z problému stane systém](/blog/chronicka-nespavost), hlbší pohľad na dlhodobú nespavosť, naučené slučky a návrat k regulácii.
 
 ## Ako pokračovať od dnes
 

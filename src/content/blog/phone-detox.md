@@ -210,9 +210,9 @@ Prvé zmeny môžeš cítiť už po pár dňoch, hlavne ak odstrániš notifiká
 
 ## Pokračuj v čítaní
 
-- **Multitasking je lož: prečo prepínanie ničí tvoju pozornosť** (`/blog/multitasking-lie`), prečítaj si, prečo mozog nepracuje paralelne tak dobre, ako si myslíš, a ako prepínanie zvyšuje mentálnu daň.
-- **Deep work po slovensky: ako chrániť hlbokú prácu** (`/blog/deep-work-slovensky`), praktický rámec na sústredené bloky, ktoré ti pomôžu tvoriť bez neustáleho reagovania.
-- **Keď ti beží hlava: ako sa znova sústrediť** (`/blog/mind-racing-sustredit`), ak telefón používaš najmä vtedy, keď máš preplnenú hlavu, tento článok ti dá ďalší regulačný protokol.
+- [Multitasking je lož: prečo prepínanie ničí tvoju pozornosť](/blog/multitasking-lie), prečítaj si, prečo mozog nepracuje paralelne tak dobre, ako si myslíš, a ako prepínanie zvyšuje mentálnu daň.
+- [Deep work po slovensky: ako chrániť hlbokú prácu](/blog/deep-work-slovensky), praktický rámec na sústredené bloky, ktoré ti pomôžu tvoriť bez neustáleho reagovania.
+- [Keď ti beží hlava: ako sa znova sústrediť](/blog/mind-racing-sustredit), ak telefón používaš najmä vtedy, keď máš preplnenú hlavu, tento článok ti dá ďalší regulačný protokol.
 
 ## Ako pokračovať od dnes
 

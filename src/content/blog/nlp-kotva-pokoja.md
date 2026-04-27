@@ -2,7 +2,7 @@
 title: "NLP kotva pokoja: ako si zapnúť pokoj na povel"
 description: "NLP kotva pokoja: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-10
-category: Techniky
+category: Stres
 readingTime: 11
 videoId: syAw_f0Abic
 videoTitle: "NLP kotva pokoja: ako si zapnúť pokoj na povel"
@@ -264,10 +264,10 @@ Prvé jemné účinky môžeš cítiť už po jednom cvičení. Spoľahlivejšia
 
 ## Pokračuj v čítaní
 
-- Fyziologický vzdych (`/blog/fyziologicky-vzdych`): rýchla dychová technika, ktorá vie znížiť stres už po pár nádychoch
-- Havening metóda (`/blog/havening-metoda`): práca s dotykom, bezpečím a nervovým systémom pri emočnom napätí
-- Dýchanie 4-7-8 (`/blog/dychanie-4-7-8`): jednoduchý dychový rytmus na večer, spánok a upokojenie tela
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`): krátky postup, keď sa hlava rozbehne a nevie prestať
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych): rýchla dychová technika, ktorá vie znížiť stres už po pár nádychoch
+- [Havening metóda](/blog/havening-metoda): práca s dotykom, bezpečím a nervovým systémom pri emočnom napätí
+- [Dýchanie 4-7-8](/blog/dychanie-4-7-8): jednoduchý dychový rytmus na večer, spánok a upokojenie tela
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund): krátky postup, keď sa hlava rozbehne a nevie prestať
 
 ## Ako pokračovať od dnes
 

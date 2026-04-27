@@ -234,9 +234,9 @@ Nerob z toho drámu a nezačínaj od nuly s veľkým plánom. Len sa vráť k mi
 
 ## Pokračuj v čítaní
 
-- **Denník vďačnosti: ako začať prakticky a bez klišé** (`/blog/dennik-vdacnosti-ako-zacat`), dobré pokračovanie, ak chceš trénovať pozornosť na konkrétne dôkazy, nie na prázdne pozitívne frázy.
-- **Spúšťač šťastia: anchoring v praxi** (`/blog/spustac-stastia-anchoring`), prečítaj si, ako môžeš spojiť stav tela, emóciu a konkrétny podnet do použiteľného resetu.
-- **Ako vytvoriť návyk, ktorý vydrží** (`/blog/ako-vytvorit-navyk`), ak chceš, aby sa z metódy VYHRÁVAM nestal ďalší zabudnutý koncept, toto ti pomôže postaviť systém.
+- [Denník vďačnosti: ako začať prakticky a bez klišé](/blog/dennik-vdacnosti-ako-zacat), dobré pokračovanie, ak chceš trénovať pozornosť na konkrétne dôkazy, nie na prázdne pozitívne frázy.
+- [Spúšťač šťastia: anchoring v praxi](/blog/spustac-stastia-anchoring), prečítaj si, ako môžeš spojiť stav tela, emóciu a konkrétny podnet do použiteľného resetu.
+- [Ako vytvoriť návyk, ktorý vydrží](/blog/ako-vytvorit-navyk), ak chceš, aby sa z metódy VYHRÁVAM nestal ďalší zabudnutý koncept, toto ti pomôže postaviť systém.
 
 ## Ako pokračovať od dnes
 

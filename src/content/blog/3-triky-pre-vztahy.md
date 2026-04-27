@@ -189,11 +189,11 @@ Začni malým systémom. Raz týždenne 10-minútový check-in, počas konfliktu
 
 ## Pokračuj v čítaní
 
-- **Ako odpustiť** (`/blog/ako-odpustit`), keď v sebe držíš staré zranenie a potrebuješ rozlíšiť odpustenie od popierania dopadu.
+- [Ako odpustiť](/blog/ako-odpustit), keď v sebe držíš staré zranenie a potrebuješ rozlíšiť odpustenie od popierania dopadu.
 
-- **Ako pustiť kontrolu** (`/blog/ako-pustit-kontrolu`) - prečítať, ak sa vo vzťahu snažíš zvládnuť neistotu tým, že riadiš každý detail
-- **Ako spracovať bolestivú spomienku** (`/blog/ako-spracovat-bolestivu-spomienku`) - ak staré skúsenosti stále vstupujú do súčasných rozhovorov
-- **Ako vytvoriť návyk** (`/blog/ako-vytvorit-navyk`) - praktický rámec, ako premeniť dobrý zámer na opakovateľný systém
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu) - prečítať, ak sa vo vzťahu snažíš zvládnuť neistotu tým, že riadiš každý detail
+- [Ako spracovať bolestivú spomienku](/blog/ako-spracovat-bolestivu-spomienku) - ak staré skúsenosti stále vstupujú do súčasných rozhovorov
+- [Ako vytvoriť návyk](/blog/ako-vytvorit-navyk) - praktický rámec, ako premeniť dobrý zámer na opakovateľný systém
 
 ## Ako pokračovať od dnes
 

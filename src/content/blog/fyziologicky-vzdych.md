@@ -2,7 +2,7 @@
 title: "Fyziologický vzdych: 30-sekundová technika z neurovedy"
 description: "fyziologický vzdych: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-11
-category: Dych
+category: Stres
 readingTime: 11
 videoId: 3T6MJL-wiFY
 videoTitle: "Fyziologický vzdych: 30-sekundová technika z neurovedy"
@@ -259,10 +259,10 @@ Ak sa ti pri technike točí hlava, cítiš tlak alebo zhoršenie úzkosti, pres
 
 ## Pokračuj v čítaní
 
-- Dýchanie 4 7 8 (`/blog/dychanie-4-7-8`): dobrá technika, keď chceš večer spomaliť a pripraviť telo na spánok.
-- Panická ataka: čo robiť (`/blog/panicka-ataka-co-robit`): praktický návod na chvíle, keď sa telo rozbehne do silného strachu.
-- Havening metóda (`/blog/havening-metoda`): dotyková technika na reguláciu nervového systému a pocit bezpečia.
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`): krátky postup, keď sa hlava zasekne v scenároch a potrebuješ návrat do prítomnosti.
+- [Dýchanie 4 7 8](/blog/dychanie-4-7-8): dobrá technika, keď chceš večer spomaliť a pripraviť telo na spánok.
+- [Panická ataka: čo robiť](/blog/panicka-ataka-co-robit): praktický návod na chvíle, keď sa telo rozbehne do silného strachu.
+- [Havening metóda](/blog/havening-metoda): dotyková technika na reguláciu nervového systému a pocit bezpečia.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund): krátky postup, keď sa hlava zasekne v scenároch a potrebuješ návrat do prítomnosti.
 
 ## Ako pokračovať od dnes
 

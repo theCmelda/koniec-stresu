@@ -2,7 +2,7 @@
 title: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
 description: "ako sa zbaviť bolestivej spomienky: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-08
-category: Emócie
+category: Transformácia
 readingTime: 11
 videoId: Xr7vPVcdVcs
 videoTitle: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
@@ -268,10 +268,10 @@ Nemusí prísť veľký zlom. Často si všimneš malé zmeny. Rýchlejšie sa u
 
 ## Pokračuj v čítaní
 
-- Ako odpustiť (`/blog/ako-odpustit`): prečítaj si, prečo odpustenie neznamená ospravedlniť to, čo sa stalo.
-- Havening metóda (`/blog/havening-metoda`): jemná technika dotyku a pozornosti, ktorá pomáha upokojiť nervový systém.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): ak ťa bolestivé skúsenosti naučili všetko držať pevne v rukách.
-- Úzkosť príznaky (`/blog/uzkost-priznaky`): pochop, čo sa deje v tele, keď sa spustí vnútorný alarm.
+- [Ako odpustiť](/blog/ako-odpustit): prečítaj si, prečo odpustenie neznamená ospravedlniť to, čo sa stalo.
+- [Havening metóda](/blog/havening-metoda): jemná technika dotyku a pozornosti, ktorá pomáha upokojiť nervový systém.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): ak ťa bolestivé skúsenosti naučili všetko držať pevne v rukách.
+- [Úzkosť príznaky](/blog/uzkost-priznaky): pochop, čo sa deje v tele, keď sa spustí vnútorný alarm.
 
 ## Ako pokračovať od dnes
 

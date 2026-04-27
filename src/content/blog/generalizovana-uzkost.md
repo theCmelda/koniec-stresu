@@ -235,9 +235,9 @@ Večer potrebuje mozog uzavrieť otvorené slučky. Skús 10 minút pred spaním
 
 ## Pokračuj v čítaní
 
-- **Úzkosť: príznaky, ktoré si ľudia často mýlia so slabosťou** (`/blog/uzkost-priznaky`), prečítaš si, ako sa úzkosť prejavuje v tele, myslení a správaní.
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), praktický postup, keď potrebuješ rýchlo prerušiť rozbehnutú slučku.
-- **Úzkostné myšlienky pred spaním** (`/blog/uzkostne-myslienky-pred-spanim`), ak sa ti hlava najviac rozbehne večer, toto ti dá konkrétny rámec.
+- [Úzkosť: príznaky, ktoré si ľudia často mýlia so slabosťou](/blog/uzkost-priznaky), prečítaš si, ako sa úzkosť prejavuje v tele, myslení a správaní.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), praktický postup, keď potrebuješ rýchlo prerušiť rozbehnutú slučku.
+- [Úzkostné myšlienky pred spaním](/blog/uzkostne-myslienky-pred-spanim), ak sa ti hlava najviac rozbehne večer, toto ti dá konkrétny rámec.
 
 ## Ako pokračovať od dnes
 

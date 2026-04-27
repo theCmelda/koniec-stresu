@@ -166,9 +166,9 @@ Začni dvakrát denne po 60 sekúnd počas siedmich dní, ideálne mimo akútnej
 
 ## Pokračuj v čítaní
 
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), dobré pokračovanie, ak sa ti úzkosť spúšťa hlavne cez mentálne slučky a potrebuješ rýchly spôsob, ako prerušiť prežúvanie.
-- **Havening metóda: dotyk, ktorý upokojuje nervovú sústavu** (`/blog/havening-metoda`), prečítaj si, ak ti pri regulácii viac pomáha dotyk, tlak a telesný vstup než práca s myšlienkami.
-- **Fyziologický vzdych: najrýchlejší dychový reset** (`/blog/fyziologicky-vzdych`), praktická technika, ktorú môžeš použiť pred uzemnením, najmä keď je aktivácia príliš vysoká.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), dobré pokračovanie, ak sa ti úzkosť spúšťa hlavne cez mentálne slučky a potrebuješ rýchly spôsob, ako prerušiť prežúvanie.
+- [Havening metóda: dotyk, ktorý upokojuje nervovú sústavu](/blog/havening-metoda), prečítaj si, ak ti pri regulácii viac pomáha dotyk, tlak a telesný vstup než práca s myšlienkami.
+- [Fyziologický vzdych: najrýchlejší dychový reset](/blog/fyziologicky-vzdych), praktická technika, ktorú môžeš použiť pred uzemnením, najmä keď je aktivácia príliš vysoká.
 
 ## Ako pokračovať od dnes
 

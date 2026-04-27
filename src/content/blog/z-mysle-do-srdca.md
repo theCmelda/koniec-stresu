@@ -158,9 +158,9 @@ Začni 4 minútami denne počas 7 dní. Ak chceš rýchlejší tréningový efek
 
 ## Pokračuj v čítaní
 
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), praktický nástroj, keď potrebuješ rýchlo prerušiť mentálnu slučku a vrátiť pozornosť do prítomnosti.
-- **Havening metóda** (`/blog/havening-metoda`), dobré pokračovanie, ak ti pri úzkosti pomáha dotyk, telesná kotva a jemná regulácia cez zmysly.
-- **Fyziologický vzdych** (`/blog/fyziologicky-vzdych`) - prečítaj si, ak potrebuješ ešte jednoduchšiu dychovú techniku na akútnu aktiváciu tela.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), praktický nástroj, keď potrebuješ rýchlo prerušiť mentálnu slučku a vrátiť pozornosť do prítomnosti.
+- [Havening metóda](/blog/havening-metoda), dobré pokračovanie, ak ti pri úzkosti pomáha dotyk, telesná kotva a jemná regulácia cez zmysly.
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych) - prečítaj si, ak potrebuješ ešte jednoduchšiu dychovú techniku na akútnu aktiváciu tela.
 
 ## Ako pokračovať od dnes
 

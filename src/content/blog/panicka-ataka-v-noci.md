@@ -180,9 +180,9 @@ Záleží od záťaže, histórie úzkosti, spánkového režimu a toho, ako kon
 
 ## Pokračuj v čítaní
 
-- **Panická ataka: čo robiť, keď príde vlna strachu** (`/blog/panicka-ataka-co-robit`), praktický rámec pre akútnu paniku cez telo, dych a pozornosť.
-- **Budenie sa o 3 ráno: čo ti tým telo môže hovoriť** (`/blog/budenie-sa-o-3-rano`), dobré pokračovanie, ak sa prebúdzanie opakuje v rovnakom čase.
-- **Havening metóda: dotyk ako signál bezpečia pre nervový systém** (`/blog/havening-metoda`), prečítaj si, ak chceš ďalší somatický nástroj na reguláciu.
+- [Panická ataka: čo robiť, keď príde vlna strachu](/blog/panicka-ataka-co-robit), praktický rámec pre akútnu paniku cez telo, dych a pozornosť.
+- [Budenie sa o 3 ráno: čo ti tým telo môže hovoriť](/blog/budenie-sa-o-3-rano), dobré pokračovanie, ak sa prebúdzanie opakuje v rovnakom čase.
+- [Havening metóda: dotyk ako signál bezpečia pre nervový systém](/blog/havening-metoda), prečítaj si, ak chceš ďalší somatický nástroj na reguláciu.
 
 ## Ako pokračovať od dnes
 

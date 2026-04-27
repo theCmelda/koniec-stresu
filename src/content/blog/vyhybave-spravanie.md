@@ -186,9 +186,9 @@ Vyber jednu konkrétnu spomienku alebo situáciu, nie celý životný príbeh. V
 
 ## Pokračuj v čítaní
 
-- **Sociálna úzkosť: keď kontakt s ľuďmi stojí príliš veľa energie** (`/blog/socialna-uzkost`), prečítaj si, ako sa sociálny stres ukladá v tele a prečo vyhýbanie spoločenským situáciám často posilňuje strach.
-- **Úzkosť príznaky: čo sa deje v hlave a tele, keď systém ide do hrozby** (`/blog/uzkost-priznaky`), dobrý základ, ak chceš lepšie rozumieť signálom nervovej sústavy, kortizolu, dychu a telesnej aktivácii.
-- **Ako pustiť kontrolu bez toho, aby si stratil smer** (`/blog/ako-pustit-kontrolu`), ak tvoje vyhýbavé správanie súvisí s perfekcionizmom, kontrolou a strachom z chyby, tento článok ti dá ďalší rámec.
+- [Sociálna úzkosť: keď kontakt s ľuďmi stojí príliš veľa energie](/blog/socialna-uzkost), prečítaj si, ako sa sociálny stres ukladá v tele a prečo vyhýbanie spoločenským situáciám často posilňuje strach.
+- [Úzkosť príznaky: čo sa deje v hlave a tele, keď systém ide do hrozby](/blog/uzkost-priznaky), dobrý základ, ak chceš lepšie rozumieť signálom nervovej sústavy, kortizolu, dychu a telesnej aktivácii.
+- [Ako pustiť kontrolu bez toho, aby si stratil smer](/blog/ako-pustit-kontrolu), ak tvoje vyhýbavé správanie súvisí s perfekcionizmom, kontrolou a strachom z chyby, tento článok ti dá ďalší rámec.
 
 ## Ako pokračovať od dnes
 

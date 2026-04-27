@@ -185,9 +185,9 @@ Začni už deň pred odletom. Pri lete na západ posuň spánok mierne neskôr, 
 
 ## Pokračuj v čítaní
 
-- **Cirkadiánny rytmus: ako nastaviť biologické hodiny** (`/blog/cirkadianny-rytmus`), ak chceš pochopiť, prečo svetlo, tma, jedlo a pohyb riadia tvoju energiu počas dňa.
-- **Spánková hygiena: čo má reálnu prioritu** (`/blog/spankova-hygiena-priority`), dobré pokračovanie, keď chceš oddeliť veci, ktoré spánok naozaj menia, od detailov bez veľkého efektu.
-- **Ako rýchlo zaspať, keď je hlava stále zapnutá** (`/blog/ako-rychlo-zaspat`), praktický článok na večery po prílete, keď je telo unavené, ale sympatikus stále beží.
+- [Cirkadiánny rytmus: ako nastaviť biologické hodiny](/blog/cirkadianny-rytmus), ak chceš pochopiť, prečo svetlo, tma, jedlo a pohyb riadia tvoju energiu počas dňa.
+- [Spánková hygiena: čo má reálnu prioritu](/blog/spankova-hygiena-priority), dobré pokračovanie, keď chceš oddeliť veci, ktoré spánok naozaj menia, od detailov bez veľkého efektu.
+- [Ako rýchlo zaspať, keď je hlava stále zapnutá](/blog/ako-rychlo-zaspat), praktický článok na večery po prílete, keď je telo unavené, ale sympatikus stále beží.
 
 ## Ako pokračovať od dnes
 

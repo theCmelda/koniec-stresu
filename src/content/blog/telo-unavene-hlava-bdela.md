@@ -189,9 +189,9 @@ Niekedy pocítiš zmenu v prvý večer, inokedy až po pár týždňoch. Zálež
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať bez toho, aby si sa do spánku tlačil** (`/blog/ako-rychlo-zaspat`), praktický rámec pre zaspávanie, keď nechceš ďalší mentálny boj
-- **Úzkostné myšlienky pred spaním: čo robiť, keď hlava večer nevypne** (`/blog/uzkostne-myslienky-pred-spanim`), ak tvoje večerné premýšľanie prechádza do úzkosti a katastrofických scenárov
-- **Overthinking: ako prestať rozoberať všetko do detailu** (`/blog/overthinking-ako-prestat`), dobré pokračovanie, ak sa mind racing objavuje nielen v posteli, ale aj cez deň
+- [Ako rýchlo zaspať bez toho, aby si sa do spánku tlačil](/blog/ako-rychlo-zaspat), praktický rámec pre zaspávanie, keď nechceš ďalší mentálny boj
+- [Úzkostné myšlienky pred spaním: čo robiť, keď hlava večer nevypne](/blog/uzkostne-myslienky-pred-spanim), ak tvoje večerné premýšľanie prechádza do úzkosti a katastrofických scenárov
+- [Overthinking: ako prestať rozoberať všetko do detailu](/blog/overthinking-ako-prestat), dobré pokračovanie, ak sa mind racing objavuje nielen v posteli, ale aj cez deň
 
 ## Ako pokračovať od dnes
 

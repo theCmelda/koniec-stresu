@@ -2,7 +2,7 @@
 title: "Denník vďačnosti: ako ho začať tak, aby ti to vydržalo"
 description: "denník vďačnosti ako začať: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-05
-category: Pozitívna psychológia
+category: Transformácia
 readingTime: 11
 videoId: dwHTTKnuGK8
 videoTitle: "Denník vďačnosti: ako ho začať tak, aby ti to vydržalo"
@@ -365,10 +365,10 @@ Naviaž ho na niečo, čo už robíš. Káva, umývanie zubov, cesta do práce, 
 
 ## Pokračuj v čítaní
 
-- Ako nájsť zmysel (`/blog/ako-najst-zmysel`): keď chceš ísť hlbšie než len k dobrému pocitu a hľadáš smer, ktorý dáva zmysel.
-- Meditácia pre začiatočníkov (`/blog/meditacia-pre-zaciatocnikov`): praktický úvod, ak chceš spojiť denník vďačnosti s jednoduchým tréningom pozornosti.
-- Ako odpustiť (`/blog/ako-odpustit`): užitočné čítanie, keď ti vďačnosť blokuje stará krivda alebo nevypovedané napätie.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): pre chvíle, keď sa snažíš všetko riadiť hlavou a telo už nevládze.
+- [Ako nájsť zmysel](/blog/ako-najst-zmysel): keď chceš ísť hlbšie než len k dobrému pocitu a hľadáš smer, ktorý dáva zmysel.
+- [Meditácia pre začiatočníkov](/blog/meditacia-pre-zaciatocnikov): praktický úvod, ak chceš spojiť denník vďačnosti s jednoduchým tréningom pozornosti.
+- [Ako odpustiť](/blog/ako-odpustit): užitočné čítanie, keď ti vďačnosť blokuje stará krivda alebo nevypovedané napätie.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): pre chvíle, keď sa snažíš všetko riadiť hlavou a telo už nevládze.
 
 ## Ako pokračovať od dnes
 

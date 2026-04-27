@@ -200,9 +200,9 @@ Nesnaž sa prestať navždy. Daj si menší cieľ: 15 až 20 minút bez vyhľad�
 
 ## Pokračuj v čítaní
 
-- **Ako zastaviť obavy za 60 sekúnd** (`/blog/ako-zastavit-obavy-za-60-sekund`), praktický rýchly protokol, keď sa myšlienky rozbehnú a potrebuješ znížiť intenzitu hneď teraz
-- **Úzkosť príznaky: čo sa deje v tele** (`/blog/uzkost-priznaky`), pomôže ti rozlíšiť telesné prejavy úzkosti od katastrofických interpretácií
-- **Generalizovaná úzkosť: keď hlava nevie vypnúť** (`/blog/generalizovana-uzkost`), dobré pokračovanie, ak sa obavy netýkajú len zdravia, ale preskakujú medzi prácou, vzťahmi a budúcnosťou
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund), praktický rýchly protokol, keď sa myšlienky rozbehnú a potrebuješ znížiť intenzitu hneď teraz
+- [Úzkosť príznaky: čo sa deje v tele](/blog/uzkost-priznaky), pomôže ti rozlíšiť telesné prejavy úzkosti od katastrofických interpretácií
+- [Generalizovaná úzkosť: keď hlava nevie vypnúť](/blog/generalizovana-uzkost), dobré pokračovanie, ak sa obavy netýkajú len zdravia, ale preskakujú medzi prácou, vzťahmi a budúcnosťou
 
 ## Ako pokračovať od dnes
 

@@ -241,9 +241,9 @@ Krátkodobú zmenu môžeš cítiť za pár minút, napríklad po dychu, prechá
 
 ## Pokračuj v čítaní
 
-- **Prečo nie si lenivá, ale vyhorená** (`/blog/preco-nie-si-leniva-ale-vyhorena`), ak si zamieňaš nedostatok energie za slabú disciplínu, toto ti pomôže rozlíšiť lenivosť od preťaženia.
-- **Syndróm vyhorenia: príznaky, ktoré netreba ignorovať** (`/blog/syndrom-vyhorenia-priznaky`), prečítaj si ho, ak sa únava mení na dlhodobý stav a bežný víkend už nestačí.
-- **Prečo som stále unavený** (`/blog/preco-som-stale-unaveny`), dobré pokračovanie, ak chceš pochopiť únavu cez spánok, stres, nervovú sústavu a každodenné návyky.
+- [Prečo nie si lenivá, ale vyhorená](/blog/preco-nie-si-leniva-ale-vyhorena), ak si zamieňaš nedostatok energie za slabú disciplínu, toto ti pomôže rozlíšiť lenivosť od preťaženia.
+- [Syndróm vyhorenia: príznaky, ktoré netreba ignorovať](/blog/syndrom-vyhorenia-priznaky), prečítaj si ho, ak sa únava mení na dlhodobý stav a bežný víkend už nestačí.
+- [Prečo som stále unavený](/blog/preco-som-stale-unaveny), dobré pokračovanie, ak chceš pochopiť únavu cez spánok, stres, nervovú sústavu a každodenné návyky.
 
 ## Ako pokračovať od dnes
 

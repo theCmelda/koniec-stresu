@@ -180,9 +180,9 @@ Závisí od hĺbky vyčerpania, dĺžky stresu a toho, či zmeníš podmienky, k
 
 ## Pokračuj v čítaní
 
-- **Syndróm vyhorenia: príznaky, ktoré netreba ignorovať** (`/blog/syndrom-vyhorenia-priznaky`), pomôže ti presnejšie zachytiť signály, že nejde len o bežnú únavu.
-- **Prečo som stále unavený, aj keď spím** (`/blog/preco-som-stale-unaveny`), dobré pokračovanie, ak cítiš únavu aj po oddychu a nevieš nájsť príčinu.
-- **Decision fatigue: prečo ťa ničia malé rozhodnutia** (`/blog/decision-fatigue`), prečítaj si, ak máš pocit, že ťa vyčerpáva už samotné rozhodovanie.
+- [Syndróm vyhorenia: príznaky, ktoré netreba ignorovať](/blog/syndrom-vyhorenia-priznaky), pomôže ti presnejšie zachytiť signály, že nejde len o bežnú únavu.
+- [Prečo som stále unavený, aj keď spím](/blog/preco-som-stale-unaveny), dobré pokračovanie, ak cítiš únavu aj po oddychu a nevieš nájsť príčinu.
+- [Decision fatigue: prečo ťa ničia malé rozhodnutia](/blog/decision-fatigue), prečítaj si, ak máš pocit, že ťa vyčerpáva už samotné rozhodovanie.
 
 ## Ako pokračovať od dnes
 

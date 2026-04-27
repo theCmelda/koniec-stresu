@@ -330,10 +330,10 @@ Choď vtedy, keď úzkosť trvá týždne, zhoršuje spánok, spôsobuje panick�
 
 ## Pokračuj v čítaní
 
-- Panická ataka: čo robiť (`/blog/panicka-ataka-co-robit`): praktický návod, čo robiť počas paniky krok za krokom
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`): hlbší tréning techniky na obavné myšlienky
-- Havening metóda (`/blog/havening-metoda`): jemná technika dotyku, ktorá pomáha upokojiť nervový systém
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): článok pre chvíle, keď ťa vyčerpáva potreba mať všetko pod dohľadom
+- [Panická ataka: čo robiť](/blog/panicka-ataka-co-robit): praktický návod, čo robiť počas paniky krok za krokom
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund): hlbší tréning techniky na obavné myšlienky
+- [Havening metóda](/blog/havening-metoda): jemná technika dotyku, ktorá pomáha upokojiť nervový systém
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): článok pre chvíle, keď ťa vyčerpáva potreba mať všetko pod dohľadom
 
 ## Ako pokračovať od dnes
 

@@ -176,10 +176,10 @@ Vtedy potrebuješ menší systém, nie väčší tlak. Vyber si jednu rannú kot
 
 ## Pokračuj v čítaní
 
-- **Ako vytvoriť návyk, ktorý vydrží** (`/blog/ako-vytvorit-navyk`), prečítaj si, ako stavať návyky tak, aby neboli závislé od motivácie a ideálneho týždňa.
-- **Ako zmeniť život za 90 dní** (`/blog/ako-zmenit-zivot-90-dni`), dobré pokračovanie, ak chceš z 30-dňového štartu spraviť širší transformačný rámec.
-- **Vzorec úspechu** (`/blog/vzorec-uspechu`), pomôže ti pochopiť, prečo výsledok nie je náhoda, ale kombinácia vstupov, opakovania a spätnej väzby.
-- **Metóda Vyhrávam** (`/blog/metoda-vyhravam`), ak chceš praktický spôsob, ako budovať momentum bez toho, aby si sa spálil vlastnou ambíciou.
+- [Ako vytvoriť návyk, ktorý vydrží](/blog/ako-vytvorit-navyk), prečítaj si, ako stavať návyky tak, aby neboli závislé od motivácie a ideálneho týždňa.
+- [Ako zmeniť život za 90 dní](/blog/ako-zmenit-zivot-90-dni), dobré pokračovanie, ak chceš z 30-dňového štartu spraviť širší transformačný rámec.
+- [Vzorec úspechu](/blog/vzorec-uspechu), pomôže ti pochopiť, prečo výsledok nie je náhoda, ale kombinácia vstupov, opakovania a spätnej väzby.
+- [Metóda Vyhrávam](/blog/metoda-vyhravam), ak chceš praktický spôsob, ako budovať momentum bez toho, aby si sa spálil vlastnou ambíciou.
 
 ## Ako pokračovať od dnes
 

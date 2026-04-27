@@ -189,9 +189,9 @@ Začni s 45 minútami. Ak je tvoja pozornosť rozbitá, aj 25 minút môže byť
 
 ## Pokračuj v čítaní
 
-- **Ako prestať overthinkovať a získať späť mentálnu kapacitu** (`/blog/overthinking-ako-prestat`), prečítaj si, ak ti hlavu počas práce rozbíjajú scenáre, pochybnosti a nekonečné mentálne slučky
-- **Phone detox: ako si nastaviť zdravší vzťah k telefónu** (`/blog/phone-detox`), praktický návod, ak cítiš, že telefón ti berie fokus skôr, než si to stihneš všimnúť
-- **Ranný rituál pre mentálnu jasnosť** (`/blog/ranny-rital-mentalna-jasnost`), dobrý ďalší krok, ak chceš pripraviť nervovú sústavu a pozornosť ešte pred začiatkom pracovného dňa
+- [Ako prestať overthinkovať a získať späť mentálnu kapacitu](/blog/overthinking-ako-prestat), prečítaj si, ak ti hlavu počas práce rozbíjajú scenáre, pochybnosti a nekonečné mentálne slučky
+- [Phone detox: ako si nastaviť zdravší vzťah k telefónu](/blog/phone-detox), praktický návod, ak cítiš, že telefón ti berie fokus skôr, než si to stihneš všimnúť
+- [Ranný rituál pre mentálnu jasnosť](/blog/ranny-rital-mentalna-jasnost), dobrý ďalší krok, ak chceš pripraviť nervovú sústavu a pozornosť ešte pred začiatkom pracovného dňa
 
 ## Ako pokračovať od dnes
 

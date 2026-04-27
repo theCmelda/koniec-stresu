@@ -218,9 +218,9 @@ Zmenši protokol. Nepotrebuješ 30 minút v tichu. Daj si 5 minút vyloženia hl
 
 ## Pokračuj v čítaní
 
-- **Ako zvládať stres v práci** (`/blog/ako-zvladat-stres-v-praci`), praktický rámec, ako znížiť pracovný tlak bez toho, aby si spomalil vo veciach, na ktorých záleží
-- **Ako pustiť kontrolu** (`/blog/ako-pustit-kontrolu`), ak je tvoja nedeľná úzkosť naviazaná na potrebu mať všetko pod kontrolou, toto ti pomôže odlíšiť zdravú zodpovednosť od kontroly, ktorá ti žerie kapacitu
-- **Ranný stres bez kortizol spike** (`/blog/ranny-stres-bez-kortizol-spike`) - prečítaj si, ako nastaviť ráno tak, aby pondelok nezačal okamžitým preťažením
+- [Ako zvládať stres v práci](/blog/ako-zvladat-stres-v-praci), praktický rámec, ako znížiť pracovný tlak bez toho, aby si spomalil vo veciach, na ktorých záleží
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu), ak je tvoja nedeľná úzkosť naviazaná na potrebu mať všetko pod kontrolou, toto ti pomôže odlíšiť zdravú zodpovednosť od kontroly, ktorá ti žerie kapacitu
+- [Ranný stres bez kortizol spike](/blog/ranny-stres-bez-kortizol-spike) - prečítaj si, ako nastaviť ráno tak, aby pondelok nezačal okamžitým preťažením
 
 ## Ako pokračovať od dnes
 

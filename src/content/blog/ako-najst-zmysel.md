@@ -2,7 +2,7 @@
 title: Ako nájsť svoj skutočný zmysel (a nepúšťať ho)
 description: "ako nájsť zmysel: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
 publishDate: 2026-05-12
-category: Mindset
+category: Mentálna výkonnosť
 readingTime: 11
 videoId: yz-8T7YcYHc
 videoTitle: Ako nájsť svoj skutočný zmysel (a nepúšťať ho)
@@ -386,10 +386,10 @@ Nespoliehaj sa iba na pocit motivácie. Spoj svoje WHY s malým rituálom, ktor�
 
 ## Pokračuj v čítaní
 
-- Denník vďačnosti: ako začať (`/blog/dennik-vdacnosti-ako-zacat`): pomôže ti zachytiť malé stopy zmyslu v bežnom dni.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): prečítaš si, ako prestať tlačiť na život a začať viac dôverovať telu.
-- Syndróm vyhorenia: príznaky (`/blog/syndrom-vyhorenia-priznaky`): dôležité čítanie, ak tvoje prázdno sprevádza únava, cynizmus a strata energie.
-- Ako odpustiť (`/blog/ako-odpustit`): odpustenie často uvoľní energiu, ktorú potrebuješ na návrat k svojmu WHY.
+- [Denník vďačnosti: ako začať](/blog/dennik-vdacnosti-ako-zacat): pomôže ti zachytiť malé stopy zmyslu v bežnom dni.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): prečítaš si, ako prestať tlačiť na život a začať viac dôverovať telu.
+- [Syndróm vyhorenia: príznaky](/blog/syndrom-vyhorenia-priznaky): dôležité čítanie, ak tvoje prázdno sprevádza únava, cynizmus a strata energie.
+- [Ako odpustiť](/blog/ako-odpustit): odpustenie často uvoľní energiu, ktorú potrebuješ na návrat k svojmu WHY.
 
 ## Ako pokračovať od dnes
 

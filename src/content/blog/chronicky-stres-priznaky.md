@@ -312,10 +312,10 @@ Varovné signály sú strata radosti, cynizmus, emočná otupenosť, dlhodobá �
 
 ## Pokračuj v čítaní
 
-- Ako zvládať stres v práci (`/blog/ako-zvladat-stres-v-praci`): praktické kroky, ako zostať regulovaný aj pri tlaku, termínoch a náročných ľuďoch.
-- Syndróm vyhorenia príznaky (`/blog/syndrom-vyhorenia-priznaky`): pomôže ti rozlíšiť, či ide ešte o stres, alebo už o hlbšie vyčerpanie.
-- Ako sa zbaviť stresu za 30 dní (`/blog/ako-sa-zbavit-stresu-za-30-dni`): konkrétny plán, ktorý nadväzuje na tri fázy z tohto článku.
-- Ako pustiť kontrolu (`/blog/ako-pustit-kontrolu`): článok pre chvíle, keď tvoj nervový systém verí, že bezpečie vznikne len vtedy, keď všetko ustrážiš.
+- [Ako zvládať stres v práci](/blog/ako-zvladat-stres-v-praci): praktické kroky, ako zostať regulovaný aj pri tlaku, termínoch a náročných ľuďoch.
+- [Syndróm vyhorenia príznaky](/blog/syndrom-vyhorenia-priznaky): pomôže ti rozlíšiť, či ide ešte o stres, alebo už o hlbšie vyčerpanie.
+- [Ako sa zbaviť stresu za 30 dní](/blog/ako-sa-zbavit-stresu-za-30-dni): konkrétny plán, ktorý nadväzuje na tri fázy z tohto článku.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu): článok pre chvíle, keď tvoj nervový systém verí, že bezpečie vznikne len vtedy, keď všetko ustrážiš.
 
 ## Ako pokračovať od dnes
 

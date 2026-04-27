@@ -174,9 +174,9 @@ Ak chceš, aby vznikol efekt učenia, rob ju aspoň 7 až 14 večerov za sebou. 
 
 ## Pokračuj v čítaní
 
-- **Ako rýchlo zaspať** (`/blog/ako-rychlo-zaspat`), praktický rámec, keď potrebuješ skrátiť čas medzi ľahnutím a spánkom bez tlačenia na výkon
-- **Nespavosť: čo pomáha** (`/blog/nespavost-co-pomaha`), širší pohľad na nespavosť, režim, stres a správanie, ktoré udržiava problém pri živote
-- **Body scan na zaspávanie** (`/blog/body-scan-na-zaspavanie`), jednoduchá technika cez telo, ktorá dobre dopĺňa hypnózu a progresívnu relaxáciu
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat), praktický rámec, keď potrebuješ skrátiť čas medzi ľahnutím a spánkom bez tlačenia na výkon
+- [Nespavosť: čo pomáha](/blog/nespavost-co-pomaha), širší pohľad na nespavosť, režim, stres a správanie, ktoré udržiava problém pri živote
+- [Body scan na zaspávanie](/blog/body-scan-na-zaspavanie), jednoduchá technika cez telo, ktorá dobre dopĺňa hypnózu a progresívnu relaxáciu
 
 ## Ako pokračovať od dnes
 

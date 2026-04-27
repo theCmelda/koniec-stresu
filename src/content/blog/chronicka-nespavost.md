@@ -196,9 +196,9 @@ Záleží od príčiny, trvania a toho, čo nespavosť udržiava. Pri behaviorá
 
 ## Pokračuj v čítaní
 
-- **Nespavosť: čo pomáha, keď nevieš zaspať** (`/blog/nespavost-co-pomaha`), praktický rámec pre prvé kroky, keď sa spánok začne rozpadávať
-- **Ako rýchlo zaspať bez tlaku a boja so sebou** (`/blog/ako-rychlo-zaspat`), techniky, ktoré znižujú aktiváciu bez toho, aby si zo spánku robil výkon
-- **Úzkostné myšlienky pred spaním: ako ich zastaviť** (`/blog/uzkostne-myslienky-pred-spanim`), dobré čítanie, ak je tvoj hlavný problém večerné premýšľanie a obavy
+- [Nespavosť: čo pomáha, keď nevieš zaspať](/blog/nespavost-co-pomaha), praktický rámec pre prvé kroky, keď sa spánok začne rozpadávať
+- [Ako rýchlo zaspať bez tlaku a boja so sebou](/blog/ako-rychlo-zaspat), techniky, ktoré znižujú aktiváciu bez toho, aby si zo spánku robil výkon
+- [Úzkostné myšlienky pred spaním: ako ich zastaviť](/blog/uzkostne-myslienky-pred-spanim), dobré čítanie, ak je tvoj hlavný problém večerné premýšľanie a obavy
 
 ## Ako pokračovať od dnes
 

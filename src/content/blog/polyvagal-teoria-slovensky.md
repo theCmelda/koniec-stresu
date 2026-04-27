@@ -157,11 +157,11 @@ Nerob z toho problém. Niektorí ľudia sú na začiatku od tela odpojení, najm
 
 ## Pokračuj v čítaní
 
-- **Fyziologický vzdych** (`/blog/fyziologicky-vzdych`) : rýchla dychová technika, ktorú vieš použiť, keď potrebuješ znížiť akútnu aktiváciu tela.
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych) : rýchla dychová technika, ktorú vieš použiť, keď potrebuješ znížiť akútnu aktiváciu tela.
 
-- **Ako pustiť kontrolu** (`/blog/ako-pustit-kontrolu`) : praktický rámec pre momenty, keď sa kontrola tvári ako zodpovednosť, ale v skutočnosti len drží nervovú sústavu v napätí.
+- [Ako pustiť kontrolu](/blog/ako-pustit-kontrolu) : praktický rámec pre momenty, keď sa kontrola tvári ako zodpovednosť, ale v skutočnosti len drží nervovú sústavu v napätí.
 
-- **Havening metóda** (`/blog/havening-metoda`) : jemná somatická technika, ktorá pracuje s dotykom, bezpečím a reguláciou stresovej reakcie.
+- [Havening metóda](/blog/havening-metoda) : jemná somatická technika, ktorá pracuje s dotykom, bezpečím a reguláciou stresovej reakcie.
 
 ## Ako pokračovať od dnes
 

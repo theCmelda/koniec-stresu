@@ -220,10 +220,10 @@ Prvé zmeny vieš cítiť už po pár dňoch, ak znížiš najväčšie zdroje r
 
 ## Pokračuj v čítaní
 
-- **Ako prestať overthinkovať, keď ti hlava beží nonstop** (`/blog/overthinking-ako-prestat`), ak sa tvoje myšlienky netočia len pri práci, ale aj pri rozhodovaní, vzťahoch a večer v posteli, toto ti dá ďalší rámec.
-- **Deep work po slovensky: ako pracovať hlboko bez chaosu** (`/blog/deep-work-slovensky`), praktický systém pre bloky sústredenia, prostredie a prácu bez neustáleho prepínania.
-- **Phone detox: ako znížiť dopamínový hluk z telefónu** (`/blog/phone-detox`), ak cítiš, že pozornosť ti najviac rozbíja mobil, začni tu.
-- **Úzkostné myšlienky pred spaním: čo robiť, keď hlava nechce vypnúť** (`/blog/uzkostne-myslienky-pred-spanim`), dobré pokračovanie, ak sa mind racing presúva hlavne do večera a ničí ti spánok.
+- [Ako prestať overthinkovať, keď ti hlava beží nonstop](/blog/overthinking-ako-prestat), ak sa tvoje myšlienky netočia len pri práci, ale aj pri rozhodovaní, vzťahoch a večer v posteli, toto ti dá ďalší rámec.
+- [Deep work po slovensky: ako pracovať hlboko bez chaosu](/blog/deep-work-slovensky), praktický systém pre bloky sústredenia, prostredie a prácu bez neustáleho prepínania.
+- [Phone detox: ako znížiť dopamínový hluk z telefónu](/blog/phone-detox), ak cítiš, že pozornosť ti najviac rozbíja mobil, začni tu.
+- [Úzkostné myšlienky pred spaním: čo robiť, keď hlava nechce vypnúť](/blog/uzkostne-myslienky-pred-spanim), dobré pokračovanie, ak sa mind racing presúva hlavne do večera a ničí ti spánok.
 
 ## Ako pokračovať od dnes
 

@@ -222,9 +222,9 @@ V jednej epizóde môžeš cítiť zmenu už po minúte alebo dvoch, ak prestane
 
 ## Pokračuj v čítaní
 
-- **Panická ataka: čo robiť, keď príde vlna strachu** (`/blog/panicka-ataka-co-robit`), praktický rámec pre momenty, keď úzkosť prerastie do intenzívneho telesného alarmu
-- **Úzkosť príznaky: ako rozpoznať, čo sa deje v tele** (`/blog/uzkost-priznaky`), pomôže ti odlíšiť telesné signály, interpretácie a reálne riziká
-- **Havening metóda: dotyk ako vstup do regulácie** (`/blog/havening-metoda`), technika, ktorá môže podporiť pocit bezpečia a prácu s nervovou sústavou
+- [Panická ataka: čo robiť, keď príde vlna strachu](/blog/panicka-ataka-co-robit), praktický rámec pre momenty, keď úzkosť prerastie do intenzívneho telesného alarmu
+- [Úzkosť príznaky: ako rozpoznať, čo sa deje v tele](/blog/uzkost-priznaky), pomôže ti odlíšiť telesné signály, interpretácie a reálne riziká
+- [Havening metóda: dotyk ako vstup do regulácie](/blog/havening-metoda), technika, ktorá môže podporiť pocit bezpečia a prácu s nervovou sústavou
 
 ## Ako pokračovať od dnes
 

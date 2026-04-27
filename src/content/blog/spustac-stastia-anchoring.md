@@ -185,9 +185,9 @@ Použi nenápadnú kotvu. Napríklad tlak palca o prst, chodidlá do zeme alebo 
 
 ## Pokračuj v čítaní
 
-- **NLP kotva pokoja: jednoduchá technika na upokojenie tela** (`/blog/nlp-kotva-pokoja`), dobré pokračovanie, ak chceš ísť hlbšie do práce s kotvou a reguláciou nervovej sústavy
-- **Metóda Vyhrávam: ako preprogramovať vnútorný dialóg** (`/blog/metoda-vyhravam`), prečítaj si, ak chceš spojiť telesnú reguláciu s jazykom, ktorý používaš pod tlakom
-- **Ako vytvoriť návyk, ktorý vydrží** (`/blog/ako-vytvorit-navyk`), užitočné, ak nechceš, aby technika ostala len dobrý nápad, ale stal sa z nej stabilný systém
+- [NLP kotva pokoja: jednoduchá technika na upokojenie tela](/blog/nlp-kotva-pokoja), dobré pokračovanie, ak chceš ísť hlbšie do práce s kotvou a reguláciou nervovej sústavy
+- [Metóda Vyhrávam: ako preprogramovať vnútorný dialóg](/blog/metoda-vyhravam), prečítaj si, ak chceš spojiť telesnú reguláciu s jazykom, ktorý používaš pod tlakom
+- [Ako vytvoriť návyk, ktorý vydrží](/blog/ako-vytvorit-navyk), užitočné, ak nechceš, aby technika ostala len dobrý nápad, ale stal sa z nej stabilný systém
 
 ## Ako pokračovať od dnes
 

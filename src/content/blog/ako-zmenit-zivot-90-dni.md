@@ -253,10 +253,10 @@ Nezačni výkonom. Začni reguláciou. Prvých 30 dní potrebuješ znížiť vn�
 
 ## Pokračuj v čítaní
 
-- **Ako vytvoriť návyk, ktorý vydrží** (`/blog/ako-vytvorit-navyk`), praktický rámec na budovanie návykov bez hry všetko alebo nič
-- **Ako sa zbaviť stresu za 30 dní** (`/blog/ako-sa-zbavit-stresu-za-30-dni`), detailný 30-dňový postup regulácie, ktorý tvorí prvú fázu tejto transformácie
-- **Vzorec úspechu** (`/blog/vzorec-uspechu`), ak chceš lepšie pochopiť, ako sa skladá výkon, konzistencia a dlhodobý progres
-- **Metóda VYHRÁVAM** (`/blog/metoda-vyhravam`), jednoduchý systém na smerovanie pozornosti, rozhodnutí a každodenných krokov
+- [Ako vytvoriť návyk, ktorý vydrží](/blog/ako-vytvorit-navyk), praktický rámec na budovanie návykov bez hry všetko alebo nič
+- [Ako sa zbaviť stresu za 30 dní](/blog/ako-sa-zbavit-stresu-za-30-dni), detailný 30-dňový postup regulácie, ktorý tvorí prvú fázu tejto transformácie
+- [Vzorec úspechu](/blog/vzorec-uspechu), ak chceš lepšie pochopiť, ako sa skladá výkon, konzistencia a dlhodobý progres
+- [Metóda VYHRÁVAM](/blog/metoda-vyhravam), jednoduchý systém na smerovanie pozornosti, rozhodnutí a každodenných krokov
 
 ## Ako pokračovať od dnes
 

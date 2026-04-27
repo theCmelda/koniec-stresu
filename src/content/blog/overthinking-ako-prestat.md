@@ -335,10 +335,10 @@ Záleží od toho, ako dlho je tvoj nervový systém preťažený a ako pravidel
 
 ## Pokračuj v čítaní
 
-- Ako zastaviť obavy za 60 sekúnd (`/blog/ako-zastavit-obavy-za-60-sekund`) : krátka prax, keď sa obavy rozbehnú a potrebuješ rýchly návrat do tela.
-- Ako rýchlo zaspať (`/blog/ako-rychlo-zaspat`) : praktický večerný postup, keď telo chce spať, ale hlava ešte rieši celý deň.
-- Meditácia pre začiatočníkov (`/blog/meditacia-pre-zaciatocnikov`) : dobrý štart, ak chceš meditovať bez tlaku na výkon a dokonalé sústredenie.
-- Fyziologický vzdych (`/blog/fyziologicky-vzdych`) : jednoduchá dychová technika, ktorú môžeš použiť pri strese, úzkosti aj overthinkingu.
+- [Ako zastaviť obavy za 60 sekúnd](/blog/ako-zastavit-obavy-za-60-sekund) : krátka prax, keď sa obavy rozbehnú a potrebuješ rýchly návrat do tela.
+- [Ako rýchlo zaspať](/blog/ako-rychlo-zaspat) : praktický večerný postup, keď telo chce spať, ale hlava ešte rieši celý deň.
+- [Meditácia pre začiatočníkov](/blog/meditacia-pre-zaciatocnikov) : dobrý štart, ak chceš meditovať bez tlaku na výkon a dokonalé sústredenie.
+- [Fyziologický vzdych](/blog/fyziologicky-vzdych) : jednoduchá dychová technika, ktorú môžeš použiť pri strese, úzkosti aj overthinkingu.
 
 ## Ako pokračovať od dnes
 

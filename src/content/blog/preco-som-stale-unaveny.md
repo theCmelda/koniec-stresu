@@ -191,9 +191,9 @@ Na začiatku stačia tri až päť dní. Potom raz za týždeň ako krátky chec
 
 ## Pokračuj v čítaní
 
-- **Čo pomáha pri nespavosti** (`/blog/nespavost-co-pomaha`), ak spíš dosť hodín, ale kvalita spánku je slabá, tu nájdeš praktický rámec na večerné vypnutie.
-- **Chronický stres: príznaky, ktoré netreba ignorovať** (`/blog/chronicky-stres-priznaky`), dobré pokračovanie, ak cítiš, že únava je len jedna časť väčšieho preťaženia.
-- **Kortizol: ako ho znížiť bez extrémov** (`/blog/kortizol-ako-znizit`), prečítať, ak chceš pochopiť rytmus kortizolu, rannú energiu a večerné vypínanie.
+- [Čo pomáha pri nespavosti](/blog/nespavost-co-pomaha), ak spíš dosť hodín, ale kvalita spánku je slabá, tu nájdeš praktický rámec na večerné vypnutie.
+- [Chronický stres: príznaky, ktoré netreba ignorovať](/blog/chronicky-stres-priznaky), dobré pokračovanie, ak cítiš, že únava je len jedna časť väčšieho preťaženia.
+- [Kortizol: ako ho znížiť bez extrémov](/blog/kortizol-ako-znizit), prečítať, ak chceš pochopiť rytmus kortizolu, rannú energiu a večerné vypínanie.
 
 ## Ako pokračovať od dnes
 

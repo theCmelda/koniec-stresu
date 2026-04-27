@@ -202,9 +202,9 @@ Záleží od intenzity, histórie a toho, ako často trénuješ. Pri miernejšej
 
 ## Pokračuj v čítaní
 
-- **Sociálna úzkosť: keď ťa vyčerpáva byť medzi ľuďmi** (`/blog/socialna-uzkost`), prečítaj si, ako úzkosť funguje v sociálnych situáciách a prečo nejde len o hanblivosť.
-- **Panická ataka: čo robiť, keď príde vlna strachu** (`/blog/panicka-ataka-co-robit`), praktický rámec na momenty, keď sa telo rozbehne a potrebuješ sa ukotviť.
-- **Úzkosť príznaky: čo sa deje v tele a kedy spozornieť** (`/blog/uzkost-priznaky`), dobré pokračovanie, ak chceš lepšie rozumieť telesným signálom úzkosti.
+- [Sociálna úzkosť: keď ťa vyčerpáva byť medzi ľuďmi](/blog/socialna-uzkost), prečítaj si, ako úzkosť funguje v sociálnych situáciách a prečo nejde len o hanblivosť.
+- [Panická ataka: čo robiť, keď príde vlna strachu](/blog/panicka-ataka-co-robit), praktický rámec na momenty, keď sa telo rozbehne a potrebuješ sa ukotviť.
+- [Úzkosť príznaky: čo sa deje v tele a kedy spozornieť](/blog/uzkost-priznaky), dobré pokračovanie, ak chceš lepšie rozumieť telesným signálom úzkosti.
 
 ## Ako pokračovať od dnes
 

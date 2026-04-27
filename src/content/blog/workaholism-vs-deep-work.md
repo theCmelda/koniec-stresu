@@ -221,9 +221,9 @@ Zdravý deep work blok má jasný cieľ, jednu úlohu, vypnuté notifikácie a d
 
 ## Pokračuj v čítaní
 
-- **Deep work po slovensky: ako robiť sústredenú prácu bez chaosu** (`/blog/deep-work-slovensky`), prečítaj si, ako nastaviť focused bloky, ktoré majú reálny výstup, nie len pocit produktivity
-- **Syndróm vyhorenia: príznaky, ktoré netreba ignorovať** (`/blog/syndrom-vyhorenia-priznaky`), ak cítiš, že dlhodobý tlak už mení tvoje telo, spánok a náladu, toto ti pomôže pomenovať signály
-- **Ako pustiť kontrolu bez toho, aby si prestal byť zodpovedný** (`/blog/ako-pustit-kontrolu`), dobré pokračovanie, ak vieš, že tvoj výkon brzdí mikromanažment, strach a potreba mať všetko pod dohľadom
+- [Deep work po slovensky: ako robiť sústredenú prácu bez chaosu](/blog/deep-work-slovensky), prečítaj si, ako nastaviť focused bloky, ktoré majú reálny výstup, nie len pocit produktivity
+- [Syndróm vyhorenia: príznaky, ktoré netreba ignorovať](/blog/syndrom-vyhorenia-priznaky), ak cítiš, že dlhodobý tlak už mení tvoje telo, spánok a náladu, toto ti pomôže pomenovať signály
+- [Ako pustiť kontrolu bez toho, aby si prestal byť zodpovedný](/blog/ako-pustit-kontrolu), dobré pokračovanie, ak vieš, že tvoj výkon brzdí mikromanažment, strach a potreba mať všetko pod dohľadom
 
 ## Ako pokračovať od dnes
 

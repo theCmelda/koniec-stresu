@@ -193,9 +193,9 @@ Použi hranicu. Napríklad: na malé rozhodnutia mám 2 minúty, na stredné 20 
 
 ## Pokračuj v čítaní
 
-- **Prečo som stále unavený?** (`/blog/preco-som-stale-unaveny`), dobré pokračovanie, ak chceš pochopiť rozdiel medzi fyzickou únavou, mentálnym preťažením a stavom nervovej sústavy
-- **Ranný rituál pre mentálnu jasnosť** (`/blog/ranny-rital-mentalna-jasnost`), praktický rámec, ako nastaviť prvé minúty dňa tak, aby si nemíňal kapacitu hneď po zobudení
-- **Deep work po slovensky** (`/blog/deep-work-slovensky`), ak chceš znížiť prepínanie kontextu a vytvoriť bloky práce, kde sa rozhoduješ menej a tvoríš viac
+- [Prečo som stále unavený?](/blog/preco-som-stale-unaveny), dobré pokračovanie, ak chceš pochopiť rozdiel medzi fyzickou únavou, mentálnym preťažením a stavom nervovej sústavy
+- [Ranný rituál pre mentálnu jasnosť](/blog/ranny-rital-mentalna-jasnost), praktický rámec, ako nastaviť prvé minúty dňa tak, aby si nemíňal kapacitu hneď po zobudení
+- [Deep work po slovensky](/blog/deep-work-slovensky), ak chceš znížiť prepínanie kontextu a vytvoriť bloky práce, kde sa rozhoduješ menej a tvoríš viac
 
 ## Ako pokračovať od dnes
 

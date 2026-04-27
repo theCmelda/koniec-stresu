@@ -184,9 +184,9 @@ Začni stabilným časom vstávania, ranným svetlom a večerným znížením st
 
 ## Pokračuj v čítaní
 
-- **Spánková hygiena: čo má najväčšiu prioritu** (`/blog/spankova-hygiena-priority`), ak chceš vedieť, ktoré návyky majú najväčší dopad a čo je len šum.
-- **REM cyklus: čo sa deje v spánku** (`/blog/rem-cyklus`), dobrý základ, ak chceš pochopiť, prečo spánok nie je len vypnutie mozgu.
-- **Prečo som stále unavený** (`/blog/preco-som-stale-unaveny`), praktický audit únavy, keď spíš dosť hodín, ale výkon aj tak padá.
+- [Spánková hygiena: čo má najväčšiu prioritu](/blog/spankova-hygiena-priority), ak chceš vedieť, ktoré návyky majú najväčší dopad a čo je len šum.
+- [REM cyklus: čo sa deje v spánku](/blog/rem-cyklus), dobrý základ, ak chceš pochopiť, prečo spánok nie je len vypnutie mozgu.
+- [Prečo som stále unavený](/blog/preco-som-stale-unaveny), praktický audit únavy, keď spíš dosť hodín, ale výkon aj tak padá.
 
 ## Ako pokračovať od dnes
 
