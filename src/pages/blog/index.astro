@@ -1,0 +1,141 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+
+const categories = [...new Set(allPosts.map((p) => p.data.category))];
+---
+
+<BaseLayout
+  title="Všetky články | Koniec Stresu"
+  description="Praktické články o regulácii nervovej sústavy, spánku, úzkosti a meditácii. Bez moralizovania, len techniky, ktoré reálne fungujú."
+>
+  <header class="page-header">
+    <div class="container container-narrow">
+      <span class="page-tag">Blog</span>
+      <h1>Všetky <em>články</em></h1>
+      <p class="lead">
+        Praktické techniky proti stresu, úzkosti a nespavosti. Nové články pridávam pravidelne.
+      </p>
+      {categories.length > 1 && (
+        <div class="filters">
+          <span class="filter active">Všetky</span>
+          {categories.map((cat) => <span class="filter">{cat}</span>)}
+        </div>
+      )}
+    </div>
+  </header>
+
+  <section class="grid-section">
+    <div class="container">
+      <div class="grid">
+        {allPosts.map((post) => (
+          <ArticleCard
+            href={`/blog/${post.id.replace(/\.md$/, '')}`}
+            title={post.data.title}
+            description={post.data.description}
+            category={post.data.category}
+            publishDate={post.data.publishDate}
+            readingTime={post.data.readingTime}
+            videoId={post.data.videoId}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page-header {
+    padding: 96px 24px 48px;
+    text-align: center;
+  }
+
+  .page-tag {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--terracotta-deep);
+    margin-bottom: 16px;
+  }
+
+  .page-header h1 {
+    font-family: var(--display);
+    font-size: clamp(48px, 7vw, 84px);
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    margin-bottom: 20px;
+  }
+
+  .page-header h1 em {
+    font-style: italic;
+    color: var(--terracotta);
+  }
+
+  .lead {
+    font-size: 19px;
+    color: var(--soft);
+    max-width: 580px;
+    margin: 0 auto;
+    line-height: 1.55;
+  }
+
+  .filters {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 32px;
+  }
+
+  .filter {
+    padding: 8px 18px;
+    border-radius: 999px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    font-size: 13px;
+    color: var(--soft);
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .filter:hover {
+    border-color: var(--terracotta);
+    color: var(--terracotta-deep);
+  }
+
+  .filter.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  .grid-section {
+    padding: 48px 24px 96px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  @media (max-width: 980px) {
+    .grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 600px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

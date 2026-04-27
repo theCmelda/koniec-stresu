@@ -1,0 +1,326 @@
+/* Apricot Wellness — Koniec Stresu global styles */
+
+:root {
+  /* Color palette */
+  --bg: #fef6ee;
+  --paper: #fffaf3;
+  --cream: #f9efe1;
+  --peach: #fdd8b8;
+  --terracotta: #d97757;
+  --terracotta-deep: #b85a3e;
+  --rose: #e9b29c;
+  --olive: #7a8a5c;
+  --olive-soft: #c4cbb3;
+  --ink: #2e221a;
+  --ink-2: #473628;
+  --soft: #7d6e60;
+  --muted: #a3917f;
+  --rule: #ead7c1;
+  --rule-soft: #f0dfc6;
+
+  /* Typography */
+  --display: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+
+  /* Layout */
+  --content-width: 720px;
+  --max-width: 1180px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--sans);
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.65;
+  font-size: 17px;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Background blobs (decorative) */
+body::before {
+  content: '';
+  position: fixed;
+  width: 520px;
+  height: 520px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--peach), transparent 70%);
+  opacity: 0.5;
+  filter: blur(60px);
+  top: -100px;
+  right: -100px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--rose), transparent 70%);
+  opacity: 0.3;
+  filter: blur(80px);
+  bottom: -200px;
+  left: -200px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+a {
+  color: inherit;
+}
+
+::selection {
+  background: var(--peach);
+  color: var(--ink);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ===== Typography defaults ===== */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--display);
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  line-height: 1.15;
+}
+
+h1 em,
+h2 em,
+h3 em {
+  font-style: italic;
+  color: var(--terracotta);
+  font-weight: 400;
+}
+
+p {
+  margin: 0;
+}
+
+/* ===== Article prose styles ===== */
+
+.prose {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 1.78;
+  color: var(--ink-2);
+}
+
+.prose > p {
+  margin: 0 0 22px;
+}
+
+.prose > p:first-of-type {
+  font-size: 21px;
+  color: var(--ink);
+  margin-bottom: 28px;
+}
+
+.prose h2 {
+  font-family: var(--display);
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  margin: 56px 0 20px;
+  color: var(--ink);
+}
+
+.prose h2 em {
+  font-style: italic;
+  color: var(--terracotta);
+}
+
+.prose h3 {
+  font-family: var(--display);
+  font-size: 24px;
+  font-weight: 600;
+  margin: 36px 0 14px;
+  color: var(--terracotta-deep);
+}
+
+.prose ul,
+.prose ol {
+  margin: 0 0 24px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.prose ul li,
+.prose ol li {
+  padding-left: 32px;
+  margin-bottom: 12px;
+  position: relative;
+  color: var(--ink-2);
+}
+
+.prose ul li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--peach);
+  border: 2px solid var(--terracotta);
+}
+
+.prose ol {
+  counter-reset: n;
+}
+
+.prose ol li {
+  counter-increment: n;
+}
+
+.prose ol li::before {
+  content: counter(n);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--terracotta);
+  color: var(--paper);
+  display: grid;
+  place-items: center;
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.prose strong {
+  color: var(--terracotta-deep);
+  font-weight: 600;
+}
+
+.prose em {
+  font-style: italic;
+}
+
+.prose blockquote {
+  font-family: var(--display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.3;
+  color: var(--ink);
+  text-align: center;
+  padding: 40px 0;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  margin: 48px 0;
+}
+
+.prose blockquote::before {
+  content: '"';
+  color: var(--terracotta);
+  font-size: 64px;
+  display: block;
+  line-height: 0.5;
+  margin-bottom: 12px;
+}
+
+.prose blockquote p {
+  margin: 0;
+}
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 48px 0;
+}
+
+.prose a {
+  color: var(--terracotta-deep);
+  text-decoration: underline;
+  text-decoration-color: var(--peach);
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  transition: text-decoration-color 0.2s;
+}
+
+.prose a:hover {
+  text-decoration-color: var(--terracotta);
+}
+
+.prose code {
+  background: var(--cream);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: var(--terracotta-deep);
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+.prose pre {
+  background: var(--cream);
+  padding: 16px 20px;
+  border-radius: 12px;
+  overflow-x: auto;
+  margin: 24px 0;
+  border: 1px solid var(--rule);
+}
+
+.prose pre code {
+  background: transparent;
+  padding: 0;
+  color: var(--ink);
+}
+
+/* Container helpers */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.container-narrow {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Skip link for accessibility */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 16px;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 10px 18px;
+  border-radius: 8px;
+  z-index: 200;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: top 0.2s;
+}
+
+.skip-link:focus {
+  top: 16px;
+}

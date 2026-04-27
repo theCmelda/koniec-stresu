@@ -1,0 +1,171 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import VideoEmbed from '../components/VideoEmbed.astro';
+import CTASection from '../components/CTASection.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+}
+
+const { entry } = Astro.props;
+const data = entry.data;
+
+const formattedDate = new Intl.DateTimeFormat('sk-SK', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+}).format(data.publishDate);
+
+const initials = data.author
+  .split(' ')
+  .map((s) => s[0])
+  .join('')
+  .toUpperCase();
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: data.title,
+  description: data.description,
+  author: { '@type': 'Person', name: data.author },
+  datePublished: data.publishDate.toISOString(),
+  ...(data.updatedDate && { dateModified: data.updatedDate.toISOString() }),
+  publisher: {
+    '@type': 'Organization',
+    name: 'Koniec Stresu',
+    logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', Astro.site).toString() },
+  },
+};
+---
+
+<BaseLayout
+  title={`${data.title} | Koniec Stresu`}
+  description={data.description}
+  type="article"
+  publishDate={data.publishDate}
+  author={data.author}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+  </Fragment>
+
+  <header class="hero">
+    <span class="breadcrumb">{data.category}</span>
+    <h1 class="title">{data.title}</h1>
+    <p class="deck">{data.description}</p>
+    <div class="meta">
+      <span class="author-avatar">{initials}</span>
+      <strong>{data.author}</strong>
+      <span class="meta-sep">·</span>
+      <time datetime={data.publishDate.toISOString()}>{formattedDate}</time>
+      {data.readingTime && <span class="meta-sep">·</span>}
+      {data.readingTime && <span>{data.readingTime} min</span>}
+    </div>
+  </header>
+
+  {data.videoId && (
+    <VideoEmbed
+      videoId={data.videoId}
+      title={data.videoTitle ?? data.title}
+    />
+  )}
+
+  <article class="prose article">
+    <slot />
+  </article>
+
+  <CTASection
+    title={data.leadMagnet?.title ?? 'Tvoje telo nepotrebuje dokonalosť. Potrebuje <em>opakovanie.</em>'}
+    description={data.leadMagnet?.description ?? 'Stiahni si 30-dňový PDF plán Koniec Stresu.'}
+    buttonText={data.leadMagnet?.buttonText ?? 'Získať plán'}
+    badge="Plán zadarmo"
+  />
+
+  <style>
+    .hero {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 80px 24px 32px;
+      text-align: center;
+    }
+
+    .breadcrumb {
+      display: inline-block;
+      background: var(--paper);
+      padding: 7px 16px;
+      border-radius: 999px;
+      font-size: 13px;
+      color: var(--terracotta-deep);
+      border: 1px solid var(--rule);
+      margin-bottom: 32px;
+      font-weight: 500;
+    }
+
+    .title {
+      font-family: var(--display);
+      font-size: clamp(36px, 5.5vw, 56px);
+      line-height: 1.08;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      margin-bottom: 24px;
+      color: var(--ink);
+    }
+
+    .deck {
+      font-size: 21px;
+      color: var(--soft);
+      max-width: 600px;
+      margin: 0 auto 36px;
+      line-height: 1.5;
+    }
+
+    .meta {
+      display: inline-flex;
+      align-items: center;
+      gap: 14px;
+      background: var(--paper);
+      padding: 10px 18px 10px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--rule);
+      font-size: 14px;
+      color: var(--soft);
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .author-avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--terracotta), var(--rose));
+      display: grid;
+      place-items: center;
+      color: white;
+      font-weight: 700;
+      font-size: 12px;
+    }
+
+    .meta strong {
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .meta-sep {
+      color: var(--rule);
+    }
+
+    .article {
+      padding: 64px 24px;
+    }
+
+    @media (max-width: 600px) {
+      .hero {
+        padding: 48px 24px 24px;
+      }
+      .article {
+        padding: 48px 24px;
+      }
+    }
+  </style>
+</BaseLayout>

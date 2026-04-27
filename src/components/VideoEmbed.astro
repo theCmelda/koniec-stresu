@@ -1,0 +1,67 @@
+---
+interface Props {
+  videoId: string;
+  title?: string;
+  duration?: string;
+}
+
+const { videoId, title = 'Video', duration } = Astro.props;
+---
+
+<div class="video-wrap">
+  <div class="video-frame">
+    {duration && <span class="video-tag">Video · {duration}</span>}
+    <iframe
+      src={`https://www.youtube.com/embed/${videoId}`}
+      title={title}
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      loading="lazy"
+    ></iframe>
+  </div>
+</div>
+
+<style>
+  .video-wrap {
+    max-width: 920px;
+    margin: 48px auto 0;
+    padding: 0 24px;
+    position: relative;
+  }
+
+  .video-frame {
+    aspect-ratio: 16 / 9;
+    border-radius: 28px;
+    overflow: hidden;
+    background: #000;
+    border: 8px solid var(--paper);
+    box-shadow:
+      0 30px 60px -20px rgba(217, 119, 87, 0.3),
+      0 0 0 1px var(--rule);
+    position: relative;
+  }
+
+  .video-frame iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+
+  .video-tag {
+    position: absolute;
+    top: -12px;
+    left: 32px;
+    background: var(--terracotta);
+    color: var(--paper);
+    padding: 8px 18px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    box-shadow: 0 8px 16px -4px rgba(217, 119, 87, 0.4);
+    z-index: 2;
+  }
+</style>

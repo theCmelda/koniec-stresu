@@ -1,0 +1,156 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="/" class="brand">
+          <span class="brand-mark"></span>
+          <span>Koniec Stresu</span>
+        </a>
+        <p class="tagline">
+          Pomáham ti vrátiť pokoj nervovej sústave. Praktické techniky bez moralizovania.
+        </p>
+      </div>
+      <div class="footer-cols">
+        <div class="footer-col">
+          <h4>Obsah</h4>
+          <a href="/blog">Všetky články</a>
+          <a href="/#meditacie">Meditácie</a>
+          <a href="/#kurz">Kurz 30 dní</a>
+        </div>
+        <div class="footer-col">
+          <h4>O mne</h4>
+          <a href="/#o-mne">Kto som</a>
+          <a href="/#kontakt">Kontakt</a>
+          <a href="/#newsletter">Newsletter</a>
+        </div>
+        <div class="footer-col">
+          <h4>Právne</h4>
+          <a href="/ochrana-osobnych-udajov">Ochrana osobných údajov</a>
+          <a href="/obchodne-podmienky">Obchodné podmienky</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {year} Daniel Jedlička. Všetky práva vyhradené.</p>
+      <p class="footer-note">
+        Obsah na tejto stránke neslúži ako náhrada odbornej zdravotnej starostlivosti.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--paper);
+    border-top: 1px solid var(--rule);
+    margin-top: 96px;
+  }
+
+  .footer-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 64px 24px 32px;
+  }
+
+  .footer-top {
+    display: grid;
+    grid-template-columns: 1.4fr 2fr;
+    gap: 48px;
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .footer-brand .brand {
+    font-family: var(--display);
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--ink);
+    margin-bottom: 14px;
+  }
+
+  .brand-mark {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--terracotta), var(--peach));
+  }
+
+  .tagline {
+    font-size: 15px;
+    color: var(--soft);
+    line-height: 1.55;
+    max-width: 380px;
+  }
+
+  .footer-cols {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .footer-col h4 {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--terracotta-deep);
+    margin-bottom: 16px;
+  }
+
+  .footer-col a {
+    display: block;
+    font-size: 14px;
+    color: var(--soft);
+    text-decoration: none;
+    padding: 6px 0;
+    transition: color 0.2s;
+  }
+
+  .footer-col a:hover {
+    color: var(--terracotta-deep);
+  }
+
+  .footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  .footer-note {
+    font-style: italic;
+    max-width: 480px;
+    text-align: right;
+  }
+
+  @media (max-width: 760px) {
+    .footer-top {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+    .footer-cols {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-bottom {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .footer-note {
+      text-align: left;
+    }
+  }
+</style>

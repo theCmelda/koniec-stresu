@@ -1,0 +1,19 @@
+{
+  "name": "koniec-stresu-blog",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Koniec Stresu — Slovak wellness blog by Daniel Jedlicka",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.10",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.0.0"
+  }
+}
