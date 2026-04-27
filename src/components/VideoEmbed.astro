@@ -1,4 +1,20 @@
 ---
+/**
+ * Lite YouTube embed.
+ *
+ * - Shows a high-quality thumbnail (maxresdefault.jpg with hqdefault fallback)
+ *   + an apricot-styled play button. No iframe loaded until the user clicks.
+ * - On click, swaps in an iframe pointed at youtube-nocookie.com with privacy +
+ *   minimum-branding params: rel=0, modestbranding=1, iv_load_policy=3.
+ * - "Watch on YouTube" overlay, end-screen related videos, and the YouTube logo
+ *   bar are suppressed as much as YouTube allows. The user can still open the
+ *   video on YouTube via the title link below the player.
+ *
+ * Props:
+ *   videoId   — YouTube video ID (required)
+ *   title     — accessible title for the video (required)
+ *   duration  — optional badge label, e.g. "3 min"
+ */
 interface Props {
   videoId: string;
   title?: string;
@@ -6,31 +22,111 @@ interface Props {
 }
 
 const { videoId, title = 'Video', duration } = Astro.props;
+const watchUrl = `https://www.youtube.com/watch?v=${videoId}`;
+const thumbHi = `https://i.ytimg.com/vi_webp/${videoId}/maxresdefault.webp`;
+const thumbHiJpg = `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`;
+const thumbMid = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
 ---
 
-<div class="video-wrap">
-  <div class="video-frame">
-    {duration && <span class="video-tag">Video · {duration}</span>}
-    <iframe
-      src={`https://www.youtube.com/embed/${videoId}`}
-      title={title}
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-      loading="lazy"
-    ></iframe>
+<figure class="video-wrap">
+  <div
+    class="lite-yt"
+    data-video-id={videoId}
+    data-title={title}
+    role="button"
+    tabindex="0"
+    aria-label={`Spustiť video: ${title}`}
+  >
+    <picture>
+      <source type="image/webp" srcset={thumbHi} />
+      <img
+        class="lite-yt-thumb"
+        src={thumbHiJpg}
+        alt={title}
+        loading="lazy"
+        decoding="async"
+        onerror={`this.onerror=null;this.src='${thumbMid}';`}
+      />
+    </picture>
+    <button class="lite-yt-play" type="button" aria-label="Prehrať video">
+      <svg viewBox="0 0 68 48" aria-hidden="true">
+        <path d="M66.5 7.7c-.8-2.9-3-5.2-5.9-6C55.4.2 34 0 34 0S12.6.2 7.4 1.7C4.5 2.5 2.3 4.8 1.5 7.7 0 13 0 24 0 24s0 11 1.5 16.3c.8 2.9 3 5.2 5.9 6C12.6 47.8 34 48 34 48s21.4-.2 26.6-1.7c2.9-.8 5.1-3.1 5.9-6C68 35 68 24 68 24s0-11-1.5-16.3z" fill="currentColor"/>
+        <path d="M27 34l18-10-18-10v20z" fill="#fffaf3"/>
+      </svg>
+    </button>
+    {duration && <span class="lite-yt-duration">{duration}</span>}
   </div>
-</div>
+  <figcaption class="video-caption">
+    <a href={watchUrl} target="_blank" rel="noopener" class="video-title-link">
+      {title}
+    </a>
+    <a href={watchUrl} target="_blank" rel="noopener" class="video-on-yt">
+      Otvoriť na YouTube ↗
+    </a>
+  </figcaption>
+</figure>
+
+<script>
+  // Build the privacy-mode iframe URL when the placeholder is activated
+  const params =
+    'autoplay=1&rel=0&modestbranding=1&playsinline=1&iv_load_policy=3&cc_load_policy=0&fs=1';
+
+  function activate(el: HTMLElement) {
+    if (el.dataset.activated === 'true') return;
+    const id = el.dataset.videoId;
+    if (!id) return;
+    const title = el.dataset.title ?? 'Video';
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${params}`;
+    iframe.title = title;
+    iframe.setAttribute(
+      'allow',
+      'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+    );
+    iframe.setAttribute('allowfullscreen', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('loading', 'eager');
+    el.replaceChildren(iframe);
+    el.dataset.activated = 'true';
+    el.classList.add('activated');
+  }
+
+  document.querySelectorAll<HTMLElement>('.lite-yt').forEach((el) => {
+    el.addEventListener('click', () => activate(el));
+    el.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        activate(el);
+      }
+    });
+    // Pre-warm DNS / TCP on hover for snappier playback
+    el.addEventListener(
+      'pointerenter',
+      () => {
+        if (document.querySelector('link[data-yt-prewarm]')) return;
+        ['https://www.youtube-nocookie.com', 'https://i.ytimg.com', 'https://s.ytimg.com'].forEach(
+          (origin) => {
+            const link = document.createElement('link');
+            link.rel = 'preconnect';
+            link.href = origin;
+            link.setAttribute('data-yt-prewarm', 'true');
+            document.head.appendChild(link);
+          }
+        );
+      },
+      { once: true }
+    );
+  });
+</script>
 
 <style>
   .video-wrap {
     max-width: 920px;
     margin: 48px auto 0;
     padding: 0 24px;
-    position: relative;
   }
 
-  .video-frame {
+  .lite-yt {
     aspect-ratio: 16 / 9;
     border-radius: 28px;
     overflow: hidden;
@@ -40,28 +136,144 @@ const { videoId, title = 'Video', duration } = Astro.props;
       0 30px 60px -20px rgba(217, 119, 87, 0.3),
       0 0 0 1px var(--rule);
     position: relative;
+    cursor: pointer;
+    isolation: isolate;
+  }
+  .lite-yt::after {
+    /* Subtle vignette so the play button stays readable on bright thumbnails */
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      circle at center,
+      rgba(0, 0, 0, 0) 30%,
+      rgba(0, 0, 0, 0.18) 80%
+    );
+    pointer-events: none;
+    transition: opacity 0.2s;
+    z-index: 1;
+  }
+  .lite-yt:hover::after {
+    opacity: 0;
+  }
+  .lite-yt.activated {
+    cursor: default;
+  }
+  .lite-yt.activated::after {
+    display: none;
   }
 
-  .video-frame iframe {
+  .lite-yt-thumb {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .lite-yt iframe {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     border: 0;
     display: block;
   }
 
-  .video-tag {
+  .lite-yt-play {
     position: absolute;
-    top: -12px;
-    left: 32px;
-    background: var(--terracotta);
-    color: var(--paper);
-    padding: 8px 18px;
-    border-radius: 999px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 86px;
+    height: 60px;
+    border: 0;
+    background: transparent;
+    color: var(--terracotta);
+    cursor: pointer;
+    z-index: 2;
+    padding: 0;
+    transition: transform 0.2s, color 0.2s, filter 0.2s;
+    filter: drop-shadow(0 12px 32px rgba(46, 34, 26, 0.35));
+  }
+  .lite-yt:hover .lite-yt-play,
+  .lite-yt:focus .lite-yt-play {
+    transform: translate(-50%, -50%) scale(1.08);
+    color: var(--terracotta-deep);
+  }
+  .lite-yt-play svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  .lite-yt-duration {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
     font-size: 12px;
     font-weight: 600;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    box-shadow: 0 8px 16px -4px rgba(217, 119, 87, 0.4);
+    letter-spacing: 0.04em;
+    padding: 5px 10px;
+    border-radius: 6px;
     z-index: 2;
+    pointer-events: none;
+    backdrop-filter: blur(4px);
+  }
+
+  .video-caption {
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .video-title-link {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 16px;
+    color: var(--soft);
+    text-decoration: none;
+    flex: 1;
+    min-width: 200px;
+  }
+  .video-title-link:hover {
+    color: var(--terracotta-deep);
+  }
+  .video-on-yt {
+    font-size: 12px;
+    color: var(--muted);
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 6px 10px;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    background: var(--paper);
+    transition: all 0.15s;
+    flex-shrink: 0;
+  }
+  .video-on-yt:hover {
+    color: var(--terracotta-deep);
+    border-color: var(--terracotta);
+  }
+
+  @media (max-width: 600px) {
+    .video-wrap {
+      padding: 0 16px;
+    }
+    .lite-yt {
+      border-width: 6px;
+      border-radius: 22px;
+    }
+    .lite-yt-play {
+      width: 64px;
+      height: 44px;
+    }
   }
 </style>
