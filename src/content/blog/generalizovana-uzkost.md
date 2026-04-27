@@ -4,9 +4,7 @@ description: "generalizovaná úzkostná porucha: praktický návod krok za krok
 publishDate: 2026-06-07
 category: Úzkosť
 readingTime: 12
-videoId: wNSp4640h6w
-videoTitle: "7-minútová meditácia proti úzkosti (4 techniky)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["generalizovaná úzkostná porucha", "GAD úzkosť", "neustále sa o niečo strachujem", "nadmerné obavy"]
 transformation: schopnosť odlíšiť normálnu opatrnosť od chronickej úzkosti

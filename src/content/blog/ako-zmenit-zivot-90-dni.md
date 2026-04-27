@@ -4,9 +4,7 @@ description: "ako zmeniť svoj život: praktický návod krok za krokom. Konkré
 publishDate: 2026-06-28
 category: Transformácia
 readingTime: 12
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako zmeniť svoj život", "životná zmena", "transformácia za 90 dní", "ako začať od začiatku"]
 transformation: 90 dní, ktoré nezačnú a neskončia v rovnakom mieste

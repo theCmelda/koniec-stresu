@@ -4,9 +4,7 @@ description: "decision fatigue: praktický návod krok za krokom. Konkrétne tec
 publishDate: 2026-06-17
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: 3T6MJL-wiFY
-videoTitle: "2-minútová technika pre okamžitý kľud (vedená nahrávka)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["decision fatigue", "únava z rozhodovania", "ako sa rozhodovať lepšie", "kognitívne preťaženie"]
 transformation: lepšie rozhodnutia s menej únavy

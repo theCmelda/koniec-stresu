@@ -4,9 +4,7 @@ description: "dýchanie 4-7-8: praktický návod krok za krokom. Konkrétne tech
 publishDate: 2026-05-04
 category: Stres
 readingTime: 11
-videoId: JhUyvFqeIc8
-videoTitle: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
-videoPlacement: middle
+videoPlacement: remove
 featured: false
 keywords: ["dýchanie 4-7-8", "technika 4-7-8", "dýchanie na upokojenie", "Andrew Weil dýchanie"]
 transformation: 'okamžitý pokoj cez dych'

@@ -4,7 +4,7 @@ description: "polyfázický spánok: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-05-30
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoPlacement: top
 featured: false
 keywords: ["polyfázický spánok", "polyphasic sleep slovensky", "spánok 4 hodiny denne", "Uberman cyklus"]
 transformation: spánok ako leverage, nie ako čas, čo treba ušetriť

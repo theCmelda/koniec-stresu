@@ -4,9 +4,7 @@ description: "spánok s partnerom: praktický návod krok za krokom. Konkrétne 
 publishDate: 2026-05-31
 category: Spánok
 readingTime: 12
-videoId: D8by4mvItxU
-videoTitle: "Relaxačná nahrávka na spánok: zaspi do 10 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["spánok s partnerom", "partner chrápe ako spať", "rušený spánok partner", "spať vedľa niekoho"]
 transformation: ticho a pokoj v spálni, aj keď nie ste sami

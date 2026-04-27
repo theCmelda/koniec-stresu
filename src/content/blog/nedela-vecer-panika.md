@@ -4,9 +4,7 @@ description: "nedeľa večer panika: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-05-18
 category: Stres
 readingTime: 12
-videoId: VoKR6HnQyxQ
-videoTitle: "Týždňová reflexia: 5 otázok pre osobný rast"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["nedeľa večer panika", "nedeľná úzkosť", "Sunday scaries", "ako sa pripraviť na pondelok"]
 transformation: nedeľný večer ako prechod, nie ako predtuchu

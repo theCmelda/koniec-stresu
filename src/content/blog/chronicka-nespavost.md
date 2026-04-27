@@ -4,9 +4,7 @@ description: "chronická nespavosť: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-05-28
 category: Spánok
 readingTime: 12
-videoId: D8by4mvItxU
-videoTitle: "Chronická nespavosť: kedy už nie je len stres a potrebuješ pomoc"
-videoPlacement: bottom
+videoPlacement: remove
 featured: false
 keywords: ["chronická nespavosť", "chronická insomnia", "nespavosť dlhodobo", "kedy ísť k lekárovi nespavosť"]
 transformation: návrat dôvery, že vieš zaspať

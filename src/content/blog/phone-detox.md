@@ -4,9 +4,7 @@ description: "phone detox: praktický návod krok za krokom. Konkrétne techniky
 publishDate: 2026-06-23
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: r1spuextOOs
-videoTitle: "Havening: 2-minútová metóda proti úzkosti (skús teraz)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["phone detox", "digital detox", "ako sa zbaviť závislosti od telefónu", "závislosť od mobilu"]
 transformation: vzťah s telefónom, ktorý slúži tebe a nie naopak

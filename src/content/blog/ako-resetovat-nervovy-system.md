@@ -4,9 +4,7 @@ description: "ako resetovať nervový systém: praktický návod krok za krokom.
 publishDate: 2026-05-22
 category: Stres
 readingTime: 12
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako resetovať nervový systém", "nervový systém reset", "regenerácia za víkend", "ako sa zregenerovať"]
 transformation: víkend, po ktorom sa cítiš naozaj oddýchnutý

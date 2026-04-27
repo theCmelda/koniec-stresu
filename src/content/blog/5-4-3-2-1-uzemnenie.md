@@ -4,7 +4,7 @@ description: "uzemnenie 5-4-3-2-1: praktický návod krok za krokom. Konkrétne 
 publishDate: 2026-06-12
 category: Úzkosť
 readingTime: 12
-videoPlacement: remove
+videoPlacement: top
 featured: false
 keywords: ["uzemnenie 5-4-3-2-1", "grounding technika", "uzemnenie pri úzkosti", "5-4-3-2-1 metóda"]
 transformation: praktická technika späť do prítomnosti

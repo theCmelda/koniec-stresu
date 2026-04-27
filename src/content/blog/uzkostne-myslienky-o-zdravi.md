@@ -4,9 +4,7 @@ description: "úzkostné myšlienky o zdraví: praktický návod krok za krokom.
 publishDate: 2026-06-09
 category: Úzkosť
 readingTime: 12
-videoId: JhUyvFqeIc8
-videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["úzkostné myšlienky o zdraví", "hypochondria", "zdravotná úzkosť", "googlim symptómy bojím sa"]
 transformation: pokoj o tvoje telo bez kontrolovania každého pocitu

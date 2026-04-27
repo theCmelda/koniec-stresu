@@ -4,9 +4,7 @@ description: "ako sa upokojiť rýchlo: praktický návod krok za krokom. Konkr�
 publishDate: 2026-05-15
 category: Stres
 readingTime: 12
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako sa upokojiť rýchlo", "ako sa upokojiť za 60 sekúnd", "rýchle upokojenie pri strese", "ako sa upokojiť pred prezentáciou"]
 transformation: upokojenie na povel, kedykoľvek to potrebuješ

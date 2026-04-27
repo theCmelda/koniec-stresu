@@ -4,9 +4,7 @@ description: "ako si vytvoriť návyk: praktický návod krok za krokom. Konkré
 publishDate: 2026-06-27
 category: Transformácia
 readingTime: 12
-videoId: zVR7irv4OCg
-videoTitle: "Ako si garantovať úspech (a čo ti ho zabije)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako si vytvoriť návyk", "návyk 21 dní", "atomic habits slovensky", "ako udržať návyk"]
 transformation: návyky, ktoré ti vydržia bez sily vôle

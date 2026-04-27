@@ -4,9 +4,7 @@ description: "ako znížiť kortizol: praktický návod krok za krokom. Konkrét
 publishDate: 2026-05-13
 category: Stres
 readingTime: 12
-videoId: JhUyvFqeIc8
-videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako znížiť kortizol", "kortizol vysoký príznaky", "ako znížiť kortizol prirodzene", "stres a kortizol"]
 transformation: rovnovážny kortizol, ktorý ťa nebude vyrážať z formy

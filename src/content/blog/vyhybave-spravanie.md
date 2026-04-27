@@ -4,9 +4,7 @@ description: "vyhýbavé správanie: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-10
 category: Úzkosť
 readingTime: 12
-videoId: r1spuextOOs
-videoTitle: "Havening: 2-minútová metóda proti úzkosti (skús teraz)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["vyhýbavé správanie", "úzkosť vyhýbam sa", "vyhýbam sa veciam ktoré ma stresujú", "prokrastinácia z úzkosti"]
 transformation: návrat k veciam, ktorým si sa kvôli úzkosti vyhýbal

@@ -4,9 +4,7 @@ description: "ako nájsť zmysel: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-12
 category: Mentálna výkonnosť
 readingTime: 11
-videoId: 0SVZjfkj5ZE
-videoTitle: "Objav svoj SKUTOČNÝ dôvod (prečo všetko vzdávaš)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako nájsť zmysel", "zmysel života", "ako nájsť svoje poslanie", "ikigai slovensky"]
 transformation: 'zmysel, za ktorým si vieš stáť'

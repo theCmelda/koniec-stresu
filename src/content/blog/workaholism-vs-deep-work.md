@@ -4,9 +4,7 @@ description: "workaholism: praktický návod krok za krokom. Konkrétne techniky
 publishDate: 2026-06-24
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: y1RH0WbogA0
-videoTitle: "Čo ti hovorí tvoja bolesť (energetický audit tela)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["workaholism", "workaholic", "závislosť od práce", "kedy pracovať veľa nie je odpoveď"]
 transformation: menej hodín, viac hlbokého výsledku

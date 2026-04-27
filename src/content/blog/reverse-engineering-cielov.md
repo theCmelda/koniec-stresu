@@ -4,9 +4,7 @@ description: "ako dosiahnuť ciele: praktický návod krok za krokom. Konkrétne
 publishDate: 2026-06-25
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: VoKR6HnQyxQ
-videoTitle: "Týždňová reflexia: 5 otázok pre osobný rast"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako dosiahnuť ciele", "reverse engineering cieľov", "goal setting", "ako si nastaviť ciele"]
 transformation: ciele, ktoré si vieš dotiahnuť bez šťastia

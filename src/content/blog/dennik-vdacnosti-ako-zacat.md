@@ -4,9 +4,7 @@ description: "denník vďačnosti ako začať: praktický návod krok za krokom.
 publishDate: 2026-05-05
 category: Transformácia
 readingTime: 11
-videoId: dwHTTKnuGK8
-videoTitle: "Denník vďačnosti: ako ho začať tak, aby ti to vydržalo"
-videoPlacement: middle
+videoPlacement: remove
 featured: false
 keywords: ["denník vďačnosti ako začať", "denník vďačnosti", "vďačnosť cvičenie", "ranný rituál vďačnosti"]
 transformation: 'trvalú prácu s vďačnosťou bez výhovoriek'

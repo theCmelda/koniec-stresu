@@ -4,9 +4,7 @@ description: "multitasking: praktický návod krok za krokom. Konkrétne technik
 publishDate: 2026-06-19
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["multitasking", "multitasking lie", "prečo je multitasking zlý", "single-tasking"]
 transformation: návrat k single-taskingu a 3× vyššej produktivite

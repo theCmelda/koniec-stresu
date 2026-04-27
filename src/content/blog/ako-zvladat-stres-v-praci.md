@@ -4,9 +4,7 @@ description: "ako zvládať stres v práci: praktický návod krok za krokom. Ko
 publishDate: 2026-04-28
 category: Stres
 readingTime: 11
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako zvládať stres v práci", "pracovný stres", "stres v zamestnaní", "ako zvládať pracovné napätie"]
 transformation: 'energiu, ktorá vydrží do piatka'

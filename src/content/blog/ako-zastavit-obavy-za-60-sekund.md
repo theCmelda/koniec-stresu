@@ -4,9 +4,7 @@ description: Ako zastaviť obavy za 60 sekúnd pomocou KBT, uzemnenia 5-4-3-2-1 
 publishDate: 2026-04-24
 category: Úzkosť
 readingTime: 8
-videoId: zg9woir17BE
-videoTitle: "Najrýchlejšia technika proti stresu (2 minúty stačia)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako zastaviť obavy", "ako sa zbaviť úzkosti", "úzkostné myšlienky", "obavy pred spaním"]
 transformation: 'koniec úzkostných myšlienok'

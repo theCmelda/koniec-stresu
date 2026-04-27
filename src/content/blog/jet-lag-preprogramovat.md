@@ -4,9 +4,7 @@ description: "jet lag: praktický návod krok za krokom. Konkrétne techniky, ve
 publishDate: 2026-05-29
 category: Spánok
 readingTime: 12
-videoId: D8by4mvItxU
-videoTitle: "Relaxačná nahrávka na spánok: zaspi do 10 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["jet lag", "jet lag ako prekonať", "smerový spánok", "letecký jet lag rýchlo"]
 transformation: rýchla adaptácia na novú časovú zónu

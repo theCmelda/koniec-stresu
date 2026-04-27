@@ -4,9 +4,7 @@ description: "existenciálna úzkosť: praktický návod krok za krokom. Konkré
 publishDate: 2026-06-14
 category: Úzkosť
 readingTime: 12
-videoId: yz-8T7YcYHc
-videoTitle: "Tajomstvo nezastaviteľnej motivácie (funguje ihneď)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["existenciálna úzkosť", "zmysel života úzkosť", "čo to celé znamená", "existencialná kríza"]
 transformation: ukotvenie v zmysle, aj keď otázky nezmiznú

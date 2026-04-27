@@ -4,9 +4,7 @@ description: "ako sa sústrediť: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-06-20
 category: Mentálna výkonnosť
 readingTime: 12
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako sa sústrediť", "mind racing počas práce", "neviem sa sústrediť", "myseľ skáče z miesta na miesto"]
 transformation: schopnosť ostať pri jednej veci dosť dlho na to, aby si ju dokončil

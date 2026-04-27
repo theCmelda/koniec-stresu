@@ -4,7 +4,7 @@ description: "REM cyklus: praktický návod krok za krokom. Konkrétne techniky,
 publishDate: 2026-06-02
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoPlacement: top
 featured: false
 keywords: ["REM cyklus", "spánkové cykly 90 minút", "kedy sa zobudiť oddýchnutý", "REM fáza spánku"]
 transformation: ráno bez ťažoby na hrudníku

@@ -4,9 +4,7 @@ description: "skutočný dôvod prečo: praktický návod krok za krokom. Konkr�
 publishDate: 2026-07-03
 category: Transformácia
 readingTime: 12
-videoId: yz-8T7YcYHc
-videoTitle: "Tajomstvo nezastaviteľnej motivácie (funguje ihneď)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["skutočný dôvod prečo", "WHY framework", "Simon Sinek WHY", "ako nájsť svoj prečo"]
 transformation: jasnosť o tom, prečo robíš to, čo robíš

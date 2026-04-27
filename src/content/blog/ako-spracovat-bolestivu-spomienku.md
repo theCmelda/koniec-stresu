@@ -4,9 +4,7 @@ description: "ako sa zbaviť bolestivej spomienky: praktický návod krok za kro
 publishDate: 2026-05-08
 category: Transformácia
 readingTime: 11
-videoId: Xr7vPVcdVcs
-videoTitle: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako sa zbaviť bolestivej spomienky", "spracovanie traumy", "vymazať bolestivú spomienku", "ako pracovať s traumou"]
 transformation: 'bolestivé spomienky bez emocionálneho náboja'

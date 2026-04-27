@@ -4,9 +4,7 @@ description: "lenivosť alebo vyhorenie: praktický návod krok za krokom. Konkr
 publishDate: 2026-05-20
 category: Stres
 readingTime: 12
-videoId: yEGfxyZGiiU
-videoTitle: "Ako urobiť pauzu bez toho, aby si stratil progress"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["lenivosť alebo vyhorenie", "nie som lenivý som vyhorený", "ako rozlíšiť lenivosť od vyhorenia", "rozdiel lenivosť vyhorenie"]
 transformation: jasnosť o tom, čo telo skutočne potrebuje

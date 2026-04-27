@@ -4,9 +4,7 @@ description: "telo unavené hlava bdelá: praktický návod krok za krokom. Konk
 publishDate: 2026-05-26
 category: Spánok
 readingTime: 12
-videoId: JhUyvFqeIc8
-videoTitle: "Telo unavené, hlava bdelá: ako vypnúť overactive mind v posteli"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["telo unavené hlava bdelá", "mind racing pred spaním", "ako vypnúť myseľ pred spaním", "myšlienky v hlave večer"]
 transformation: myseľ, ktorá sa vypne keď telo už chce spať

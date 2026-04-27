@@ -4,9 +4,7 @@ description: "ako pustiť kontrolu: praktický návod krok za krokom. Konkrétne
 publishDate: 2026-05-09
 category: Mentálna výkonnosť
 readingTime: 11
-videoId: JhUyvFqeIc8
-videoTitle: "Vedená meditácia proti stresu (nadých-výdych na 2-4)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["ako pustiť kontrolu", "potreba kontroly", "ako prijať to čo neviem ovplyvniť", "perfekcionizmus"]
 transformation: 'pokoj, ktorý nezávisí od kontroly'

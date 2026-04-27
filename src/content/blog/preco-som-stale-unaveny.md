@@ -4,9 +4,7 @@ description: "prečo som stále unavený: praktický návod krok za krokom. Konk
 publishDate: 2026-05-14
 category: Stres
 readingTime: 12
-videoId: y1RH0WbogA0
-videoTitle: "Prečo som stále unavený (aj keď spím): 5 skrytých príčin"
-videoPlacement: middle
+videoPlacement: remove
 featured: false
 keywords: ["prečo som stále unavený", "stála únava príznaky", "chronická únava", "prečo som unavený aj po spánku"]
 transformation: energiu, ktorá vydrží od rána do večera

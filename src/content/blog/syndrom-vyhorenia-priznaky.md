@@ -4,9 +4,7 @@ description: "syndróm vyhorenia: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-06
 category: Stres
 readingTime: 11
-videoId: 01X-hzukAtI
-videoTitle: "3 techniky proti stresu, ktoré fungujú do 5 minút"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["syndróm vyhorenia", "burnout príznaky", "syndróm vyhorenia príznaky", "ako sa zotaviť z vyhorenia"]
 transformation: 'návrat energie bez vyhorenia'

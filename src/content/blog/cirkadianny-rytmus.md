@@ -4,7 +4,7 @@ description: "cirkadiánny rytmus: praktický návod krok za krokom. Konkrétne 
 publishDate: 2026-05-27
 category: Spánok
 readingTime: 12
-videoPlacement: remove
+videoPlacement: top
 featured: false
 keywords: ["cirkadiánny rytmus", "ranné svetlo na spánok", "ako nastaviť vnútorné hodiny", "biologické hodiny tela"]
 transformation: telo, ktoré vie kedy zaspať bez tlaku

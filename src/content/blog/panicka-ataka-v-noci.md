@@ -4,9 +4,7 @@ description: "panická ataka v noci: praktický návod krok za krokom. Konkrétn
 publishDate: 2026-06-08
 category: Úzkosť
 readingTime: 12
-videoId: D8by4mvItxU
-videoTitle: "Panická ataka v noci: prečo sa budíš s búchajúcim srdcom"
-videoPlacement: bottom
+videoPlacement: remove
 featured: false
 keywords: ["panická ataka v noci", "nočné panické ataky", "budím sa s úzkosťou", "prebudenie panika v noci"]
 transformation: noci bez náhleho budenia v panike

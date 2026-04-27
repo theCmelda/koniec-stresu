@@ -4,9 +4,7 @@ description: "úzkosť príznaky: praktický návod krok za krokom. Konkrétne t
 publishDate: 2026-05-02
 category: Úzkosť
 readingTime: 11
-videoId: wNSp4640h6w
-videoTitle: "7-minútová meditácia proti úzkosti (4 techniky)"
-videoPlacement: top
+videoPlacement: remove
 featured: false
 keywords: ["úzkosť príznaky", "ako spoznať úzkosť", "úzkostná porucha príznaky", "úzkosť v tele"]
 transformation: 'znovuzískanie kontroly nad úzkosťou'
