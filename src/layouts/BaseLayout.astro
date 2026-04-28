@@ -73,6 +73,9 @@ const ogImage = new URL(image, Astro.site).toString();
   <!-- Cloudflare Web Analytics (privacy-first, cookieless, GDPR-friendly) -->
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6474d7a765c1473c82391ef9957dddeb"}'></script>
 
+  <!-- Cloudflare Turnstile (spam protection, lazy-loaded) -->
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
   <slot name="head" />
 </head>
 <body>

@@ -21,6 +21,8 @@ const {
 const headline =
   title ??
   `30 dní pre <em>${transformation}.</em>`;
+
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '';
 ---
 
 <section class="cta" id={id}>
@@ -58,6 +60,17 @@ const headline =
           required
         />
       </div>
+      {turnstileSiteKey && (
+        <div
+          class="cf-turnstile cs-turnstile"
+          data-sitekey={turnstileSiteKey}
+          data-theme="light"
+          data-size="flexible"
+          data-callback="csOptinTurnstileOk"
+          data-error-callback="csOptinTurnstileErr"
+          data-expired-callback="csOptinTurnstileErr"
+        ></div>
+      )}
       <button type="submit" id="cs-optin-btn">Začať transformáciu</button>
       <small class="fineprint">
         Bez spamu. Bez nátlaku. Iba 30 dní z mojej praxe. Kedykoľvek sa odhlásiš jedným klikom.
@@ -88,6 +101,16 @@ const headline =
 </section>
 
 <script>
+  // Track the latest Turnstile token. Updated by widget callbacks.
+  let csTurnstileToken: string | null = null;
+  // Expose callbacks on window so the Turnstile widget can find them.
+  (window as any).csOptinTurnstileOk = (token: string) => {
+    csTurnstileToken = token;
+  };
+  (window as any).csOptinTurnstileErr = () => {
+    csTurnstileToken = null;
+  };
+
   const form = document.getElementById('cs-optin-form') as HTMLFormElement | null;
   const btn = document.getElementById('cs-optin-btn') as HTMLButtonElement | null;
   const successEl = document.getElementById('cs-optin-success') as HTMLElement | null;
@@ -99,6 +122,16 @@ const headline =
       const firstName = (document.getElementById('cs-optin-first-name') as HTMLInputElement).value.trim();
       const email = (document.getElementById('cs-optin-email') as HTMLInputElement).value.trim();
       if (!firstName || !email) return;
+
+      // If Turnstile is configured but no token yet, ask the user to wait
+      const hasTurnstile = !!document.querySelector('.cs-turnstile');
+      if (hasTurnstile && !csTurnstileToken) {
+        if (errorEl) {
+          errorEl.textContent = 'Sekundu, ešte si overujeme že nie si robot…';
+          errorEl.hidden = false;
+        }
+        return;
+      }
 
       btn.disabled = true;
       btn.textContent = 'Posielam...';
@@ -113,11 +146,17 @@ const headline =
             first_name: firstName,
             email,
             source: window.location.pathname,
+            turnstile_token: csTurnstileToken,
           }),
         });
         if (r.ok) {
           if (successEl) successEl.hidden = false;
           form.reset();
+          csTurnstileToken = null;
+          // Reset widget so the user can submit again with a fresh token
+          if ((window as any).turnstile) {
+            (window as any).turnstile.reset();
+          }
         } else {
           if (errorEl) errorEl.hidden = false;
         }

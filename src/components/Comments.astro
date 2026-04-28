@@ -1,0 +1,395 @@
+---
+/**
+ * Comments section for blog articles.
+ *
+ * Flow:
+ *   1. Reader writes comment + name + email + Turnstile token
+ *   2. POST /api/comment → DB insert with verified=false, magic link emailed
+ *   3. Reader clicks magic link → GET /api/comment-verify → flips verified=true
+ *   4. GET /api/comments?slug=xxx returns verified comments only
+ *
+ * The component fetches the verified list client-side on mount so we keep
+ * the article HTML cacheable. Verified comments appear without page reload.
+ */
+interface Props {
+  slug: string;
+}
+const { slug } = Astro.props;
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '';
+---
+
+<section class="comments" id="comments" data-slug={slug}>
+  <div class="cmts-head">
+    <h2 class="cmts-title">Diskusia</h2>
+    <p class="cmts-sub">Tvoja skúsenosť pomôže ďalším čitateľom. Buď láskavý/á.</p>
+  </div>
+
+  <ol class="cmts-list" id="cmts-list" aria-live="polite">
+    <li class="cmts-empty" id="cmts-empty">Buď prvý, kto sa ozve.</li>
+  </ol>
+
+  <form class="cmts-form" id="cmts-form" novalidate>
+    <h3 class="cmts-form-title">Napíš komentár</h3>
+    <div class="row">
+      <input type="text" name="author_name" id="cmt-name" placeholder="Tvoje meno" autocomplete="name" required maxlength="80" />
+      <input type="email" name="author_email" id="cmt-email" placeholder="tvoj@email.sk" autocomplete="email" required />
+    </div>
+    <textarea name="body" id="cmt-body" placeholder="Tvoj komentár — myšlienka, otázka, vlastná skúsenosť…" required maxlength="4000"></textarea>
+    <small class="cmts-fineprint">
+      Tvoj e-mail nezverejním. Po odoslaní ti pošlem jeden potvrdzovací e-mail. Komentár sa zobrazí, keď klikneš na potvrdenie.
+    </small>
+    {turnstileSiteKey && (
+      <div
+        class="cf-turnstile cmts-turnstile"
+        data-sitekey={turnstileSiteKey}
+        data-theme="light"
+        data-size="flexible"
+        data-callback="cmtsTurnstileOk"
+        data-error-callback="cmtsTurnstileErr"
+        data-expired-callback="cmtsTurnstileErr"
+      ></div>
+    )}
+    <button type="submit" id="cmt-submit">Odoslať</button>
+    <small class="cmt-feedback ok" id="cmt-ok" hidden>Hotovo. Skontroluj svoj e-mail a klikni na potvrdenie.</small>
+    <small class="cmt-feedback err" id="cmt-err" hidden>Niečo sa nepodarilo. Skús to prosím znova.</small>
+  </form>
+</section>
+
+<script>
+  (function () {
+    const root = document.getElementById('comments') as HTMLElement | null;
+    if (!root) return;
+    const slug = root.dataset.slug ?? '';
+
+    let cmtsTurnstileToken: string | null = null;
+    (window as any).cmtsTurnstileOk = (t: string) => { cmtsTurnstileToken = t; };
+    (window as any).cmtsTurnstileErr = () => { cmtsTurnstileToken = null; };
+
+    function escapeHtml(s: string): string {
+      return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+    function fmtDate(iso: string): string {
+      try {
+        const d = new Date(iso);
+        return new Intl.DateTimeFormat('sk-SK', { day: 'numeric', month: 'long', year: 'numeric' }).format(d);
+      } catch { return ''; }
+    }
+
+    type Comment = { id: string; parent_id: string | null; author_name: string; body: string; created_at: string };
+
+    function render(comments: Comment[]) {
+      const list = document.getElementById('cmts-list') as HTMLOListElement;
+      const empty = document.getElementById('cmts-empty') as HTMLLIElement;
+      if (!list) return;
+      if (comments.length === 0) {
+        if (empty) empty.style.display = '';
+        return;
+      }
+      if (empty) empty.style.display = 'none';
+      list.innerHTML = '';
+      // Top-level first, then replies under each parent
+      const topLevel = comments.filter((c) => !c.parent_id);
+      const repliesByParent = new Map<string, Comment[]>();
+      comments.filter((c) => c.parent_id).forEach((c) => {
+        const arr = repliesByParent.get(c.parent_id!) ?? [];
+        arr.push(c);
+        repliesByParent.set(c.parent_id!, arr);
+      });
+
+      function commentHtml(c: Comment, isReply = false): string {
+        const initials = c.author_name.split(/\s+/).map((s) => s[0] ?? '').join('').slice(0, 2).toUpperCase();
+        const replies = repliesByParent.get(c.id) ?? [];
+        const repliesHtml = replies.map((r) => commentHtml(r, true)).join('');
+        return `
+          <li class="cmt ${isReply ? 'is-reply' : ''}" id="cmt-${c.id}">
+            <div class="cmt-meta">
+              <span class="cmt-avatar">${escapeHtml(initials || '·')}</span>
+              <strong class="cmt-name">${escapeHtml(c.author_name)}</strong>
+              <span class="cmt-date">${fmtDate(c.created_at)}</span>
+            </div>
+            <div class="cmt-body">${escapeHtml(c.body).replace(/\n/g, '<br/>')}</div>
+            ${repliesHtml ? `<ol class="cmt-replies">${repliesHtml}</ol>` : ''}
+          </li>`;
+      }
+      list.innerHTML = topLevel.map((c) => commentHtml(c)).join('');
+    }
+
+    async function load() {
+      try {
+        const r = await fetch(`/api/comments?slug=${encodeURIComponent(slug)}`);
+        const data = await r.json();
+        if (data.ok) render(data.comments);
+      } catch {/* ignore */}
+    }
+
+    // Show "verify" toast based on URL param
+    const params = new URLSearchParams(location.search);
+    const verifyParam = params.get('verify');
+    if (verifyParam === 'ok') {
+      flash('Komentár je potvrdený. Ďakujem.', 'ok');
+    } else if (verifyParam === 'err') {
+      flash('Potvrdzovací odkaz je neplatný alebo už použitý.', 'err');
+    }
+
+    function flash(msg: string, kind: 'ok' | 'err') {
+      const el = document.createElement('div');
+      el.className = `cmts-toast cmts-toast-${kind}`;
+      el.textContent = msg;
+      root!.prepend(el);
+      setTimeout(() => el.remove(), 6000);
+    }
+
+    // Form submit
+    const form = document.getElementById('cmts-form') as HTMLFormElement;
+    const submitBtn = document.getElementById('cmt-submit') as HTMLButtonElement;
+    const okEl = document.getElementById('cmt-ok') as HTMLElement;
+    const errEl = document.getElementById('cmt-err') as HTMLElement;
+
+    form?.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      const author_name = (document.getElementById('cmt-name') as HTMLInputElement).value.trim();
+      const author_email = (document.getElementById('cmt-email') as HTMLInputElement).value.trim();
+      const body = (document.getElementById('cmt-body') as HTMLTextAreaElement).value.trim();
+      if (!author_name || !author_email || !body) return;
+
+      const hasTurnstile = !!document.querySelector('.cmts-turnstile');
+      if (hasTurnstile && !cmtsTurnstileToken) {
+        if (errEl) {
+          errEl.textContent = 'Sekundu, ešte si overujeme že nie si robot…';
+          errEl.hidden = false;
+        }
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Posielam…';
+      okEl.hidden = true;
+      errEl.hidden = true;
+
+      try {
+        const r = await fetch('/api/comment', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            slug,
+            author_name,
+            author_email,
+            body,
+            turnstile_token: cmtsTurnstileToken,
+          }),
+        });
+        if (r.ok) {
+          okEl.hidden = false;
+          form.reset();
+          cmtsTurnstileToken = null;
+          if ((window as any).turnstile) (window as any).turnstile.reset();
+        } else {
+          errEl.hidden = false;
+        }
+      } catch {
+        errEl.hidden = false;
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Odoslať';
+      }
+    });
+
+    load();
+  })();
+</script>
+
+<style>
+  .comments {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 64px 24px;
+  }
+  .cmts-head {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  .cmts-title {
+    font-family: var(--display);
+    font-size: clamp(28px, 4vw, 38px);
+    font-weight: 500;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+    margin-bottom: 6px;
+  }
+  .cmts-sub {
+    color: var(--soft);
+    font-size: 15px;
+  }
+
+  .cmts-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .cmts-empty {
+    text-align: center;
+    color: var(--muted);
+    font-style: italic;
+    padding: 32px 0;
+  }
+
+  .cmt {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 18px;
+    padding: 18px 20px;
+  }
+  .cmt.is-reply {
+    background: var(--cream);
+  }
+  .cmt-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  .cmt-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--terracotta), var(--rose));
+    color: var(--paper);
+    display: grid;
+    place-items: center;
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .cmt-name {
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .cmt-date {
+    color: var(--muted);
+    font-size: 12px;
+  }
+  .cmt-body {
+    color: var(--ink);
+    font-size: 15px;
+    line-height: 1.55;
+    white-space: pre-wrap;
+  }
+  .cmt-replies {
+    list-style: none;
+    padding: 0;
+    margin: 14px 0 0 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .cmts-form {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 22px;
+    padding: 26px 26px 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .cmts-form-title {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    color: var(--ink);
+  }
+  .cmts-form .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .cmts-form input,
+  .cmts-form textarea {
+    background: var(--cream);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    padding: 12px 14px;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .cmts-form textarea {
+    min-height: 120px;
+    resize: vertical;
+  }
+  .cmts-form input:focus,
+  .cmts-form textarea:focus {
+    border-color: var(--terracotta);
+    background: var(--paper);
+  }
+  .cmts-fineprint {
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .cmts-form button {
+    align-self: flex-start;
+    background: var(--ink);
+    color: var(--paper);
+    border: 0;
+    border-radius: 12px;
+    padding: 12px 22px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    font-family: var(--sans);
+    transition: background 0.2s, transform 0.15s;
+  }
+  .cmts-form button:hover:not(:disabled) {
+    background: var(--terracotta);
+    transform: translateY(-1px);
+  }
+  .cmts-form button:disabled {
+    opacity: 0.6;
+    cursor: progress;
+  }
+
+  .cmt-feedback {
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  .cmt-feedback.ok {
+    background: #dcead6;
+    color: #2a4a1f;
+  }
+  .cmt-feedback.err {
+    background: #f2c0ae;
+    color: #4a1a14;
+  }
+
+  .cmts-toast {
+    border-radius: 14px;
+    padding: 14px 18px;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+  .cmts-toast-ok {
+    background: #dcead6;
+    color: #2a4a1f;
+  }
+  .cmts-toast-err {
+    background: #f2c0ae;
+    color: #4a1a14;
+  }
+
+  @media (max-width: 600px) {
+    .cmts-form .row {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
