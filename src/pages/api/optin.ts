@@ -1,11 +1,9 @@
 import type { APIRoute } from 'astro';
+import { getSupabaseAdmin } from '../../lib/supabase';
 
 /**
- * 30-day course email opt-in.
- *
- * For now this just validates the input and returns success. When the email
- * service (Resend / MailerLite) is connected, replace the TODO block with the
- * actual subscribe call + welcome email trigger.
+ * 30-day course email opt-in. Stores subscriber in Supabase `optins` table.
+ * No automation yet — emails sit there waiting for a future drip campaign.
  */
 export const POST: APIRoute = async ({ request }) => {
   const contentType = request.headers.get('content-type') ?? '';
@@ -26,12 +24,11 @@ export const POST: APIRoute = async ({ request }) => {
     });
   }
 
-  const firstName = typeof body.first_name === 'string' ? body.first_name.trim() : '';
-  const email = typeof body.email === 'string' ? body.email.trim().toLowerCase() : '';
-  const source = typeof body.source === 'string' ? body.source : '/';
+  const firstName = typeof body.first_name === 'string' ? body.first_name.trim().slice(0, 80) : '';
+  const email = typeof body.email === 'string' ? body.email.trim().toLowerCase().slice(0, 200) : '';
+  const source = typeof body.source === 'string' ? body.source.slice(0, 200) : 'cta';
 
-  // Basic validation
-  if (firstName.length < 1 || firstName.length > 50) {
+  if (firstName.length < 1) {
     return new Response(JSON.stringify({ ok: false, error: 'invalid_first_name' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' },
@@ -45,10 +42,35 @@ export const POST: APIRoute = async ({ request }) => {
     });
   }
 
-  // TODO: connect to Resend / MailerLite / ConvertKit
-  // For now we just log the signup so it shows up in Vercel function logs.
-  // Replace with real provider call when API key is available.
-  console.log('[OPTIN]', JSON.stringify({ first_name: firstName, email, source, ts: new Date().toISOString() }));
+  const referer = request.headers.get('referer') ?? '';
+  const ua = (request.headers.get('user-agent') ?? '').slice(0, 300);
+
+  try {
+    const supabase = getSupabaseAdmin();
+    const { error } = await supabase.from('optins').insert({
+      email,
+      first_name: firstName,
+      source,
+      referer: referer.slice(0, 500),
+      ua,
+    });
+    if (error) {
+      console.error('[OPTIN] insert error', error);
+      // Still log a fallback so we don't lose the signup
+      console.log('[OPTIN-FALLBACK]', JSON.stringify({ first_name: firstName, email, source }));
+      return new Response(JSON.stringify({ ok: false, error: 'storage_error' }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+  } catch (e) {
+    console.error('[OPTIN] unexpected error', e);
+    console.log('[OPTIN-FALLBACK]', JSON.stringify({ first_name: firstName, email, source }));
+    return new Response(JSON.stringify({ ok: false, error: 'internal' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
 
   return new Response(JSON.stringify({ ok: true }), {
     status: 200,

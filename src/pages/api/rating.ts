@@ -1,17 +1,16 @@
 import type { APIRoute } from 'astro';
+import { getSupabaseAdmin } from '../../lib/supabase';
 
 /**
  * Article rating + qualitative feedback endpoint.
+ * Stores in Supabase `ratings` table.
  *
- * Body shape (any subset is valid as long as slug + rating present):
+ * Body shape:
  *   { slug: string, rating: 1..5, feedback?: string }
  *
  * The first call from the popup contains just slug + rating (immediate save
  * on star click). The second call adds feedback when the user types and submits.
- *
- * Storage: for now logs to Vercel function output so the data is captured
- * and visible in the dashboard. When Supabase is wired up, swap the TODO block
- * for an insert into a `ratings` table.
+ * We insert both — duplicates per slug are intentional to capture the funnel.
  */
 export const POST: APIRoute = async ({ request }) => {
   if (!(request.headers.get('content-type') ?? '').includes('application/json')) {
@@ -31,12 +30,12 @@ export const POST: APIRoute = async ({ request }) => {
     });
   }
 
-  const slug = typeof body.slug === 'string' ? body.slug.trim() : '';
+  const slug = typeof body.slug === 'string' ? body.slug.trim().slice(0, 200) : '';
   const ratingRaw = body.rating;
   const rating = typeof ratingRaw === 'number' ? Math.round(ratingRaw) : NaN;
   const feedback = typeof body.feedback === 'string' ? body.feedback.trim().slice(0, 2000) : '';
 
-  if (!slug || slug.length > 200) {
+  if (!slug) {
     return new Response(JSON.stringify({ ok: false, error: 'invalid_slug' }), {
       status: 400,
       headers: { 'Content-Type': 'application/json' },
@@ -49,25 +48,34 @@ export const POST: APIRoute = async ({ request }) => {
     });
   }
 
-  // Best-effort context: which referrer + which user-agent (for spam patterns)
   const referer = request.headers.get('referer') ?? '';
-  const ua = request.headers.get('user-agent') ?? '';
+  const ua = (request.headers.get('user-agent') ?? '').slice(0, 300);
 
-  // TODO: when Supabase is wired up, replace this block with:
-  //   await supabase.from('ratings').insert({ slug, rating, feedback, referer, ua, created_at: new Date() });
-  // For now log so it shows up in Vercel function logs (and can be exported later).
-  console.log(
-    '[RATING]',
-    JSON.stringify({
-      ts: new Date().toISOString(),
+  try {
+    const supabase = getSupabaseAdmin();
+    const { error } = await supabase.from('ratings').insert({
       slug,
       rating,
-      feedback,
-      has_feedback: feedback.length > 0,
-      referer,
-      ua: ua.slice(0, 160),
-    })
-  );
+      feedback: feedback || null,
+      referer: referer.slice(0, 500),
+      ua,
+    });
+    if (error) {
+      console.error('[RATING] insert error', error);
+      console.log('[RATING-FALLBACK]', JSON.stringify({ slug, rating, feedback }));
+      return new Response(JSON.stringify({ ok: false, error: 'storage_error' }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+  } catch (e) {
+    console.error('[RATING] unexpected error', e);
+    console.log('[RATING-FALLBACK]', JSON.stringify({ slug, rating, feedback }));
+    return new Response(JSON.stringify({ ok: false, error: 'internal' }), {
+      status: 500,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
 
   return new Response(JSON.stringify({ ok: true }), {
     status: 200,
