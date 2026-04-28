@@ -1,6 +1,6 @@
 ---
 title: "Denník vďačnosti: ako ho začať tak, aby ti to vydržalo"
-description: "denník vďačnosti ako začať: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Začni deň s úsmevom: Objav, ako ti denník vďačnosti môže pomôcť udržať si pozitívny pohľad na život a vytvoriť návyk, ktorý ti vydrží."
 publishDate: 2026-05-05
 category: Transformácia
 readingTime: 11

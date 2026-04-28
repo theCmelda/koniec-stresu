@@ -1,6 +1,6 @@
 ---
 title: "Body scan na zaspávanie: 10-minútový sprievodca"
-description: "body scan na zaspávanie: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Upokojte myseľ a pripravte sa na spánok s 10-minútovým body scanom. Objavte, ako vám táto jednoduchá technika môže pomôcť zrelaxovať a zaspať."
 publishDate: 2026-06-03
 category: Spánok
 readingTime: 12

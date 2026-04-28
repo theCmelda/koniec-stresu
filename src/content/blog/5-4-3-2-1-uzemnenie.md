@@ -1,6 +1,6 @@
 ---
 title: "5-4-3-2-1 uzemnenie: kedy fakt funguje a kedy nie"
-description: "uzemnenie 5-4-3-2-1: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa roztržito alebo úzkostne? Objavte, kedy technika 5-4-3-2-1 uzemnenie naozaj pomáha a kedy môže byť menej účinná v každodennom živote."
 publishDate: 2026-06-12
 category: Úzkosť
 readingTime: 12

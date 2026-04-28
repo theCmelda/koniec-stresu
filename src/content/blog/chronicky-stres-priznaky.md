@@ -1,6 +1,6 @@
 ---
 title: "Chronický stres: 11 príznakov, ktoré prehliadaš (a čo s tým robiť)"
-description: "chronický stres príznaky: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa vyčerpaný a nevieš prečo? Zisti, aké príznaky chronického stresu možno prehliadaš a nauč sa, ako ich efektívne zvládnuť."
 publishDate: 2026-04-30
 category: Stres
 readingTime: 11

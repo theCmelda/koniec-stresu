@@ -1,6 +1,6 @@
 ---
 title: "Reverse-engineering tvojich cieľov: 90-dňový framework"
-description: "ako dosiahnuť ciele: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Dosiahni svoje sny s jasným plánom: Reverse-engineering cieľov ti ukáže, ako rozložiť svoje ambície na dosiahnuteľné kroky a získať výsledky."
 publishDate: 2026-06-25
 category: Mentálna výkonnosť
 readingTime: 12

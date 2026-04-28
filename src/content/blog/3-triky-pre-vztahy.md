@@ -1,6 +1,6 @@
 ---
 title: 3 triky pre vzťahy, ktoré reálne fungujú
-description: "ako zlepšiť vzťah: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zlepši si vzťahy s jednoduchými trikmi, ktoré skutočne fungujú. Objav, ako môžeš posilniť svoje spojenia a priniesť viac harmónie do každodenného života."
 publishDate: 2026-07-01
 category: Transformácia
 readingTime: 12

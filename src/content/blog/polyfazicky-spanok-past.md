@@ -1,6 +1,6 @@
 ---
 title: "Polyfázický spánok je past: prečo „menej spánku“ je za hranicou výkonu"
-description: "polyfázický spánok: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš, že máš málo času a hľadáš riešenia? Polyfázický spánok môže znieť lákavo, ale prečo je to cesta, ktorá ťa môže vyčerpať viac, než si myslíš."
 publishDate: 2026-05-30
 category: Spánok
 readingTime: 12

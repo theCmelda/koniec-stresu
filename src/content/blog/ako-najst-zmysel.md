@@ -1,6 +1,6 @@
 ---
 title: Ako nájsť svoj skutočný zmysel (a nepúšťať ho)
-description: "ako nájsť zmysel: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa stratený a hľadáš vnútorné naplnenie? Objav, ako nájsť svoj skutočný zmysel a prečo je dôležité ho pevne držať vo svojom živote."
 publishDate: 2026-05-12
 category: Mentálna výkonnosť
 readingTime: 11

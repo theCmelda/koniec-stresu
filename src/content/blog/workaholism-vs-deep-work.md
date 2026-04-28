@@ -1,6 +1,6 @@
 ---
 title: "Workaholism vs deep work: keď pracovať veľa nie je riešenie"
-description: "workaholism: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Unavený z nekonečného kolobehu práce? Objav rozdiel medzi workaholizmom a skutočne produktívnym, hlbokým sústredením na to, čo má naozaj zmysel."
 publishDate: 2026-06-24
 category: Mentálna výkonnosť
 readingTime: 12

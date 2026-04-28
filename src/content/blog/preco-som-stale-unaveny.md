@@ -1,6 +1,6 @@
 ---
 title: "Prečo som stále unavený (aj keď spím): 5 skrytých príčin"
-description: "prečo som stále unavený: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa unavený aj po dlhom spánku? Objav päť skrytých príčin, ktoré môžu byť za týmto pocitom a nájdi cestu k energii, ktorú si zaslúžiš."
 publishDate: 2026-05-14
 category: Stres
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: Tajomstvo motivácie, ktorú ti nikto nevezme
-description: "tajomstvo motivácie: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Získať motiváciu, ktorú ti nikto nevezme: objav, ako si udržať vnútorný pohon aj v najťažších časoch a dosiahni svoje ciele bez zbytočného stresu."
 publishDate: 2026-07-02
 category: Transformácia
 readingTime: 12

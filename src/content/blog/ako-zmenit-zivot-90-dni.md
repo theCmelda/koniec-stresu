@@ -1,6 +1,6 @@
 ---
 title: Ako zmeniť svoj život za 90 dní (reálne, nie clickbait)
-description: "ako zmeniť svoj život: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Predstav si, že za 90 dní môžeš cítiť pokoj a rovnováhu. Objav, ako zmeniť svoj život bez zbytočných komplikácií a uži si každý deň naplno."
 publishDate: 2026-06-28
 category: Transformácia
 readingTime: 12

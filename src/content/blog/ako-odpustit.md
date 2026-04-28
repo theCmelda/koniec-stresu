@@ -1,6 +1,6 @@
 ---
 title: "Ako odpustiť (sebe aj druhým): vedená cesta, nie zázrak"
-description: "ako odpustiť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Prestaň sa trápiť a objav pokoj: nauč sa odpustiť sebe aj druhým a nájdi vnútornú harmóniu. Odpustenie je cesta k ľahšiemu životu."
 publishDate: 2026-05-07
 category: Transformácia
 readingTime: 11

@@ -1,6 +1,6 @@
 ---
 title: "Spúšťač šťastia: ako zapnúť pokoj na povel"
-description: "spúšťač šťastia: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Predstav si, že dokážeš nájsť pokoj aj v chaose. Objav, ako ti spúšťač šťastia pomôže aktivovať vnútorný kľud v každej situácii."
 publishDate: 2026-06-29
 category: Transformácia
 readingTime: 12

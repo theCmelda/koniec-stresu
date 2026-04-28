@@ -1,6 +1,6 @@
 ---
 title: "Identitný posun: ako sa stať niekým novým bez násilia"
-description: "identitný posun: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zmena môže byť osviežujúca: zistite, ako sa posunúť k novej verzii seba samého bez tlaku a stresu. Objavte cestu k prirodzenému identitnému posunu."
 publishDate: 2026-07-06
 category: Transformácia
 readingTime: 12

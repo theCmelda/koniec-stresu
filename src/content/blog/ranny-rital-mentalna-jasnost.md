@@ -1,6 +1,6 @@
 ---
 title: "Ranný rituál pre mentálnu jasnosť: 90-minútový setup"
-description: "ranný rituál: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Prebuďte sa s energiou a jasnosťou: Objavte ranný rituál, ktorý vám pomôže začať deň sústredene a v pohode, s dôrazom na mentálnu jasnosť."
 publishDate: 2026-06-21
 category: Mentálna výkonnosť
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Generalizovaná úzkostná porucha: kde je hranica medzi obavou a poruchou"
-description: "generalizovaná úzkostná porucha: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa neustále napätí a neviete prečo? Zistite, kedy obavy prekračujú hranice a stávajú sa generalizovanou úzkostnou poruchou."
 publishDate: 2026-06-07
 category: Úzkosť
 readingTime: 12

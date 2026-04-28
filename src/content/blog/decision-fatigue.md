@@ -1,6 +1,6 @@
 ---
 title: "Decision fatigue: prečo večer nezvládneš ani malé voľby"
-description: "decision fatigue: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa večer vyčerpaný a neschopný rozhodnúť sa ani o drobnostiach? Zisti, ako rozhodovacia únava ovplyvňuje tvoj deň a ako s ňou pracovať."
 publishDate: 2026-05-21
 category: Stres
 readingTime: 12

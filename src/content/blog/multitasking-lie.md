@@ -1,6 +1,6 @@
 ---
 title: "Multitasking lie: čo skutočne robíš keď „robíš všetko naraz“"
-description: "multitasking: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa preťažený a stále nestíhaš? Objav pravdu o multitaskingu a zisti, čo sa naozaj deje, keď sa snažíš zvládnuť všetko naraz."
 publishDate: 2026-06-19
 category: Mentálna výkonnosť
 readingTime: 12

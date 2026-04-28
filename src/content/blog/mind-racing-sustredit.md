@@ -1,6 +1,6 @@
 ---
 title: "Mind racing: keď sa nedokážeš sústrediť ani 5 minút"
-description: "ako sa sústrediť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zaži pokoj mysle, keď sa myšlienky pretekajú. Nauč sa, ako sa sústrediť a získať späť kontrolu nad svojou pozornosťou."
 publishDate: 2026-06-20
 category: Mentálna výkonnosť
 readingTime: 12

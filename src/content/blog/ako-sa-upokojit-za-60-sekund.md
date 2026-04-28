@@ -1,6 +1,6 @@
 ---
 title: "Ako sa upokojiť za 60 sekúnd: 3 telové techniky pre akútne situácie"
-description: "ako sa upokojiť rýchlo: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite napätie a potrebujete rýchlu úľavu? Objavte, ako sa upokojiť za 60 sekúnd pomocou jednoduchých telových techník pre okamžitý pokoj."
 publishDate: 2026-05-15
 category: Stres
 readingTime: 12

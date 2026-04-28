@@ -1,6 +1,6 @@
 ---
 title: "Ranný journal: 3 otázky, ktoré transformujú deň"
-description: "ranný journal: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Začnite deň s jasnou mysľou: Ranný journal vám pomôže sústrediť sa na to, čo je dôležité, a získať kontrolu nad svojím každodenným stresom."
 publishDate: 2026-06-26
 category: Mentálna výkonnosť
 readingTime: 12

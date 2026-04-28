@@ -1,6 +1,6 @@
 ---
 title: "Úzkostné myšlienky o zdraví: hypochondria a Google-search trap"
-description: "úzkostné myšlienky o zdraví: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa zahltení obavami o zdravie? Objavte, ako sa vyhnúť hypochondrii a pasci Google-search, a nájdite pokoj vo svojom každodennom živote."
 publishDate: 2026-06-09
 category: Úzkosť
 readingTime: 12

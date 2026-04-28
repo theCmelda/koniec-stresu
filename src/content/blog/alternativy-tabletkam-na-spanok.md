@@ -1,6 +1,6 @@
 ---
 title: "Bez tabliet: 5 prírodných alternatív k Stilnoxu a Lexaurinu"
-description: "prírodné alternatívy na spánok: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Hľadáte pokojný spánok bez liekov? Objavte päť prírodných spôsobov, ako zaspať ľahko a prirodzene. Zmeňte svoj nočný režim na lepší."
 publishDate: 2026-06-01
 category: Spánok
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Ako si vytvoriť návyk, ktorý zostane: 4-zákonový framework"
-description: "ako si vytvoriť návyk: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zmeň svoj deň k lepšiemu a objav, ako si vytvoriť návyk, ktorý vydrží. Spoznaj jednoduché kroky, ktoré ti pomôžu udržať sa na správnej ceste."
 publishDate: 2026-06-27
 category: Transformácia
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Spánok s partnerom, ktorý chrápe alebo sa hýbe: ako prežiť noc"
-description: "spánok s partnerom: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zobudiť sa čerstvý vedľa chrápajúceho partnera nemusí byť nemožné. Objavte jednoduché tipy na lepší spánok a spoločnú noc bez stresu."
 publishDate: 2026-05-31
 category: Spánok
 readingTime: 12

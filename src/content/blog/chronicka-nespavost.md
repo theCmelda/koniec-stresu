@@ -1,6 +1,6 @@
 ---
 title: "Chronická nespavosť: kedy už nie je len stres a potrebuješ pomoc"
-description: "chronická nespavosť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Keď nespavosť trvá celé týždne, je čas venovať jej pozornosť. Nauč sa, kedy je vhodné vyhľadať pomoc a získať späť pokojný spánok."
 publishDate: 2026-05-28
 category: Spánok
 readingTime: 12

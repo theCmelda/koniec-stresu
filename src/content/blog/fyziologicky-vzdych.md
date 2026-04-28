@@ -1,6 +1,6 @@
 ---
 title: "Fyziologický vzdych: 30-sekundová technika z neurovedy"
-description: "fyziologický vzdych: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Uvoľni napätie za pár sekúnd: Vyskúšaj fyziologický vzdych a objav, ako jednoducho môžeš upokojiť myseľ a telo v každodennom zhone."
 publishDate: 2026-05-11
 category: Stres
 readingTime: 11

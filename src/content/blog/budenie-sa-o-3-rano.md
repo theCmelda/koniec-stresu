@@ -1,6 +1,6 @@
 ---
 title: "Budenie sa o 3:00 ráno: prečo a ako to zastaviť"
-description: "budenie sa v noci: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zobudíš sa o 3:00 ráno a nevieš prečo? Objav dôvody tohto nočného prebúdzania a nauč sa, ako získať späť svoj pokojný spánok."
 publishDate: 2026-05-23
 category: Spánok
 readingTime: 12

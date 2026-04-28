@@ -1,6 +1,6 @@
 ---
 title: "Decision fatigue: ako šetriť mozog na rozhodnutia, ktoré naozaj rátajú"
-description: "decision fatigue: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa unavený z množstva rozhodnutí? Objav, ako ušetriť energiu pre tie, ktoré naozaj rátajú a zjednodušiť si každodenný život."
 publishDate: 2026-06-17
 category: Mentálna výkonnosť
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Ako zvládať stres v práci: 7 techník, ktoré vieš použiť dnes"
-description: "ako zvládať stres v práci: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zaži pokojný pracovný deň: Objav 7 jednoduchých techník na zvládanie stresu v práci, ktoré môžeš použiť hneď teraz a cítiť sa lepšie."
 publishDate: 2026-04-28
 category: Stres
 readingTime: 11

@@ -1,6 +1,6 @@
 ---
 title: "Ranný stres: ako odštartovať deň bez kortizol-spike"
-description: "ranný stres: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Začni deň pokojne a bez stresu: zistite, ako sa vyhnúť rannému kortizolovému nárastu a zlepšiť svoju pohodu hneď od rána."
 publishDate: 2026-05-17
 category: Stres
 readingTime: 12

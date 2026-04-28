@@ -1,6 +1,6 @@
 ---
 title: "Nespavosť: čo skutočne pomáha (a kde strácaš čas)"
-description: "nespavosť čo pomáha: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Prebúdzate sa unavení a bez energie? Zistite, čo naozaj pomáha pri nespavosti a kde zbytočne strácate čas, aby ste opäť našli pokojný spánok."
 publishDate: 2026-05-01
 category: Spánok
 readingTime: 11

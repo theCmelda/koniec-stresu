@@ -1,6 +1,6 @@
 ---
 title: "Deep work pre slovenský kontext: ako brániť svoj fokus"
-description: "deep work: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Strata sústredenia v dnešnom svete? Objav, ako \"deep work\" pomôže chrániť tvoj fokus a zlepšiť produktivitu v slovenských podmienkach."
 publishDate: 2026-06-16
 category: Mentálna výkonnosť
 readingTime: 12

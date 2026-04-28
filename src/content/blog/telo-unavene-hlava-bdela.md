@@ -1,6 +1,6 @@
 ---
 title: "Telo unavené, hlava bdelá: ako vypnúť overactive mind v posteli"
-description: "telo unavené hlava bdelá: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Pociťuješ večer únavu, no myseľ je stále aktívna? Objav jednoduché spôsoby, ako vypnúť overactive mind a konečne dopriať telu zaslúžený odpočinok."
 publishDate: 2026-05-26
 category: Spánok
 readingTime: 12

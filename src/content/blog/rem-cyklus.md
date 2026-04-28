@@ -1,6 +1,6 @@
 ---
 title: "REM cyklus: prečo zobudenie po 7,5h je iné ako po 7h"
-description: "REM cyklus: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zobudíš sa unavený, aj keď si spal dosť? Objav, prečo je prebudenie po 7,5 hodinách spánku iné ako po 7 a ako s tým súvisí REM cyklus."
 publishDate: 2026-06-02
 category: Spánok
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Polyvagal teória po slovensky: ako rozumieť svojim reakciám tela"
-description: "polyvagal teória: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zaujíma vás, prečo vaše telo reaguje tak, ako reaguje? Zistite, ako vám polyvagal teória môže pomôcť lepšie rozumieť a zvládať stresové situácie."
 publishDate: 2026-05-16
 category: Stres
 readingTime: 12

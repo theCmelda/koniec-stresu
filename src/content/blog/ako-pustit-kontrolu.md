@@ -1,6 +1,6 @@
 ---
 title: Prečo potreba kontroly ničí tvoj pokoj (a ako ju pustiť)
-description: "ako pustiť kontrolu: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Uvoľni sa a objav vnútorný pokoj: ako pustiť kontrolu a získať viac voľnosti v každodennom živote. Nauč sa, ako nechať veci plynúť prirodzene."
 publishDate: 2026-05-09
 category: Mentálna výkonnosť
 readingTime: 11

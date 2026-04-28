@@ -1,6 +1,6 @@
 ---
 title: "Metóda VYHRÁVAM: ako prenastaviť mozog za 5 minút denne"
-description: "metóda VYHRÁVAM: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zmeňte svoj deň za 5 minút: objavte, ako metóda VYHRÁVAM môže prenastaviť váš mozog a priniesť viac pokoja a rovnováhy do každodenného života."
 publishDate: 2026-06-30
 category: Transformácia
 readingTime: 12

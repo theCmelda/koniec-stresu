@@ -1,6 +1,6 @@
 ---
 title: "Z mysle do srdca: technika, ktorá vypína úzkosť za 4 minúty"
-description: "z mysle do srdca: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa zahltený úzkosťou? Objav techniku, ktorá ti pomôže prejsť z mysle do srdca a nájsť pokoj za pár minút. Zmeň svoj pohľad na stres."
 publishDate: 2026-06-04
 category: Úzkosť
 readingTime: 12

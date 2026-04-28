@@ -1,6 +1,6 @@
 ---
 title: "Anticipatórna úzkosť: keď sa bojíš toho, že sa budeš báť"
-description: "anticipatórna úzkosť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zažívate strach z budúcnosti, ktorý vás paralyzuje? Anticipatórna úzkosť je bežná, ale naučíme vás, ako jej lepšie rozumieť a zvládať ju."
 publishDate: 2026-06-11
 category: Úzkosť
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: Ako resetovať nervový systém za víkend (a nezačať pondelok vyčerpaný)
-description: "ako resetovať nervový systém: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa vyčerpaní a potrebujete rýchlu obnovu? Objavte, ako jednoducho resetovať svoj nervový systém a začnite nový týždeň plní energie."
 publishDate: 2026-05-22
 category: Stres
 readingTime: 12

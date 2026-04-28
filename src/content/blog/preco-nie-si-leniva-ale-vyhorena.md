@@ -1,6 +1,6 @@
 ---
 title: Prečo nie si lenivý, ale vyhorený (a aký je rozdiel)
-description: "lenivosť alebo vyhorenie: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa neustále unavený a bez energie? Možno za tým nie je lenivosť, ale vyhorenie. Zisti, aký je medzi nimi rozdiel a čo s tým robiť."
 publishDate: 2026-05-20
 category: Stres
 readingTime: 12

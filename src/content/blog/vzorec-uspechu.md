@@ -1,6 +1,6 @@
 ---
 title: "Vzorec úspechu: prečo niektorí dotiahnu a iní nie"
-description: "vzorec úspechu: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Prečo niektorí dosiahnu svoje ciele a iní nie? Objavte, čo stojí za úspechom, a zistite, ako môžete ísť za svojimi snami s istotou a odhodlaním."
 publishDate: 2026-07-04
 category: Transformácia
 readingTime: 12

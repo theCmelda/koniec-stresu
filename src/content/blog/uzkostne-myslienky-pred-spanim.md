@@ -1,6 +1,6 @@
 ---
 title: "Úzkosť pred spaním: ako vypnúť mind racing pred zaspatím"
-description: "úzkosť pred spaním: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Máte problém zaspať kvôli neustále víriacim myšlienkam? Zistite, ako si večer uvoľniť myseľ a prebudiť sa svieži."
 publishDate: 2026-06-13
 category: Úzkosť
 readingTime: 12

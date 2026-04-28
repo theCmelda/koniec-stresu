@@ -25,6 +25,40 @@ const {
 
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = new URL(image, Astro.site).toString();
+
+// Site-wide Organization + WebSite schema (helps Google build a Knowledge entry).
+const siteUrl = Astro.site?.toString() ?? 'https://koniecstresu.sk/';
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${siteUrl}#organization`,
+  name: 'Koniec Stresu',
+  url: siteUrl,
+  logo: {
+    '@type': 'ImageObject',
+    url: new URL('/favicon.svg', siteUrl).toString(),
+  },
+  description:
+    'Slovenský blog o regulácii nervovej sústavy. Konkrétne techniky proti stresu, úzkosti a nespavosti — bez moralizovania, len to, čo funguje.',
+  founder: {
+    '@type': 'Person',
+    name: 'Daniel Jedlička',
+    url: new URL('/o-mne', siteUrl).toString(),
+  },
+  sameAs: [
+    // Add social profiles when available
+  ],
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${siteUrl}#website`,
+  url: siteUrl,
+  name: 'Koniec Stresu',
+  inLanguage: 'sk-SK',
+  publisher: { '@id': `${siteUrl}#organization` },
+};
 ---
 
 <!doctype html>
@@ -69,6 +103,10 @@ const ogImage = new URL(image, Astro.site).toString();
 
   <!-- Sitemap -->
   <link rel="sitemap" href="/sitemap-index.xml" />
+
+  <!-- Organization + WebSite schema (rendered on every page so Google indexes it consistently) -->
+  <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
 
   <!-- Cloudflare Web Analytics (privacy-first, cookieless, GDPR-friendly) -->
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6474d7a765c1473c82391ef9957dddeb"}'></script>

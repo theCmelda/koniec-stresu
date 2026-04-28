@@ -1,6 +1,6 @@
 ---
 title: "Nedeľa večer panika: ako pripraviť sa na pondelok bez tlaku"
-description: "nedeľa večer panika: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Užívaj si nedeľu večer bez stresu a priprav sa na pondelok s pokojom. Objav spôsoby, ako zvládnuť nedeľnú úzkosť a začať týždeň bez paniky."
 publishDate: 2026-05-18
 category: Stres
 readingTime: 12

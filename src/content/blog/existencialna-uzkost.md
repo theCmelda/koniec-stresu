@@ -1,6 +1,6 @@
 ---
 title: "Existenciálna úzkosť: keď sa pýtaš „čo to celé znamená“"
-description: "existenciálna úzkosť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa stratený a bez zmyslu? Objav, ako sa vysporiadať s existenciálnou úzkosťou a znovu nájsť vnútorný pokoj."
 publishDate: 2026-06-14
 category: Úzkosť
 readingTime: 12

@@ -1,6 +1,6 @@
 ---
 title: "Hypnóza na spánok: ako funguje a kedy si ju pustiť"
-description: "hypnóza na spánok: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zlepši svoj spánok a nájdi pokoj prostredníctvom hypnózy. Zisti, ako a kedy ju využiť, aby si sa ráno cítil sviežo a oddýchnuto."
 publishDate: 2026-05-25
 category: Spánok
 readingTime: 12

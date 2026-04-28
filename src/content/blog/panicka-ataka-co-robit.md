@@ -1,6 +1,6 @@
 ---
 title: "Panická ataka: čo robiť počas a ako sa pripraviť na ďalšiu"
-description: "panická ataka čo robiť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zažili ste panickú ataku a neviete, čo robiť? Naučte sa jednoduché kroky, ako sa pripraviť na ďalšiu a získať kontrolu nad svojím prežívaním."
 publishDate: 2026-04-29
 category: Úzkosť
 readingTime: 11

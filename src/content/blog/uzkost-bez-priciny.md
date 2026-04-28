@@ -1,6 +1,6 @@
 ---
 title: "Úzkosť bez príčiny: prečo telo niekedy „vystrelí“ bez zjavného dôvodu"
-description: "úzkosť bez príčiny: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa niekedy úzkostne bez zjavného dôvodu? Zistite, prečo vaše telo reaguje takto a ako nad tým získať kontrolu."
 publishDate: 2026-06-05
 category: Úzkosť
 readingTime: 12

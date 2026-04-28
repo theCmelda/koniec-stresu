@@ -1,6 +1,6 @@
 ---
 title: "Cirkadiánny rytmus: prečo svetlo ráno mení tvoj spánok večer"
-description: "cirkadiánny rytmus: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Predstav si, že ranné svetlo môže zlepšiť tvoj spánok večer. Objav, ako cirkadiánny rytmus ovplyvňuje tvoju energiu počas celého dňa."
 publishDate: 2026-05-27
 category: Spánok
 readingTime: 12

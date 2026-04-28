@@ -1,6 +1,6 @@
 ---
 title: "Ako znížiť kortizol prirodzene: prečo ti vysoký kortizol ničí výkon"
-description: "ako znížiť kortizol: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zlepši si svoj deň: Zisti, ako prirodzene znížiť kortizol a získať späť kontrolu nad svojou energiou a výkonom. Odhaľ jednoduché spôsoby, ktoré naozaj fungujú."
 publishDate: 2026-05-13
 category: Stres
 readingTime: 12

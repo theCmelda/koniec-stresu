@@ -1,6 +1,6 @@
 ---
 title: "Overthinking: ako zastaviť myseľ, ktorá sa nezastaví sama"
-description: "overthinking ako prestať: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Unavený z neustáleho premýšľania? Objav jednoduché spôsoby, ako ukľudniť myseľ, ktorá sa nevie sama zastaviť. Zasiahni proti overthinkingu."
 publishDate: 2026-05-03
 category: Stres
 readingTime: 11

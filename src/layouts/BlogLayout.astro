@@ -25,20 +25,93 @@ const initials = data.author
   .join('')
   .toUpperCase();
 
+const slug = entry.id.replace(/\.md$/, '');
+const articleUrl = new URL(`/blog/${slug}`, Astro.site).toString();
+const ogImageUrl = new URL('/og-default.jpg', Astro.site).toString();
+
 const articleSchema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: data.title,
   description: data.description,
-  author: { '@type': 'Person', name: data.author },
+  image: ogImageUrl,
+  url: articleUrl,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': articleUrl },
+  author: {
+    '@type': 'Person',
+    name: data.author,
+    url: new URL('/o-mne', Astro.site).toString(),
+  },
+  inLanguage: 'sk-SK',
   datePublished: data.publishDate.toISOString(),
-  ...(data.updatedDate && { dateModified: data.updatedDate.toISOString() }),
+  dateModified: (data.updatedDate ?? data.publishDate).toISOString(),
+  articleSection: data.category,
+  keywords: (data.keywords ?? []).join(', '),
   publisher: {
     '@type': 'Organization',
     name: 'Koniec Stresu',
+    url: Astro.site?.toString(),
     logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', Astro.site).toString() },
   },
 };
+
+// Breadcrumbs: Home → Všetky články → category → article
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Domov', item: new URL('/', Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name: 'Všetky články', item: new URL('/blog', Astro.site).toString() },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: data.category,
+      item: new URL(`/blog#${encodeURIComponent(data.category)}`, Astro.site).toString(),
+    },
+    { '@type': 'ListItem', position: 4, name: data.title, item: articleUrl },
+  ],
+};
+
+// Auto-extract FAQ pairs from "Časté otázky" section in markdown body.
+// Pattern: ## Časté otázky → ### Q? → answer paragraphs → ### next Q? → ...
+function extractFaq(body: string) {
+  const sectionMatch = body.match(/##\s+Časté otázky\s*\n([\s\S]*?)(?=\n##\s+|\Z)/);
+  if (!sectionMatch) return [];
+  const section = sectionMatch[1];
+  const pairs: { question: string; answer: string }[] = [];
+  const qaRegex = /^###\s+(.+?)$([\s\S]*?)(?=^###\s+|\Z)/gm;
+  let m: RegExpExecArray | null;
+  while ((m = qaRegex.exec(section)) !== null) {
+    const question = m[1].trim();
+    // Strip blank lines + reduce to plain text (drop markdown emphasis, links)
+    const answer = m[2]
+      .trim()
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .replace(/\*\*([^*]+)\*\*/g, '$1')
+      .replace(/\*([^*]+)\*/g, '$1')
+      .replace(/\n{2,}/g, ' ')
+      .replace(/\n/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (question && answer.length > 10) {
+      pairs.push({ question, answer });
+    }
+  }
+  return pairs;
+}
+
+const faqPairs = extractFaq(entry.body);
+const faqSchema = faqPairs.length > 0
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqPairs.map((p) => ({
+        '@type': 'Question',
+        name: p.question,
+        acceptedAnswer: { '@type': 'Answer', text: p.answer },
+      })),
+    }
+  : null;
 ---
 
 <BaseLayout
@@ -50,6 +123,10 @@ const articleSchema = {
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    {faqSchema && (
+      <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )}
   </Fragment>
 
   <header class="hero">

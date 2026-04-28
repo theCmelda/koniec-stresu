@@ -1,6 +1,6 @@
 ---
 title: "Sociálna úzkosť: ako prežiť networking, oslavu a prezentáciu"
-description: "sociálna úzkosť: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa nervózny pri stretnutiach s ľuďmi? Objav, ako zvládnuť sociálnu úzkosť pri networkingu, oslavách či prezentáciách bez stresu."
 publishDate: 2026-06-06
 category: Úzkosť
 readingTime: 12

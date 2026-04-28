@@ -1,6 +1,6 @@
 ---
 title: "Syndróm vyhorenia: 9 znakov, ktoré nemôžeš ignorovať"
-description: "syndróm vyhorenia: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa vyčerpaný a bez motivácie? Syndróm vyhorenia môže byť za dverami. Spoznaj 9 znakov, ktoré ti pomôžu včas rozpoznať tento stav."
 publishDate: 2026-05-06
 category: Stres
 readingTime: 11

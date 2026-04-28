@@ -1,6 +1,6 @@
 ---
 title: "Spánková hygiena, ktorá má najväčší efekt: zoznam priorít"
-description: "spánková hygiena: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa unavení aj po celonočnom spánku? Objavte, ako môže správna spánková hygiena zlepšiť váš odpočinok a energiu počas dňa."
 publishDate: 2026-05-24
 category: Spánok
 readingTime: 12

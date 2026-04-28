@@ -1,6 +1,6 @@
 ---
 title: Objav svoj skutočný dôvod (WHY framework)
-description: "skutočný dôvod prečo: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zmeň svoj pohľad na život: Objav, čo ťa skutočne motivuje a prečo je dôležité poznať svoj vnútorný dôvod, ktorý ťa posúva vpred."
 publishDate: 2026-07-03
 category: Transformácia
 readingTime: 12

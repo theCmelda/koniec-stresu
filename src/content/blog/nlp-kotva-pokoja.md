@@ -1,6 +1,6 @@
 ---
 title: "NLP kotva pokoja: ako si zapnúť pokoj na povel"
-description: "NLP kotva pokoja: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Už vás unavuje chaos a stres? Objavte NLP kotvu pokoja a naučte sa, ako si navodiť pokoj na povel, keď to najviac potrebujete."
 publishDate: 2026-05-10
 category: Stres
 readingTime: 11

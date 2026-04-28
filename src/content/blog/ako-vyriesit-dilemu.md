@@ -1,6 +1,6 @@
 ---
 title: Ako vyriešiť dilemu cez „older self“ rámec
-description: "ako vyriešiť dilemu: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zamýšľate sa nad dôležitým rozhodnutím? Objavte, ako vám perspektíva vášho staršieho ja môže pomôcť vyriešiť dilemu s pokojom a jasnosťou."
 publishDate: 2026-06-22
 category: Mentálna výkonnosť
 readingTime: 12

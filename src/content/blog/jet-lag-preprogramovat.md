@@ -1,6 +1,6 @@
 ---
 title: "Jet lag: ako sa preprogramovať za 3 dni (namiesto týždňa)"
-description: "jet lag: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa vyčerpaní po dlhom lete? Objavte, ako rýchlo zvládnuť jet lag a preprogramovať svoje telo za tri dni bez zbytočných komplikácií."
 publishDate: 2026-05-29
 category: Spánok
 readingTime: 12

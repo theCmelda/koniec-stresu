@@ -1,6 +1,6 @@
 ---
 title: "Phone detox: dotyk telefónu ako útek pred prácou"
-description: "phone detox: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Unavený z neustáleho kontrolovania telefónu? Zistite, ako môže phone detox priniesť viac pokoja do vášho dňa a uvoľniť čas na dôležité veci."
 publishDate: 2026-06-23
 category: Mentálna výkonnosť
 readingTime: 12

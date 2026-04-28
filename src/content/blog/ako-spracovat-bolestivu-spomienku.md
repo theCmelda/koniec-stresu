@@ -1,6 +1,6 @@
 ---
 title: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
-description: "ako sa zbaviť bolestivej spomienky: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zaži úľavu od minulosti: Nauč sa, ako spracovať bolestivú spomienku a získať vnútorný pokoj. Objav, čo môže pomôcť zmierniť tvoju bolesť."
 publishDate: 2026-05-08
 category: Transformácia
 readingTime: 11

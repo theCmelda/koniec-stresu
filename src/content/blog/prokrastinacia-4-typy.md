@@ -1,6 +1,6 @@
 ---
 title: "Prokrastinácia nie je lenivosť: 4 typy a ako ich rozdielne riešiť"
-description: "prokrastinácia: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Zastavte odkladanie úloh a objavte, ako sa zbaviť prokrastinácie. Naučte sa rozpoznať štyri typy a nájdite efektívne riešenia pre každý z nich."
 publishDate: 2026-06-15
 category: Mentálna výkonnosť
 readingTime: 12

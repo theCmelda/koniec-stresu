@@ -1,6 +1,6 @@
 ---
 title: "Po 30 dňoch: ako si udržať pokoj navždy"
-description: "po 30 dňoch transformácia: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Predstav si, že pokoj je tvojím spoločníkom každý deň: udrž si harmóniu aj po 30 dňoch a objav, ako môže byť pokoj tvojou súčasťou navždy."
 publishDate: 2026-07-05
 category: Transformácia
 readingTime: 12

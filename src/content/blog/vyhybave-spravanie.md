@@ -1,6 +1,6 @@
 ---
 title: "Vyhýbavé správanie: ako úzkosť tichom kradne tvoj život"
-description: "vyhýbavé správanie: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš, že ťa úzkosť obmedzuje? Zisti, ako vyhýbavé správanie ovplyvňuje tvoj každodenný život a nauč sa kroky na získanie väčšej slobody."
 publishDate: 2026-06-10
 category: Úzkosť
 readingTime: 12

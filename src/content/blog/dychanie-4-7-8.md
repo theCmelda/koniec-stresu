@@ -1,6 +1,6 @@
 ---
 title: "Dýchanie 4-7-8: technika, ktorá za minútu prepne nervový systém"
-description: "dýchanie 4-7-8: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa preťažený a potrebujete rýchlo uvoľniť napätie? Objavte dýchanie 4-7-8 a zažite okamžitú zmenu v nervovom systéme."
 publishDate: 2026-05-04
 category: Stres
 readingTime: 11

@@ -1,6 +1,6 @@
 ---
 title: "Stres ti drží v ramenách a čeľusti: 4 telové uvoľnenia"
-description: "stres v ramenách: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš napätie v ramenách a čeľusti? Objav jednoduché uvoľnenia, ktoré ti pomôžu zmierniť stres a získať pocit pokoja a uvoľnenia."
 publishDate: 2026-05-19
 category: Stres
 readingTime: 12

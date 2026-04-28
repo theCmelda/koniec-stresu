@@ -1,6 +1,6 @@
 ---
 title: "Úzkosť: ako rozpoznať príznaky a kedy je čas na pomoc"
-description: "úzkosť príznaky: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítite sa neustále napätí či znepokojení? Naučte sa rozoznať príznaky úzkosti a zistite, kedy je vhodné požiadať o pomoc."
 publishDate: 2026-05-02
 category: Úzkosť
 readingTime: 11

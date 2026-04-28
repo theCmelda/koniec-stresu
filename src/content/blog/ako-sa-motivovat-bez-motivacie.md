@@ -1,6 +1,6 @@
 ---
 title: "Ako sa motivovať keď niet motivácie: systém je silnejší ako pocit"
-description: "ako sa motivovať: praktický návod krok za krokom. Konkrétne techniky, vedecké pozadie, osobný príbeh."
+description: "Cítiš sa bez motivácie a nevieš, ako začať? Objav silu systému, ktorý ťa povzbudí konať aj vtedy, keď sa ti nechce."
 publishDate: 2026-06-18
 category: Mentálna výkonnosť
 readingTime: 12
