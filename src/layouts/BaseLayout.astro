@@ -70,6 +70,9 @@ const ogImage = new URL(image, Astro.site).toString();
   <!-- Sitemap -->
   <link rel="sitemap" href="/sitemap-index.xml" />
 
+  <!-- Cloudflare Web Analytics (privacy-first, cookieless, GDPR-friendly) -->
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6474d7a765c1473c82391ef9957dddeb"}'></script>
+
   <slot name="head" />
 </head>
 <body>
