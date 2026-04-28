@@ -1,0 +1,185 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+const suggestions = allPosts.slice(0, 4);
+---
+
+<BaseLayout
+  title="Stránka neexistuje — Koniec Stresu"
+  description="Táto stránka neexistuje. Zatiaľ sa nadýchni a vrátim ťa na pevnú zem."
+  noIndex={true}
+>
+  <section class="nf-wrap">
+    <div class="nf-card">
+      <p class="nf-eyebrow">404</p>
+      <h1 class="nf-title">Tu sa <em>stratila</em> stránka.</h1>
+      <p class="nf-deck">
+        Možno si klikol na starý odkaz alebo som ju prepísal. Vydýchni a vyber si jedno z toho, čo ľudia teraz čítajú najviac.
+      </p>
+
+      <div class="nf-actions">
+        <a href="/" class="nf-btn-primary">Späť na úvod</a>
+        <a href="/blog" class="nf-btn-secondary">Všetky články</a>
+      </div>
+    </div>
+
+    {suggestions.length > 0 && (
+      <div class="nf-suggestions">
+        <h2 class="nf-sugg-title">Začni tu</h2>
+        <ul class="nf-list">
+          {suggestions.map((p) => (
+            <li>
+              <a href={`/blog/${p.id.replace(/\.md$/, '')}`}>
+                <span class="nf-cat">{p.data.category}</span>
+                <span class="nf-headline">{p.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </section>
+
+  <style>
+    .nf-wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 80px 24px 96px;
+    }
+    .nf-card {
+      text-align: center;
+      padding: 0 0 48px;
+    }
+    .nf-eyebrow {
+      font-family: var(--display);
+      font-style: italic;
+      font-size: 18px;
+      color: var(--terracotta);
+      letter-spacing: 0.18em;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+    }
+    .nf-title {
+      font-family: var(--display);
+      font-size: clamp(40px, 6vw, 64px);
+      line-height: 1.05;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      margin-bottom: 22px;
+      color: var(--ink);
+    }
+    .nf-title em {
+      font-style: italic;
+      color: var(--terracotta);
+    }
+    .nf-deck {
+      font-size: 19px;
+      line-height: 1.5;
+      color: var(--soft);
+      max-width: 520px;
+      margin: 0 auto 36px;
+    }
+    .nf-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .nf-btn-primary,
+    .nf-btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      padding: 14px 26px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+      transition: transform 0.15s, background 0.2s;
+    }
+    .nf-btn-primary {
+      background: var(--ink);
+      color: var(--paper);
+      border: 1px solid var(--ink);
+    }
+    .nf-btn-primary:hover {
+      background: var(--terracotta);
+      border-color: var(--terracotta);
+      transform: translateY(-1px);
+    }
+    .nf-btn-secondary {
+      background: var(--paper);
+      color: var(--ink);
+      border: 1px solid var(--rule);
+    }
+    .nf-btn-secondary:hover {
+      border-color: var(--terracotta);
+      color: var(--terracotta-deep);
+    }
+
+    .nf-suggestions {
+      margin-top: 48px;
+      padding-top: 40px;
+      border-top: 1px solid var(--rule);
+    }
+    .nf-sugg-title {
+      font-family: var(--display);
+      font-size: 22px;
+      font-weight: 500;
+      font-style: italic;
+      text-align: center;
+      margin-bottom: 24px;
+      color: var(--ink);
+    }
+    .nf-list {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      gap: 12px;
+    }
+    .nf-list a {
+      display: grid;
+      grid-template-columns: 110px 1fr;
+      gap: 16px;
+      align-items: baseline;
+      padding: 16px 20px;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 16px;
+      text-decoration: none;
+      color: var(--ink);
+      transition: border-color 0.15s, transform 0.15s;
+    }
+    .nf-list a:hover {
+      border-color: var(--terracotta);
+      transform: translateY(-1px);
+    }
+    .nf-cat {
+      font-size: 12px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--terracotta-deep);
+      font-weight: 600;
+    }
+    .nf-headline {
+      font-family: var(--display);
+      font-size: 17px;
+      line-height: 1.3;
+      color: var(--ink);
+      font-weight: 500;
+    }
+
+    @media (max-width: 600px) {
+      .nf-wrap {
+        padding: 56px 20px 72px;
+      }
+      .nf-list a {
+        grid-template-columns: 1fr;
+        gap: 6px;
+      }
+    }
+  </style>
+</BaseLayout>
