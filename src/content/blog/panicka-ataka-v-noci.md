@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Panická ataka v noci: prečo sa budíš s búchajúcim srdcom"
 description: "Prebuď sa v pokoji: Zisti, čo robiť, keď ťa v noci prepadne panická ataka a srdce búši. Objav spôsoby, ako si dopriať pokojný spánok."
 publishDate: 2026-06-08

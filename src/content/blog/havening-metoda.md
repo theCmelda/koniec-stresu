@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Havening metóda: ako sa upokojiť za 3 minúty pomocou jemného dotyku"
 description: Havening metóda ti ukáže, ako sa upokojiť za 3 minúty pomocou jemného dotyku, dychu a jednoduchého návodu doma.
 publishDate: 2026-04-26

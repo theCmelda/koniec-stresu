@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Ako spracovať bolestivú spomienku, ktorá ťa stále bolí
 description: "Zaži úľavu od minulosti: Nauč sa, ako spracovať bolestivú spomienku a získať vnútorný pokoj. Objav, čo môže pomôcť zmierniť tvoju bolesť."
 publishDate: 2026-05-08

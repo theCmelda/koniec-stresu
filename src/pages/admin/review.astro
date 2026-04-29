@@ -1,0 +1,418 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getSupabaseAdmin } from '../../lib/supabase';
+import { isValidCookie, ADMIN_COOKIE } from '../../lib/admin';
+
+const cookieValue = Astro.cookies.get(ADMIN_COOKIE)?.value;
+if (!isValidCookie(cookieValue)) {
+  return Astro.redirect('/admin/login?next=/admin/review', 303);
+}
+
+// The 6 HIGH-risk articles flagged by the brand-safety audit.
+// Slug → short summary of the audit findings (paraphrased — for context).
+const RISKY: { slug: string; severity: 'HIGH'; reasons: string[] }[] = [
+  {
+    slug: 'nedela-vecer-panika',
+    severity: 'HIGH',
+    reasons: [
+      'Tvrdí "stres spôsobuje rakovinu" — bez evidencie',
+      '"Nepotrebujete psychológa" — odrádza od odbornej pomoci',
+      '"Ja som ten, kto vás zachráni" — guru voice',
+    ],
+  },
+  {
+    slug: 'panicka-ataka-v-noci',
+    severity: 'HIGH',
+    reasons: [
+      'Odporúča hypnotické nahrávky pri panickej atake',
+      'Vyzýva čitateľa opustiť štandardnú lekársku starostlivosť',
+      'Sebavzdelávanie nervovej sústavy ako náhrada terapie',
+    ],
+  },
+  {
+    slug: 'spanok-s-partnerom-ktory-chrapne',
+    severity: 'HIGH',
+    reasons: [
+      'Medical claim o spánkovom apnoe bez kontextu',
+      'Prescriptívne odporúčania o spánku bez konzultácie',
+    ],
+  },
+  {
+    slug: 'havening-metoda',
+    severity: 'HIGH',
+    reasons: [
+      'Pseudoveda o delta vlnách + jemný dotyk → mozog',
+      'Medical claim o liečbe stresu bez evidencie',
+      'Sebavedomé "návod na úzkosť"',
+    ],
+  },
+  {
+    slug: 'ako-spracovat-bolestivu-spomienku',
+    severity: 'HIGH',
+    reasons: [
+      'Trauma claims podávané ako fakt',
+      'Neuroplasticita ako záruka liečby bez vedeckého podkladu',
+      'Polyvagal teória prezentovaná ako overený fakt',
+    ],
+  },
+  {
+    slug: 'ako-sa-upokojit-za-60-sekund',
+    severity: 'HIGH',
+    reasons: [
+      'Polyvagal teória ako fakt',
+      'Implikuje že 30-day program rieši chronický stres',
+      'Behavioral changes bez profesionálneho vedenia',
+    ],
+  },
+];
+
+// Pull all blog entries (including drafts), match risky slugs.
+const all = await getCollection('blog');
+const articles = await Promise.all(
+  RISKY.map(async (r) => {
+    const entry = all.find((e) => e.id.replace(/\.md$/, '') === r.slug);
+    if (!entry) return null;
+    const { Content } = await entry.render();
+    return { meta: r, entry, Content };
+  }),
+);
+
+// Pull all previously saved feedback rows
+let prevFeedback: Record<string, { feedback: string; created_at: string }[]> = {};
+try {
+  const supabase = getSupabaseAdmin();
+  const { data } = await supabase
+    .from('admin_feedback')
+    .select('slug, feedback, created_at')
+    .order('created_at', { ascending: false });
+  if (data) {
+    for (const row of data) {
+      const k = row.slug;
+      if (!prevFeedback[k]) prevFeedback[k] = [];
+      prevFeedback[k].push({ feedback: row.feedback, created_at: row.created_at });
+    }
+  }
+} catch (e) {
+  console.error('[REVIEW] feedback fetch failed', e);
+}
+---
+
+<BaseLayout title="Admin · Review rizikových článkov" description="Súkromné" noIndex={true}>
+  <section class="rev-wrap">
+    <header class="rev-head">
+      <span class="rev-eyebrow">Súkromný admin</span>
+      <h1>Review rizikových článkov</h1>
+      <p class="rev-deck">
+        Týchto 6 článkov je momentálne <strong>draft</strong> — nie sú dostupné verejne ani v sitemape. Prečítaj si plnú verziu, napíš feedback v políčku pod každým, klikni "Uložiť feedback". Potom mi feedback prepošli a ja prepíšem články.
+      </p>
+    </header>
+
+    {articles.map((a, i) => a && (
+      <article class="rev-art" id={`art-${a.meta.slug}`}>
+        <div class="rev-art-meta">
+          <span class="rev-num">{i + 1} / {articles.length}</span>
+          <span class={`rev-badge sev-${a.meta.severity}`}>{a.meta.severity} risk</span>
+          <span class="rev-slug"><code>{a.meta.slug}</code></span>
+          <a class="rev-link" href={`/blog/${a.meta.slug}`} target="_blank" rel="noopener">Otvoriť priamo (404 verejne, 200 s adminom)</a>
+        </div>
+
+        <h2 class="rev-art-title">{a.entry.data.title}</h2>
+        <p class="rev-art-desc">{a.entry.data.description}</p>
+
+        <details class="rev-reasons" open>
+          <summary>Audit findings ({a.meta.reasons.length})</summary>
+          <ul>
+            {a.meta.reasons.map((r) => <li>{r}</li>)}
+          </ul>
+        </details>
+
+        <details class="rev-content">
+          <summary>Plný text článku</summary>
+          <div class="rev-md prose">
+            <a.Content />
+          </div>
+        </details>
+
+        <div class="rev-feedback" data-slug={a.meta.slug}>
+          <h3>Tvoj feedback</h3>
+          <p class="rev-feedback-hint">
+            Napíš čo prepísať, vyhodiť, alebo nechať. Po uložení si môžeš zobraziť všetky tvoje predošlé poznámky nižšie.
+          </p>
+          <textarea
+            class="rev-textarea"
+            data-slug={a.meta.slug}
+            placeholder="Napr. „Vyhoď tvrdenie o rakovine. Sekciu o psychológovi prepíš na 'odbornú pomoc nikdy neodrádzam'. Guru tone preč. Ostatok je OK."
+          ></textarea>
+          <div class="rev-actions">
+            <button class="rev-save-btn" type="button" data-slug={a.meta.slug}>Uložiť feedback</button>
+            <span class="rev-save-status" data-slug={a.meta.slug}></span>
+          </div>
+
+          {prevFeedback[a.meta.slug] && prevFeedback[a.meta.slug].length > 0 && (
+            <details class="rev-prev">
+              <summary>Predchádzajúce poznámky ({prevFeedback[a.meta.slug].length})</summary>
+              <ol class="rev-prev-list">
+                {prevFeedback[a.meta.slug].map((p) => (
+                  <li>
+                    <time>{new Date(p.created_at).toLocaleString('sk-SK')}</time>
+                    <pre>{p.feedback}</pre>
+                  </li>
+                ))}
+              </ol>
+            </details>
+          )}
+        </div>
+      </article>
+    ))}
+
+    <footer class="rev-foot">
+      <p>Keď máš všetkých 6 hotových, prepošli mi obsah z týchto textareí v chate a prepíšem články.</p>
+    </footer>
+  </section>
+
+  <script>
+    document.querySelectorAll<HTMLButtonElement>('.rev-save-btn').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const slug = btn.dataset.slug ?? '';
+        const ta = document.querySelector<HTMLTextAreaElement>(`textarea.rev-textarea[data-slug="${slug}"]`);
+        const status = document.querySelector<HTMLSpanElement>(`.rev-save-status[data-slug="${slug}"]`);
+        if (!ta || !status) return;
+        const feedback = ta.value.trim();
+        if (!feedback) {
+          status.textContent = 'Najprv napíš poznámku.';
+          status.className = 'rev-save-status err';
+          return;
+        }
+        btn.disabled = true;
+        const orig = btn.textContent;
+        btn.textContent = 'Posielam…';
+        status.textContent = '';
+        try {
+          const r = await fetch('/api/admin-feedback', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            credentials: 'include',
+            body: JSON.stringify({ slug, feedback }),
+          });
+          if (r.ok) {
+            status.textContent = 'Uložené.';
+            status.className = 'rev-save-status ok';
+          } else {
+            const data = await r.json().catch(() => ({}));
+            status.textContent = `Chyba: ${data.error ?? r.status}`;
+            status.className = 'rev-save-status err';
+          }
+        } catch {
+          status.textContent = 'Sieťová chyba.';
+          status.className = 'rev-save-status err';
+        } finally {
+          btn.disabled = false;
+          btn.textContent = orig ?? 'Uložiť feedback';
+        }
+      });
+    });
+  </script>
+
+  <style>
+    .rev-wrap {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 64px 24px 96px;
+    }
+    .rev-head {
+      text-align: center;
+      margin-bottom: 56px;
+      padding-bottom: 32px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .rev-eyebrow {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--terracotta-deep);
+    }
+    .rev-head h1 {
+      font-family: var(--display);
+      font-size: clamp(32px, 5vw, 48px);
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      margin: 14px 0 12px;
+    }
+    .rev-deck {
+      color: var(--soft);
+      max-width: 580px;
+      margin: 0 auto;
+      font-size: 16px;
+      line-height: 1.55;
+    }
+
+    .rev-art {
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 22px;
+      padding: 32px;
+      margin-bottom: 28px;
+    }
+    .rev-art-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      font-size: 12px;
+      margin-bottom: 16px;
+    }
+    .rev-num {
+      font-family: var(--display);
+      font-style: italic;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .rev-badge {
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-size: 11px;
+    }
+    .sev-HIGH { background: #f2c0ae; color: #6a2b1a; }
+    .rev-slug code {
+      background: var(--cream);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 12px;
+      color: var(--terracotta-deep);
+    }
+    .rev-link {
+      margin-left: auto;
+      color: var(--soft);
+      font-size: 12px;
+      text-decoration: underline;
+    }
+    .rev-art-title {
+      font-family: var(--display);
+      font-size: 28px;
+      font-weight: 500;
+      letter-spacing: -0.015em;
+      line-height: 1.15;
+      margin-bottom: 8px;
+    }
+    .rev-art-desc {
+      color: var(--soft);
+      margin-bottom: 18px;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    details {
+      background: var(--cream);
+      border: 1px solid var(--rule);
+      border-radius: 14px;
+      padding: 12px 18px;
+      margin: 14px 0;
+    }
+    details summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--ink);
+      font-size: 14px;
+    }
+    .rev-reasons ul { margin: 12px 0 0; padding-left: 20px; }
+    .rev-reasons li { margin-bottom: 4px; color: var(--soft); font-size: 14px; }
+
+    .rev-content { padding: 0; }
+    .rev-content > summary { padding: 12px 18px; }
+    .rev-md {
+      padding: 12px 22px 22px;
+      max-height: 480px;
+      overflow: auto;
+      background: var(--paper);
+      border-top: 1px solid var(--rule);
+      border-radius: 0 0 14px 14px;
+    }
+    .rev-md h2 { font-size: 22px; margin-top: 18px; }
+    .rev-md h3 { font-size: 17px; margin-top: 14px; }
+
+    .rev-feedback {
+      margin-top: 18px;
+      padding-top: 18px;
+      border-top: 1px solid var(--rule);
+    }
+    .rev-feedback h3 {
+      font-family: var(--display);
+      font-style: italic;
+      font-size: 18px;
+      margin-bottom: 6px;
+    }
+    .rev-feedback-hint { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+    .rev-textarea {
+      width: 100%;
+      min-height: 120px;
+      background: var(--cream);
+      border: 1px solid var(--rule);
+      border-radius: 12px;
+      padding: 14px 16px;
+      font-family: var(--sans);
+      font-size: 14.5px;
+      color: var(--ink);
+      outline: none;
+      resize: vertical;
+    }
+    .rev-textarea:focus { border-color: var(--terracotta); background: var(--paper); }
+
+    .rev-actions {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-top: 10px;
+    }
+    .rev-save-btn {
+      background: var(--ink);
+      color: var(--paper);
+      border: 0;
+      padding: 12px 18px;
+      border-radius: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 14px;
+      font-family: var(--sans);
+      transition: background 0.2s, transform 0.15s;
+    }
+    .rev-save-btn:hover:not(:disabled) { background: var(--terracotta); transform: translateY(-1px); }
+    .rev-save-btn:disabled { opacity: 0.6; cursor: progress; }
+    .rev-save-status { font-size: 13px; }
+    .rev-save-status.ok { color: #2a6f1a; }
+    .rev-save-status.err { color: #b85a3e; }
+
+    .rev-prev { margin-top: 14px; }
+    .rev-prev-list { list-style: none; padding: 0; margin: 12px 0 0; display: flex; flex-direction: column; gap: 10px; }
+    .rev-prev-list li {
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      padding: 10px 14px;
+    }
+    .rev-prev-list time { font-size: 12px; color: var(--muted); display: block; margin-bottom: 6px; }
+    .rev-prev-list pre {
+      white-space: pre-wrap;
+      font-family: var(--sans);
+      font-size: 13.5px;
+      color: var(--ink);
+      margin: 0;
+    }
+
+    .rev-foot {
+      margin-top: 32px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 600px) {
+      .rev-art { padding: 22px; }
+      .rev-link { margin-left: 0; }
+    }
+  </style>
+</BaseLayout>

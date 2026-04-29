@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const error = Astro.url.searchParams.get('error') === '1';
+---
+
+<BaseLayout title="Admin login" description="Súkromný prístup" noIndex={true}>
+  <section class="adm-wrap">
+    <div class="adm-card">
+      <p class="adm-eyebrow">Súkromný prístup</p>
+      <h1 class="adm-title">Daniel <em>only.</em></h1>
+      <p class="adm-deck">Login pre review rizikových článkov + iný admin obsah.</p>
+
+      {error && <div class="adm-error">Nesprávne heslo. Skús ešte raz.</div>}
+
+      <form id="adm-form" novalidate>
+        <input type="password" id="adm-password" placeholder="Heslo" autocomplete="off" autofocus required />
+        <button type="submit" id="adm-btn">Vstúpiť</button>
+      </form>
+    </div>
+  </section>
+
+  <script>
+    const form = document.getElementById('adm-form') as HTMLFormElement;
+    const btn = document.getElementById('adm-btn') as HTMLButtonElement;
+    const pwInput = document.getElementById('adm-password') as HTMLInputElement;
+    const next = new URLSearchParams(location.search).get('next') ?? '/admin/review';
+
+    form.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      btn.disabled = true;
+      btn.textContent = 'Overujem…';
+      try {
+        const r = await fetch('/api/admin-login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: JSON.stringify({ password: pwInput.value }),
+        });
+        if (r.ok) {
+          location.assign(next);
+        } else {
+          location.assign('/admin/login?error=1');
+        }
+      } catch {
+        location.assign('/admin/login?error=1');
+      }
+    });
+  </script>
+
+  <style>
+    .adm-wrap {
+      min-height: 70vh;
+      display: grid;
+      place-items: center;
+      padding: 64px 24px;
+    }
+    .adm-card {
+      max-width: 420px;
+      width: 100%;
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 22px;
+      padding: 36px 32px;
+      box-shadow: 0 30px 60px -20px rgba(217, 119, 87, 0.18);
+    }
+    .adm-eyebrow {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--terracotta-deep);
+      margin-bottom: 14px;
+    }
+    .adm-title {
+      font-family: var(--display);
+      font-size: 36px;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+      margin-bottom: 8px;
+    }
+    .adm-title em { font-style: italic; color: var(--terracotta); }
+    .adm-deck {
+      color: var(--soft);
+      font-size: 15px;
+      margin-bottom: 24px;
+    }
+    .adm-error {
+      background: #f9d4c2;
+      color: #6a2b1a;
+      border: 1px solid var(--rose);
+      padding: 10px 14px;
+      border-radius: 12px;
+      font-size: 13px;
+      margin-bottom: 16px;
+    }
+    form { display: flex; flex-direction: column; gap: 10px; }
+    input {
+      background: var(--cream);
+      border: 1px solid var(--rule);
+      border-radius: 12px;
+      padding: 14px 18px;
+      font-size: 15px;
+      font-family: var(--sans);
+      color: var(--ink);
+      outline: none;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    input:focus { border-color: var(--terracotta); background: var(--paper); }
+    button {
+      background: var(--ink);
+      color: var(--paper);
+      border: 0;
+      border-radius: 12px;
+      padding: 14px 22px;
+      font-weight: 600;
+      font-size: 15px;
+      cursor: pointer;
+      font-family: var(--sans);
+      transition: background 0.2s, transform 0.15s;
+    }
+    button:hover:not(:disabled) { background: var(--terracotta); transform: translateY(-1px); }
+    button:disabled { opacity: 0.6; cursor: progress; }
+  </style>
+</BaseLayout>

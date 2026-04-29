@@ -35,10 +35,46 @@ const year = new Date().getFullYear();
       </div>
     </div>
 
+    <aside class="disclaimer" aria-labelledby="disclaimer-title">
+      <p class="disclaimer-title" id="disclaimer-title">Dôležité upozornenie</p>
+      <p class="disclaimer-body">
+        Obsah na tejto stránke je <strong>vzdelávací a informačný</strong>. Nenahrádza odbornú lekársku, psychologickú ani psychiatrickú pomoc. Ak máš diagnostikovaný stav, dlhodobo zhoršené príznaky alebo užívaš lieky, postup s lekárom, nie podľa článku.
+      </p>
+      <p class="disclaimer-body">
+        <strong>Ak prežívaš krízu, máš myšlienky na sebapoškodenie alebo si v akútnom strese, ozvi sa odbornej linke pomoci:</strong>
+      </p>
+      <ul class="crisis-lines">
+        <li>
+          <span class="crisis-region">Slovensko</span>
+          <span class="crisis-name">Linka dôvery Nezábudka</span>
+          <a class="crisis-tel" href="tel:0800800566" aria-label="Volať 0800 800 566">0800 800 566</a>
+          <span class="crisis-meta">zadarmo, 24/7</span>
+        </li>
+        <li>
+          <span class="crisis-region">Česko</span>
+          <span class="crisis-name">Linka první psychické pomoci</span>
+          <a class="crisis-tel" href="tel:116123" aria-label="Volať 116 123">116 123</a>
+          <span class="crisis-meta">zadarmo, 24/7</span>
+        </li>
+        <li>
+          <span class="crisis-region">Núdza (SK + CZ)</span>
+          <span class="crisis-name">Záchranná zložka</span>
+          <a class="crisis-tel" href="tel:112" aria-label="Volať 112">112</a>
+          <span class="crisis-meta">24/7</span>
+        </li>
+        <li>
+          <span class="crisis-region">Deti a mladiství</span>
+          <span class="crisis-name">Linka detskej istoty</span>
+          <a class="crisis-tel" href="tel:116111" aria-label="Volať 116 111">116 111</a>
+          <span class="crisis-meta">SK + CZ, zadarmo, 24/7</span>
+        </li>
+      </ul>
+    </aside>
+
     <div class="footer-bottom">
-      <p>&copy; {year} Daniel Jedlička. Všetky práva vyhradené.</p>
+      <p>&copy; {year} Daniel Jedlička · 365 ACADEMY OÜ. Všetky práva vyhradené.</p>
       <p class="footer-note">
-        Obsah na tejto stránke neslúži ako náhrada odbornej zdravotnej starostlivosti.
+        koniecstresu.sk je vzdelávací projekt. Nenahrádza odbornú zdravotnú starostlivosť.
       </p>
     </div>
   </div>
@@ -135,6 +171,94 @@ const year = new Date().getFullYear();
     font-style: italic;
     max-width: 480px;
     text-align: right;
+  }
+
+  /* Crisis-line disclaimer block */
+  .disclaimer {
+    background: linear-gradient(180deg, var(--cream), var(--paper));
+    border: 1px solid var(--rule);
+    border-radius: 18px;
+    padding: 26px 28px;
+    margin-bottom: 24px;
+  }
+  .disclaimer-title {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--terracotta-deep);
+    margin-bottom: 12px;
+    letter-spacing: -0.01em;
+  }
+  .disclaimer-body {
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--soft);
+    margin-bottom: 12px;
+  }
+  .disclaimer-body strong {
+    color: var(--ink);
+    font-weight: 600;
+  }
+  .crisis-lines {
+    list-style: none;
+    padding: 0;
+    margin: 14px 0 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px 24px;
+  }
+  .crisis-lines li {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas:
+      'region tel'
+      'name name'
+      'meta meta';
+    gap: 2px 12px;
+    align-items: baseline;
+    padding: 10px 12px;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    font-size: 13.5px;
+  }
+  .crisis-region {
+    grid-area: region;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--terracotta-deep);
+    font-weight: 700;
+  }
+  .crisis-tel {
+    grid-area: tel;
+    justify-self: end;
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--ink);
+    text-decoration: none;
+    letter-spacing: 0.02em;
+  }
+  .crisis-tel:hover {
+    color: var(--terracotta);
+  }
+  .crisis-name {
+    grid-area: name;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .crisis-meta {
+    grid-area: meta;
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  @media (max-width: 760px) {
+    .crisis-lines {
+      grid-template-columns: 1fr;
+    }
   }
 
   @media (max-width: 760px) {

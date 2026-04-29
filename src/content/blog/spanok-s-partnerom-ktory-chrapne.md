@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Spánok s partnerom, ktorý chrápe alebo sa hýbe: ako prežiť noc"
 description: "Zobudiť sa čerstvý vedľa chrápajúceho partnera nemusí byť nemožné. Objavte jednoduché tipy na lepší spánok a spoločnú noc bez stresu."
 publishDate: 2026-05-31
